@@ -7,11 +7,15 @@ class TrafficIntersectionEnv(gym.Env):
     def __init__(self):
         super(TrafficIntersectionEnv, self).__init__()
 
+        
         # Configuring
         self.num_lanes = 4  # N, E, S, W
         self.max_queue = 10
         self.yellow_duration = 3
         self.min_green_duration = 5
+        self.wait_time_log = []
+        self.signal_switch_log = []
+        self.unsafe_event_log = []
 
         # Encoding phases
         self.GREEN_NS = 0
@@ -61,8 +65,10 @@ class TrafficIntersectionEnv(gym.Env):
     def step(self, action):
         reward = 0
         done = False
+        cleared_cars = 0
+        cleared_peds = 0
 
-        # Arrival simulation (simple Bernoulli)
+        # --- Arrival Simulation ---
         for i in range(4):
             if np.random.rand() < 0.2 and len(self.car_queues[i]) < self.max_queue:
                 self.car_queues[i].append("car")
@@ -70,49 +76,67 @@ class TrafficIntersectionEnv(gym.Env):
             if np.random.rand() < 0.05 and len(self.ped_queues[i]) < self.max_queue:
                 self.ped_queues[i].append("ped")
 
-        # Computing waiting penalty
+        # --- Waiting penalties ---
         reward -= sum(len(q) for q in self.car_queues)
-        reward -= sum(len(q) for q in self.ped_queues)
+        reward -= 0.5 * sum(len(q) for q in self.ped_queues)
 
         switching = False
 
-        # Handling switching
+        # --- Handle switching logic ---
         if action == 1:
             if self.phase in [self.GREEN_NS, self.GREEN_EW] and self.phase_timer >= self.min_green_duration:
+                prev_phase = self.phase
                 self.phase = self.YELLOW_NS if self.phase == self.GREEN_NS else self.YELLOW_EW
                 self.phase_timer = 0
                 switching = True
+                self.signal_switch_log.append({
+                    'from': prev_phase,
+                    'to': self.phase,
+                    'time': self.total_steps
+                })
             else:
                 reward -= 10  # Penalty for switching too early
 
         elif self.phase in [self.YELLOW_NS, self.YELLOW_EW]:
             if self.phase_timer >= self.yellow_duration:
+                prev_phase = self.phase
                 self.phase = self.GREEN_EW if self.phase == self.YELLOW_NS else self.GREEN_NS
                 self.phase_timer = 0
 
-        # Movement logic
+        # --- Movement logic ---
         if self.phase == self.GREEN_NS:
             for i in [0, 2]:  # N, S
                 if self.car_queues[i]:
                     self.car_queues[i].pop(0)
+                    cleared_cars += 1
                     self.crossing_cars_timers[i].append(self.crossing_duration)
                 if self.ped_queues[i]:
                     self.ped_queues[i].pop(0)
+                    cleared_peds += 1
                     self.crossing_peds_timers[i].append(self.crossing_duration)
 
         elif self.phase == self.GREEN_EW:
             for i in [1, 3]:  # E, W
                 if self.car_queues[i]:
                     self.car_queues[i].pop(0)
+                    cleared_cars += 1
                     self.crossing_cars_timers[i].append(self.crossing_duration)
                 if self.ped_queues[i]:
                     self.ped_queues[i].pop(0)
+                    cleared_peds += 1
                     self.crossing_peds_timers[i].append(self.crossing_duration)
 
+        # --- Reward shaping ---
+        reward += 2 * cleared_cars
+        reward += 1 * cleared_peds
+        if all(len(q) < 3 for q in self.car_queues):
+            reward += 5
+        if any(len(q) > 7 for q in self.car_queues):
+            reward -= 10
         if switching:
-            reward -= 5  # Switching cost
+            reward -= 5
 
-        # Updating crossing timers
+        # --- Update timers ---
         for i in range(4):
             self.crossing_cars_timers[i] = [t - 1 for t in self.crossing_cars_timers[i] if t > 1]
             self.crossing_peds_timers[i] = [t - 1 for t in self.crossing_peds_timers[i] if t > 1]
@@ -120,6 +144,13 @@ class TrafficIntersectionEnv(gym.Env):
 
         self.phase_timer += 1
         self.total_steps += 1
+
+        # --- Log waits ---
+        self.wait_time_log.append({
+            'time': self.total_steps,
+            'car_waits': [len(q) for q in self.car_queues],
+            'ped_waits': [len(q) for q in self.ped_queues]
+        })
 
         return self._get_obs(), reward, done, {}
 
