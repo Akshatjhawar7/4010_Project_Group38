@@ -1,0 +1,4202 @@
+[
+  {
+    "episode": 1,
+    "reward": -1348.5,
+    "car_wait_avg": 5.05,
+    "ped_wait_avg": 1.205,
+    "signal_switches": 20
+  },
+  {
+    "episode": 2,
+    "reward": -2317.5,
+    "car_wait_avg": 8.675,
+    "ped_wait_avg": 1.355,
+    "signal_switches": 15
+  },
+  {
+    "episode": 3,
+    "reward": -2271.5,
+    "car_wait_avg": 8.745,
+    "ped_wait_avg": 2.635,
+    "signal_switches": 9
+  },
+  {
+    "episode": 4,
+    "reward": -1969.5,
+    "car_wait_avg": 7.95,
+    "ped_wait_avg": 1.49,
+    "signal_switches": 14
+  },
+  {
+    "episode": 5,
+    "reward": -922.0,
+    "car_wait_avg": 5.615,
+    "ped_wait_avg": 1.21,
+    "signal_switches": 18
+  },
+  {
+    "episode": 6,
+    "reward": -376.5,
+    "car_wait_avg": 4.27,
+    "ped_wait_avg": 0.81,
+    "signal_switches": 19
+  },
+  {
+    "episode": 7,
+    "reward": -1011.5,
+    "car_wait_avg": 6.14,
+    "ped_wait_avg": 0.735,
+    "signal_switches": 18
+  },
+  {
+    "episode": 8,
+    "reward": -706.0,
+    "car_wait_avg": 5.11,
+    "ped_wait_avg": 1.27,
+    "signal_switches": 18
+  },
+  {
+    "episode": 9,
+    "reward": -1512.0,
+    "car_wait_avg": 7.2,
+    "ped_wait_avg": 1.49,
+    "signal_switches": 16
+  },
+  {
+    "episode": 10,
+    "reward": -1181.0,
+    "car_wait_avg": 6.67,
+    "ped_wait_avg": 1.53,
+    "signal_switches": 17
+  },
+  {
+    "episode": 11,
+    "reward": -672.0,
+    "car_wait_avg": 4.73,
+    "ped_wait_avg": 1.22,
+    "signal_switches": 19
+  },
+  {
+    "episode": 12,
+    "reward": -29.5,
+    "car_wait_avg": 3.29,
+    "ped_wait_avg": 1.075,
+    "signal_switches": 21
+  },
+  {
+    "episode": 13,
+    "reward": -682.5,
+    "car_wait_avg": 5.025,
+    "ped_wait_avg": 0.96,
+    "signal_switches": 19
+  },
+  {
+    "episode": 14,
+    "reward": -1057.5,
+    "car_wait_avg": 5.995,
+    "ped_wait_avg": 1.2,
+    "signal_switches": 18
+  },
+  {
+    "episode": 15,
+    "reward": -497.0,
+    "car_wait_avg": 4.21,
+    "ped_wait_avg": 1.04,
+    "signal_switches": 20
+  },
+  {
+    "episode": 16,
+    "reward": -410.0,
+    "car_wait_avg": 4.145,
+    "ped_wait_avg": 0.92,
+    "signal_switches": 20
+  },
+  {
+    "episode": 17,
+    "reward": -359.5,
+    "car_wait_avg": 4.185,
+    "ped_wait_avg": 0.825,
+    "signal_switches": 21
+  },
+  {
+    "episode": 18,
+    "reward": -348.0,
+    "car_wait_avg": 3.78,
+    "ped_wait_avg": 0.995,
+    "signal_switches": 21
+  },
+  {
+    "episode": 19,
+    "reward": -1256.0,
+    "car_wait_avg": 6.88,
+    "ped_wait_avg": 1.31,
+    "signal_switches": 16
+  },
+  {
+    "episode": 20,
+    "reward": -339.5,
+    "car_wait_avg": 3.855,
+    "ped_wait_avg": 0.92,
+    "signal_switches": 20
+  },
+  {
+    "episode": 21,
+    "reward": -698.0,
+    "car_wait_avg": 4.845,
+    "ped_wait_avg": 0.77,
+    "signal_switches": 21
+  },
+  {
+    "episode": 22,
+    "reward": -549.5,
+    "car_wait_avg": 4.425,
+    "ped_wait_avg": 0.89,
+    "signal_switches": 20
+  },
+  {
+    "episode": 23,
+    "reward": -552.5,
+    "car_wait_avg": 4.17,
+    "ped_wait_avg": 0.875,
+    "signal_switches": 23
+  },
+  {
+    "episode": 24,
+    "reward": -188.0,
+    "car_wait_avg": 3.54,
+    "ped_wait_avg": 0.84,
+    "signal_switches": 22
+  },
+  {
+    "episode": 25,
+    "reward": -416.0,
+    "car_wait_avg": 3.945,
+    "ped_wait_avg": 0.83,
+    "signal_switches": 22
+  },
+  {
+    "episode": 26,
+    "reward": -560.5,
+    "car_wait_avg": 4.095,
+    "ped_wait_avg": 1.045,
+    "signal_switches": 23
+  },
+  {
+    "episode": 27,
+    "reward": -461.5,
+    "car_wait_avg": 4.215,
+    "ped_wait_avg": 0.83,
+    "signal_switches": 21
+  },
+  {
+    "episode": 28,
+    "reward": -1171.0,
+    "car_wait_avg": 5.675,
+    "ped_wait_avg": 1.35,
+    "signal_switches": 21
+  },
+  {
+    "episode": 29,
+    "reward": -621.0,
+    "car_wait_avg": 4.44,
+    "ped_wait_avg": 0.65,
+    "signal_switches": 23
+  },
+  {
+    "episode": 30,
+    "reward": -608.0,
+    "car_wait_avg": 4.44,
+    "ped_wait_avg": 0.895,
+    "signal_switches": 21
+  },
+  {
+    "episode": 31,
+    "reward": -857.0,
+    "car_wait_avg": 5.345,
+    "ped_wait_avg": 0.875,
+    "signal_switches": 22
+  },
+  {
+    "episode": 32,
+    "reward": -748.0,
+    "car_wait_avg": 5.31,
+    "ped_wait_avg": 0.76,
+    "signal_switches": 19
+  },
+  {
+    "episode": 33,
+    "reward": -306.0,
+    "car_wait_avg": 3.74,
+    "ped_wait_avg": 0.855,
+    "signal_switches": 23
+  },
+  {
+    "episode": 34,
+    "reward": -1606.5,
+    "car_wait_avg": 7.155,
+    "ped_wait_avg": 1.465,
+    "signal_switches": 17
+  },
+  {
+    "episode": 35,
+    "reward": -562.5,
+    "car_wait_avg": 4.89,
+    "ped_wait_avg": 0.605,
+    "signal_switches": 21
+  },
+  {
+    "episode": 36,
+    "reward": -451.5,
+    "car_wait_avg": 3.95,
+    "ped_wait_avg": 1.025,
+    "signal_switches": 22
+  },
+  {
+    "episode": 37,
+    "reward": -820.5,
+    "car_wait_avg": 5.385,
+    "ped_wait_avg": 0.865,
+    "signal_switches": 22
+  },
+  {
+    "episode": 38,
+    "reward": -673.5,
+    "car_wait_avg": 4.94,
+    "ped_wait_avg": 1.08,
+    "signal_switches": 20
+  },
+  {
+    "episode": 39,
+    "reward": -650.0,
+    "car_wait_avg": 4.58,
+    "ped_wait_avg": 0.765,
+    "signal_switches": 22
+  },
+  {
+    "episode": 40,
+    "reward": -1219.0,
+    "car_wait_avg": 6.67,
+    "ped_wait_avg": 1.05,
+    "signal_switches": 20
+  },
+  {
+    "episode": 41,
+    "reward": -512.0,
+    "car_wait_avg": 3.815,
+    "ped_wait_avg": 0.65,
+    "signal_switches": 22
+  },
+  {
+    "episode": 42,
+    "reward": -816.5,
+    "car_wait_avg": 5.215,
+    "ped_wait_avg": 0.79,
+    "signal_switches": 20
+  },
+  {
+    "episode": 43,
+    "reward": -747.5,
+    "car_wait_avg": 5.025,
+    "ped_wait_avg": 1.085,
+    "signal_switches": 21
+  },
+  {
+    "episode": 44,
+    "reward": -138.0,
+    "car_wait_avg": 3.325,
+    "ped_wait_avg": 1.095,
+    "signal_switches": 22
+  },
+  {
+    "episode": 45,
+    "reward": -520.0,
+    "car_wait_avg": 4.5,
+    "ped_wait_avg": 0.96,
+    "signal_switches": 21
+  },
+  {
+    "episode": 46,
+    "reward": -685.5,
+    "car_wait_avg": 4.515,
+    "ped_wait_avg": 0.725,
+    "signal_switches": 22
+  },
+  {
+    "episode": 47,
+    "reward": -616.5,
+    "car_wait_avg": 4.675,
+    "ped_wait_avg": 1.025,
+    "signal_switches": 22
+  },
+  {
+    "episode": 48,
+    "reward": -375.0,
+    "car_wait_avg": 3.85,
+    "ped_wait_avg": 0.655,
+    "signal_switches": 22
+  },
+  {
+    "episode": 49,
+    "reward": -1184.0,
+    "car_wait_avg": 6.565,
+    "ped_wait_avg": 0.905,
+    "signal_switches": 21
+  },
+  {
+    "episode": 50,
+    "reward": -486.5,
+    "car_wait_avg": 4.365,
+    "ped_wait_avg": 1.09,
+    "signal_switches": 22
+  },
+  {
+    "episode": 51,
+    "reward": -270.5,
+    "car_wait_avg": 3.465,
+    "ped_wait_avg": 1.075,
+    "signal_switches": 22
+  },
+  {
+    "episode": 52,
+    "reward": -796.5,
+    "car_wait_avg": 5.125,
+    "ped_wait_avg": 0.77,
+    "signal_switches": 22
+  },
+  {
+    "episode": 53,
+    "reward": -646.0,
+    "car_wait_avg": 4.715,
+    "ped_wait_avg": 0.965,
+    "signal_switches": 21
+  },
+  {
+    "episode": 54,
+    "reward": -520.0,
+    "car_wait_avg": 4.16,
+    "ped_wait_avg": 0.99,
+    "signal_switches": 22
+  },
+  {
+    "episode": 55,
+    "reward": -927.5,
+    "car_wait_avg": 5.535,
+    "ped_wait_avg": 0.765,
+    "signal_switches": 21
+  },
+  {
+    "episode": 56,
+    "reward": -332.5,
+    "car_wait_avg": 3.79,
+    "ped_wait_avg": 1.3,
+    "signal_switches": 21
+  },
+  {
+    "episode": 57,
+    "reward": -717.0,
+    "car_wait_avg": 4.97,
+    "ped_wait_avg": 1.04,
+    "signal_switches": 22
+  },
+  {
+    "episode": 58,
+    "reward": -508.0,
+    "car_wait_avg": 4.08,
+    "ped_wait_avg": 0.94,
+    "signal_switches": 22
+  },
+  {
+    "episode": 59,
+    "reward": -510.0,
+    "car_wait_avg": 4.515,
+    "ped_wait_avg": 1.04,
+    "signal_switches": 21
+  },
+  {
+    "episode": 60,
+    "reward": -484.0,
+    "car_wait_avg": 4.225,
+    "ped_wait_avg": 0.805,
+    "signal_switches": 21
+  },
+  {
+    "episode": 61,
+    "reward": -643.0,
+    "car_wait_avg": 4.5,
+    "ped_wait_avg": 0.9,
+    "signal_switches": 22
+  },
+  {
+    "episode": 62,
+    "reward": -580.0,
+    "car_wait_avg": 4.47,
+    "ped_wait_avg": 1.24,
+    "signal_switches": 20
+  },
+  {
+    "episode": 63,
+    "reward": -341.5,
+    "car_wait_avg": 3.685,
+    "ped_wait_avg": 0.93,
+    "signal_switches": 22
+  },
+  {
+    "episode": 64,
+    "reward": -263.0,
+    "car_wait_avg": 3.77,
+    "ped_wait_avg": 1.2,
+    "signal_switches": 20
+  },
+  {
+    "episode": 65,
+    "reward": -544.5,
+    "car_wait_avg": 4.51,
+    "ped_wait_avg": 0.975,
+    "signal_switches": 22
+  },
+  {
+    "episode": 66,
+    "reward": -522.0,
+    "car_wait_avg": 4.375,
+    "ped_wait_avg": 0.985,
+    "signal_switches": 21
+  },
+  {
+    "episode": 67,
+    "reward": -510.0,
+    "car_wait_avg": 4.52,
+    "ped_wait_avg": 1.26,
+    "signal_switches": 21
+  },
+  {
+    "episode": 68,
+    "reward": -529.5,
+    "car_wait_avg": 4.39,
+    "ped_wait_avg": 0.925,
+    "signal_switches": 21
+  },
+  {
+    "episode": 69,
+    "reward": -324.0,
+    "car_wait_avg": 3.85,
+    "ped_wait_avg": 0.695,
+    "signal_switches": 20
+  },
+  {
+    "episode": 70,
+    "reward": -567.0,
+    "car_wait_avg": 4.68,
+    "ped_wait_avg": 0.93,
+    "signal_switches": 21
+  },
+  {
+    "episode": 71,
+    "reward": -563.5,
+    "car_wait_avg": 4.375,
+    "ped_wait_avg": 1.04,
+    "signal_switches": 21
+  },
+  {
+    "episode": 72,
+    "reward": -255.0,
+    "car_wait_avg": 3.555,
+    "ped_wait_avg": 0.905,
+    "signal_switches": 21
+  },
+  {
+    "episode": 73,
+    "reward": -923.0,
+    "car_wait_avg": 5.32,
+    "ped_wait_avg": 1.045,
+    "signal_switches": 20
+  },
+  {
+    "episode": 74,
+    "reward": -419.0,
+    "car_wait_avg": 4.315,
+    "ped_wait_avg": 0.57,
+    "signal_switches": 18
+  },
+  {
+    "episode": 75,
+    "reward": -692.0,
+    "car_wait_avg": 4.78,
+    "ped_wait_avg": 1.21,
+    "signal_switches": 22
+  },
+  {
+    "episode": 76,
+    "reward": -977.5,
+    "car_wait_avg": 5.745,
+    "ped_wait_avg": 0.67,
+    "signal_switches": 21
+  },
+  {
+    "episode": 77,
+    "reward": -254.5,
+    "car_wait_avg": 3.99,
+    "ped_wait_avg": 0.92,
+    "signal_switches": 21
+  },
+  {
+    "episode": 78,
+    "reward": -735.0,
+    "car_wait_avg": 5.225,
+    "ped_wait_avg": 1.065,
+    "signal_switches": 20
+  },
+  {
+    "episode": 79,
+    "reward": -26.5,
+    "car_wait_avg": 3.235,
+    "ped_wait_avg": 0.91,
+    "signal_switches": 21
+  },
+  {
+    "episode": 80,
+    "reward": -562.5,
+    "car_wait_avg": 4.57,
+    "ped_wait_avg": 0.775,
+    "signal_switches": 21
+  },
+  {
+    "episode": 81,
+    "reward": -494.5,
+    "car_wait_avg": 4.665,
+    "ped_wait_avg": 0.65,
+    "signal_switches": 20
+  },
+  {
+    "episode": 82,
+    "reward": -770.5,
+    "car_wait_avg": 4.85,
+    "ped_wait_avg": 1.465,
+    "signal_switches": 18
+  },
+  {
+    "episode": 83,
+    "reward": -473.5,
+    "car_wait_avg": 4.23,
+    "ped_wait_avg": 0.97,
+    "signal_switches": 20
+  },
+  {
+    "episode": 84,
+    "reward": -747.0,
+    "car_wait_avg": 4.785,
+    "ped_wait_avg": 1.315,
+    "signal_switches": 21
+  },
+  {
+    "episode": 85,
+    "reward": -575.0,
+    "car_wait_avg": 4.43,
+    "ped_wait_avg": 1.245,
+    "signal_switches": 22
+  },
+  {
+    "episode": 86,
+    "reward": -306.0,
+    "car_wait_avg": 3.925,
+    "ped_wait_avg": 0.84,
+    "signal_switches": 20
+  },
+  {
+    "episode": 87,
+    "reward": -615.0,
+    "car_wait_avg": 4.74,
+    "ped_wait_avg": 1.025,
+    "signal_switches": 21
+  },
+  {
+    "episode": 88,
+    "reward": -954.0,
+    "car_wait_avg": 5.36,
+    "ped_wait_avg": 0.985,
+    "signal_switches": 21
+  },
+  {
+    "episode": 89,
+    "reward": -129.5,
+    "car_wait_avg": 3.635,
+    "ped_wait_avg": 0.94,
+    "signal_switches": 20
+  },
+  {
+    "episode": 90,
+    "reward": -451.0,
+    "car_wait_avg": 4.435,
+    "ped_wait_avg": 0.9,
+    "signal_switches": 22
+  },
+  {
+    "episode": 91,
+    "reward": -760.0,
+    "car_wait_avg": 5.27,
+    "ped_wait_avg": 0.895,
+    "signal_switches": 22
+  },
+  {
+    "episode": 92,
+    "reward": -781.5,
+    "car_wait_avg": 4.99,
+    "ped_wait_avg": 0.695,
+    "signal_switches": 21
+  },
+  {
+    "episode": 93,
+    "reward": -952.5,
+    "car_wait_avg": 5.39,
+    "ped_wait_avg": 1.115,
+    "signal_switches": 20
+  },
+  {
+    "episode": 94,
+    "reward": -477.5,
+    "car_wait_avg": 4.5,
+    "ped_wait_avg": 0.675,
+    "signal_switches": 21
+  },
+  {
+    "episode": 95,
+    "reward": -577.5,
+    "car_wait_avg": 4.775,
+    "ped_wait_avg": 0.985,
+    "signal_switches": 20
+  },
+  {
+    "episode": 96,
+    "reward": -443.0,
+    "car_wait_avg": 3.845,
+    "ped_wait_avg": 0.835,
+    "signal_switches": 21
+  },
+  {
+    "episode": 97,
+    "reward": -202.0,
+    "car_wait_avg": 3.65,
+    "ped_wait_avg": 0.85,
+    "signal_switches": 21
+  },
+  {
+    "episode": 98,
+    "reward": -328.5,
+    "car_wait_avg": 3.635,
+    "ped_wait_avg": 0.95,
+    "signal_switches": 20
+  },
+  {
+    "episode": 99,
+    "reward": -541.0,
+    "car_wait_avg": 4.495,
+    "ped_wait_avg": 1.35,
+    "signal_switches": 22
+  },
+  {
+    "episode": 100,
+    "reward": -541.5,
+    "car_wait_avg": 4.64,
+    "ped_wait_avg": 1.19,
+    "signal_switches": 18
+  },
+  {
+    "episode": 101,
+    "reward": -764.5,
+    "car_wait_avg": 4.71,
+    "ped_wait_avg": 1.26,
+    "signal_switches": 22
+  },
+  {
+    "episode": 102,
+    "reward": -39.5,
+    "car_wait_avg": 3.265,
+    "ped_wait_avg": 0.73,
+    "signal_switches": 18
+  },
+  {
+    "episode": 103,
+    "reward": -455.5,
+    "car_wait_avg": 4.245,
+    "ped_wait_avg": 0.91,
+    "signal_switches": 20
+  },
+  {
+    "episode": 104,
+    "reward": -616.5,
+    "car_wait_avg": 4.52,
+    "ped_wait_avg": 0.84,
+    "signal_switches": 21
+  },
+  {
+    "episode": 105,
+    "reward": -431.5,
+    "car_wait_avg": 3.98,
+    "ped_wait_avg": 1.145,
+    "signal_switches": 21
+  },
+  {
+    "episode": 106,
+    "reward": -219.0,
+    "car_wait_avg": 3.74,
+    "ped_wait_avg": 0.715,
+    "signal_switches": 21
+  },
+  {
+    "episode": 107,
+    "reward": -731.5,
+    "car_wait_avg": 5.07,
+    "ped_wait_avg": 0.805,
+    "signal_switches": 22
+  },
+  {
+    "episode": 108,
+    "reward": -435.0,
+    "car_wait_avg": 4.25,
+    "ped_wait_avg": 0.805,
+    "signal_switches": 20
+  },
+  {
+    "episode": 109,
+    "reward": -365.5,
+    "car_wait_avg": 4.04,
+    "ped_wait_avg": 0.995,
+    "signal_switches": 22
+  },
+  {
+    "episode": 110,
+    "reward": -389.5,
+    "car_wait_avg": 4.18,
+    "ped_wait_avg": 0.785,
+    "signal_switches": 22
+  },
+  {
+    "episode": 111,
+    "reward": -588.0,
+    "car_wait_avg": 4.57,
+    "ped_wait_avg": 0.65,
+    "signal_switches": 21
+  },
+  {
+    "episode": 112,
+    "reward": -396.0,
+    "car_wait_avg": 4.115,
+    "ped_wait_avg": 0.98,
+    "signal_switches": 21
+  },
+  {
+    "episode": 113,
+    "reward": -588.0,
+    "car_wait_avg": 4.685,
+    "ped_wait_avg": 0.44,
+    "signal_switches": 21
+  },
+  {
+    "episode": 114,
+    "reward": -383.0,
+    "car_wait_avg": 4.38,
+    "ped_wait_avg": 0.46,
+    "signal_switches": 21
+  },
+  {
+    "episode": 115,
+    "reward": -353.0,
+    "car_wait_avg": 3.97,
+    "ped_wait_avg": 0.945,
+    "signal_switches": 20
+  },
+  {
+    "episode": 116,
+    "reward": -532.5,
+    "car_wait_avg": 4.56,
+    "ped_wait_avg": 0.73,
+    "signal_switches": 22
+  },
+  {
+    "episode": 117,
+    "reward": -474.0,
+    "car_wait_avg": 4.615,
+    "ped_wait_avg": 0.655,
+    "signal_switches": 21
+  },
+  {
+    "episode": 118,
+    "reward": -556.0,
+    "car_wait_avg": 4.58,
+    "ped_wait_avg": 1.215,
+    "signal_switches": 22
+  },
+  {
+    "episode": 119,
+    "reward": -742.5,
+    "car_wait_avg": 5.19,
+    "ped_wait_avg": 1.07,
+    "signal_switches": 21
+  },
+  {
+    "episode": 120,
+    "reward": -687.5,
+    "car_wait_avg": 4.935,
+    "ped_wait_avg": 0.88,
+    "signal_switches": 22
+  },
+  {
+    "episode": 121,
+    "reward": -595.0,
+    "car_wait_avg": 4.615,
+    "ped_wait_avg": 0.855,
+    "signal_switches": 20
+  },
+  {
+    "episode": 122,
+    "reward": -747.0,
+    "car_wait_avg": 5.135,
+    "ped_wait_avg": 0.82,
+    "signal_switches": 23
+  },
+  {
+    "episode": 123,
+    "reward": -598.5,
+    "car_wait_avg": 4.37,
+    "ped_wait_avg": 0.78,
+    "signal_switches": 22
+  },
+  {
+    "episode": 124,
+    "reward": -569.0,
+    "car_wait_avg": 4.76,
+    "ped_wait_avg": 0.775,
+    "signal_switches": 21
+  },
+  {
+    "episode": 125,
+    "reward": -375.5,
+    "car_wait_avg": 3.92,
+    "ped_wait_avg": 0.795,
+    "signal_switches": 20
+  },
+  {
+    "episode": 126,
+    "reward": -594.5,
+    "car_wait_avg": 4.455,
+    "ped_wait_avg": 0.73,
+    "signal_switches": 22
+  },
+  {
+    "episode": 127,
+    "reward": -596.0,
+    "car_wait_avg": 4.725,
+    "ped_wait_avg": 0.775,
+    "signal_switches": 21
+  },
+  {
+    "episode": 128,
+    "reward": -408.0,
+    "car_wait_avg": 3.795,
+    "ped_wait_avg": 1.23,
+    "signal_switches": 20
+  },
+  {
+    "episode": 129,
+    "reward": -504.0,
+    "car_wait_avg": 4.535,
+    "ped_wait_avg": 0.55,
+    "signal_switches": 22
+  },
+  {
+    "episode": 130,
+    "reward": -518.0,
+    "car_wait_avg": 4.49,
+    "ped_wait_avg": 0.975,
+    "signal_switches": 22
+  },
+  {
+    "episode": 131,
+    "reward": 17.0,
+    "car_wait_avg": 3.085,
+    "ped_wait_avg": 0.815,
+    "signal_switches": 19
+  },
+  {
+    "episode": 132,
+    "reward": -935.5,
+    "car_wait_avg": 5.69,
+    "ped_wait_avg": 0.575,
+    "signal_switches": 22
+  },
+  {
+    "episode": 133,
+    "reward": -1076.0,
+    "car_wait_avg": 5.76,
+    "ped_wait_avg": 0.64,
+    "signal_switches": 17
+  },
+  {
+    "episode": 134,
+    "reward": -678.0,
+    "car_wait_avg": 4.66,
+    "ped_wait_avg": 1.06,
+    "signal_switches": 21
+  },
+  {
+    "episode": 135,
+    "reward": -552.0,
+    "car_wait_avg": 4.38,
+    "ped_wait_avg": 0.96,
+    "signal_switches": 22
+  },
+  {
+    "episode": 136,
+    "reward": -521.5,
+    "car_wait_avg": 4.375,
+    "ped_wait_avg": 0.76,
+    "signal_switches": 20
+  },
+  {
+    "episode": 137,
+    "reward": -170.5,
+    "car_wait_avg": 3.325,
+    "ped_wait_avg": 0.99,
+    "signal_switches": 21
+  },
+  {
+    "episode": 138,
+    "reward": -643.0,
+    "car_wait_avg": 4.63,
+    "ped_wait_avg": 1.2,
+    "signal_switches": 21
+  },
+  {
+    "episode": 139,
+    "reward": -665.0,
+    "car_wait_avg": 4.66,
+    "ped_wait_avg": 1.045,
+    "signal_switches": 19
+  },
+  {
+    "episode": 140,
+    "reward": -491.0,
+    "car_wait_avg": 4.04,
+    "ped_wait_avg": 1.155,
+    "signal_switches": 22
+  },
+  {
+    "episode": 141,
+    "reward": -183.5,
+    "car_wait_avg": 3.435,
+    "ped_wait_avg": 0.805,
+    "signal_switches": 19
+  },
+  {
+    "episode": 142,
+    "reward": -655.0,
+    "car_wait_avg": 4.8,
+    "ped_wait_avg": 0.815,
+    "signal_switches": 21
+  },
+  {
+    "episode": 143,
+    "reward": -411.5,
+    "car_wait_avg": 4.155,
+    "ped_wait_avg": 0.945,
+    "signal_switches": 21
+  },
+  {
+    "episode": 144,
+    "reward": -536.0,
+    "car_wait_avg": 4.53,
+    "ped_wait_avg": 0.575,
+    "signal_switches": 20
+  },
+  {
+    "episode": 145,
+    "reward": -913.0,
+    "car_wait_avg": 5.33,
+    "ped_wait_avg": 1.135,
+    "signal_switches": 22
+  },
+  {
+    "episode": 146,
+    "reward": -349.5,
+    "car_wait_avg": 4.005,
+    "ped_wait_avg": 1.04,
+    "signal_switches": 20
+  },
+  {
+    "episode": 147,
+    "reward": -427.5,
+    "car_wait_avg": 4.17,
+    "ped_wait_avg": 1.025,
+    "signal_switches": 21
+  },
+  {
+    "episode": 148,
+    "reward": -169.5,
+    "car_wait_avg": 3.54,
+    "ped_wait_avg": 1.115,
+    "signal_switches": 20
+  },
+  {
+    "episode": 149,
+    "reward": -350.0,
+    "car_wait_avg": 4.01,
+    "ped_wait_avg": 1.13,
+    "signal_switches": 20
+  },
+  {
+    "episode": 150,
+    "reward": -561.5,
+    "car_wait_avg": 4.545,
+    "ped_wait_avg": 1.0,
+    "signal_switches": 21
+  },
+  {
+    "episode": 151,
+    "reward": -347.5,
+    "car_wait_avg": 4.0,
+    "ped_wait_avg": 0.72,
+    "signal_switches": 21
+  },
+  {
+    "episode": 152,
+    "reward": -644.0,
+    "car_wait_avg": 4.75,
+    "ped_wait_avg": 1.11,
+    "signal_switches": 21
+  },
+  {
+    "episode": 153,
+    "reward": -544.5,
+    "car_wait_avg": 4.48,
+    "ped_wait_avg": 0.71,
+    "signal_switches": 21
+  },
+  {
+    "episode": 154,
+    "reward": -422.5,
+    "car_wait_avg": 4.4,
+    "ped_wait_avg": 0.885,
+    "signal_switches": 21
+  },
+  {
+    "episode": 155,
+    "reward": -719.5,
+    "car_wait_avg": 5.04,
+    "ped_wait_avg": 0.73,
+    "signal_switches": 20
+  },
+  {
+    "episode": 156,
+    "reward": -299.5,
+    "car_wait_avg": 3.87,
+    "ped_wait_avg": 0.99,
+    "signal_switches": 21
+  },
+  {
+    "episode": 157,
+    "reward": -688.0,
+    "car_wait_avg": 5.075,
+    "ped_wait_avg": 1.09,
+    "signal_switches": 22
+  },
+  {
+    "episode": 158,
+    "reward": -679.0,
+    "car_wait_avg": 4.94,
+    "ped_wait_avg": 1.23,
+    "signal_switches": 21
+  },
+  {
+    "episode": 159,
+    "reward": -588.5,
+    "car_wait_avg": 4.445,
+    "ped_wait_avg": 0.87,
+    "signal_switches": 21
+  },
+  {
+    "episode": 160,
+    "reward": -427.5,
+    "car_wait_avg": 4.04,
+    "ped_wait_avg": 1.035,
+    "signal_switches": 21
+  },
+  {
+    "episode": 161,
+    "reward": -1186.0,
+    "car_wait_avg": 6.05,
+    "ped_wait_avg": 1.585,
+    "signal_switches": 17
+  },
+  {
+    "episode": 162,
+    "reward": -682.5,
+    "car_wait_avg": 4.825,
+    "ped_wait_avg": 0.98,
+    "signal_switches": 20
+  },
+  {
+    "episode": 163,
+    "reward": -707.5,
+    "car_wait_avg": 4.915,
+    "ped_wait_avg": 1.29,
+    "signal_switches": 21
+  },
+  {
+    "episode": 164,
+    "reward": -1113.5,
+    "car_wait_avg": 5.84,
+    "ped_wait_avg": 1.095,
+    "signal_switches": 20
+  },
+  {
+    "episode": 165,
+    "reward": -889.5,
+    "car_wait_avg": 5.47,
+    "ped_wait_avg": 1.075,
+    "signal_switches": 20
+  },
+  {
+    "episode": 166,
+    "reward": -357.5,
+    "car_wait_avg": 4.12,
+    "ped_wait_avg": 1.105,
+    "signal_switches": 20
+  },
+  {
+    "episode": 167,
+    "reward": -855.5,
+    "car_wait_avg": 5.795,
+    "ped_wait_avg": 0.915,
+    "signal_switches": 21
+  },
+  {
+    "episode": 168,
+    "reward": -788.0,
+    "car_wait_avg": 5.24,
+    "ped_wait_avg": 1.145,
+    "signal_switches": 21
+  },
+  {
+    "episode": 169,
+    "reward": -660.0,
+    "car_wait_avg": 4.72,
+    "ped_wait_avg": 1.165,
+    "signal_switches": 20
+  },
+  {
+    "episode": 170,
+    "reward": -134.0,
+    "car_wait_avg": 3.77,
+    "ped_wait_avg": 1.09,
+    "signal_switches": 20
+  },
+  {
+    "episode": 171,
+    "reward": -331.5,
+    "car_wait_avg": 3.89,
+    "ped_wait_avg": 1.045,
+    "signal_switches": 21
+  },
+  {
+    "episode": 172,
+    "reward": -520.5,
+    "car_wait_avg": 4.41,
+    "ped_wait_avg": 0.835,
+    "signal_switches": 21
+  },
+  {
+    "episode": 173,
+    "reward": -298.5,
+    "car_wait_avg": 4.05,
+    "ped_wait_avg": 0.525,
+    "signal_switches": 20
+  },
+  {
+    "episode": 174,
+    "reward": -486.5,
+    "car_wait_avg": 4.5,
+    "ped_wait_avg": 0.775,
+    "signal_switches": 20
+  },
+  {
+    "episode": 175,
+    "reward": -277.0,
+    "car_wait_avg": 3.665,
+    "ped_wait_avg": 0.84,
+    "signal_switches": 19
+  },
+  {
+    "episode": 176,
+    "reward": -611.0,
+    "car_wait_avg": 4.89,
+    "ped_wait_avg": 0.98,
+    "signal_switches": 20
+  },
+  {
+    "episode": 177,
+    "reward": -766.5,
+    "car_wait_avg": 4.965,
+    "ped_wait_avg": 1.325,
+    "signal_switches": 18
+  },
+  {
+    "episode": 178,
+    "reward": -417.5,
+    "car_wait_avg": 4.12,
+    "ped_wait_avg": 0.735,
+    "signal_switches": 22
+  },
+  {
+    "episode": 179,
+    "reward": -678.5,
+    "car_wait_avg": 4.795,
+    "ped_wait_avg": 1.005,
+    "signal_switches": 18
+  },
+  {
+    "episode": 180,
+    "reward": -398.5,
+    "car_wait_avg": 4.16,
+    "ped_wait_avg": 0.86,
+    "signal_switches": 21
+  },
+  {
+    "episode": 181,
+    "reward": -295.0,
+    "car_wait_avg": 3.925,
+    "ped_wait_avg": 0.665,
+    "signal_switches": 20
+  },
+  {
+    "episode": 182,
+    "reward": -531.5,
+    "car_wait_avg": 4.685,
+    "ped_wait_avg": 0.645,
+    "signal_switches": 21
+  },
+  {
+    "episode": 183,
+    "reward": -281.0,
+    "car_wait_avg": 4.245,
+    "ped_wait_avg": 0.665,
+    "signal_switches": 20
+  },
+  {
+    "episode": 184,
+    "reward": -212.5,
+    "car_wait_avg": 3.585,
+    "ped_wait_avg": 0.755,
+    "signal_switches": 20
+  },
+  {
+    "episode": 185,
+    "reward": -394.0,
+    "car_wait_avg": 4.285,
+    "ped_wait_avg": 1.095,
+    "signal_switches": 21
+  },
+  {
+    "episode": 186,
+    "reward": -633.0,
+    "car_wait_avg": 4.71,
+    "ped_wait_avg": 0.64,
+    "signal_switches": 22
+  },
+  {
+    "episode": 187,
+    "reward": -726.0,
+    "car_wait_avg": 4.905,
+    "ped_wait_avg": 0.935,
+    "signal_switches": 21
+  },
+  {
+    "episode": 188,
+    "reward": -436.5,
+    "car_wait_avg": 4.19,
+    "ped_wait_avg": 0.685,
+    "signal_switches": 22
+  },
+  {
+    "episode": 189,
+    "reward": -927.0,
+    "car_wait_avg": 5.73,
+    "ped_wait_avg": 1.125,
+    "signal_switches": 20
+  },
+  {
+    "episode": 190,
+    "reward": -375.0,
+    "car_wait_avg": 4.225,
+    "ped_wait_avg": 0.915,
+    "signal_switches": 20
+  },
+  {
+    "episode": 191,
+    "reward": -548.5,
+    "car_wait_avg": 4.54,
+    "ped_wait_avg": 0.915,
+    "signal_switches": 21
+  },
+  {
+    "episode": 192,
+    "reward": -306.5,
+    "car_wait_avg": 3.775,
+    "ped_wait_avg": 1.04,
+    "signal_switches": 22
+  },
+  {
+    "episode": 193,
+    "reward": -267.0,
+    "car_wait_avg": 3.645,
+    "ped_wait_avg": 0.925,
+    "signal_switches": 20
+  },
+  {
+    "episode": 194,
+    "reward": -743.5,
+    "car_wait_avg": 4.94,
+    "ped_wait_avg": 1.27,
+    "signal_switches": 21
+  },
+  {
+    "episode": 195,
+    "reward": -359.5,
+    "car_wait_avg": 3.825,
+    "ped_wait_avg": 0.745,
+    "signal_switches": 20
+  },
+  {
+    "episode": 196,
+    "reward": -781.5,
+    "car_wait_avg": 5.01,
+    "ped_wait_avg": 1.005,
+    "signal_switches": 20
+  },
+  {
+    "episode": 197,
+    "reward": -411.0,
+    "car_wait_avg": 3.81,
+    "ped_wait_avg": 0.725,
+    "signal_switches": 21
+  },
+  {
+    "episode": 198,
+    "reward": -536.0,
+    "car_wait_avg": 4.525,
+    "ped_wait_avg": 0.89,
+    "signal_switches": 21
+  },
+  {
+    "episode": 199,
+    "reward": -742.5,
+    "car_wait_avg": 4.995,
+    "ped_wait_avg": 0.705,
+    "signal_switches": 20
+  },
+  {
+    "episode": 200,
+    "reward": -905.5,
+    "car_wait_avg": 5.495,
+    "ped_wait_avg": 0.935,
+    "signal_switches": 21
+  },
+  {
+    "episode": 201,
+    "reward": -283.0,
+    "car_wait_avg": 3.68,
+    "ped_wait_avg": 1.085,
+    "signal_switches": 20
+  },
+  {
+    "episode": 202,
+    "reward": -498.5,
+    "car_wait_avg": 4.49,
+    "ped_wait_avg": 0.77,
+    "signal_switches": 21
+  },
+  {
+    "episode": 203,
+    "reward": -247.5,
+    "car_wait_avg": 3.735,
+    "ped_wait_avg": 0.825,
+    "signal_switches": 20
+  },
+  {
+    "episode": 204,
+    "reward": -960.5,
+    "car_wait_avg": 5.4,
+    "ped_wait_avg": 1.09,
+    "signal_switches": 22
+  },
+  {
+    "episode": 205,
+    "reward": -54.0,
+    "car_wait_avg": 2.745,
+    "ped_wait_avg": 0.965,
+    "signal_switches": 21
+  },
+  {
+    "episode": 206,
+    "reward": -651.5,
+    "car_wait_avg": 4.545,
+    "ped_wait_avg": 1.175,
+    "signal_switches": 21
+  },
+  {
+    "episode": 207,
+    "reward": -732.5,
+    "car_wait_avg": 4.81,
+    "ped_wait_avg": 1.125,
+    "signal_switches": 21
+  },
+  {
+    "episode": 208,
+    "reward": -477.0,
+    "car_wait_avg": 4.245,
+    "ped_wait_avg": 1.225,
+    "signal_switches": 21
+  },
+  {
+    "episode": 209,
+    "reward": -358.5,
+    "car_wait_avg": 4.235,
+    "ped_wait_avg": 0.94,
+    "signal_switches": 20
+  },
+  {
+    "episode": 210,
+    "reward": -208.5,
+    "car_wait_avg": 3.485,
+    "ped_wait_avg": 0.855,
+    "signal_switches": 20
+  },
+  {
+    "episode": 211,
+    "reward": -430.0,
+    "car_wait_avg": 3.875,
+    "ped_wait_avg": 1.08,
+    "signal_switches": 22
+  },
+  {
+    "episode": 212,
+    "reward": -101.5,
+    "car_wait_avg": 3.215,
+    "ped_wait_avg": 1.12,
+    "signal_switches": 20
+  },
+  {
+    "episode": 213,
+    "reward": -268.5,
+    "car_wait_avg": 4.005,
+    "ped_wait_avg": 1.15,
+    "signal_switches": 21
+  },
+  {
+    "episode": 214,
+    "reward": -592.0,
+    "car_wait_avg": 4.64,
+    "ped_wait_avg": 0.755,
+    "signal_switches": 21
+  },
+  {
+    "episode": 215,
+    "reward": -650.5,
+    "car_wait_avg": 4.565,
+    "ped_wait_avg": 0.67,
+    "signal_switches": 21
+  },
+  {
+    "episode": 216,
+    "reward": -504.0,
+    "car_wait_avg": 4.415,
+    "ped_wait_avg": 0.995,
+    "signal_switches": 21
+  },
+  {
+    "episode": 217,
+    "reward": -205.5,
+    "car_wait_avg": 3.77,
+    "ped_wait_avg": 0.81,
+    "signal_switches": 21
+  },
+  {
+    "episode": 218,
+    "reward": -229.0,
+    "car_wait_avg": 3.515,
+    "ped_wait_avg": 0.855,
+    "signal_switches": 22
+  },
+  {
+    "episode": 219,
+    "reward": -428.0,
+    "car_wait_avg": 4.14,
+    "ped_wait_avg": 0.735,
+    "signal_switches": 22
+  },
+  {
+    "episode": 220,
+    "reward": -672.5,
+    "car_wait_avg": 4.98,
+    "ped_wait_avg": 0.875,
+    "signal_switches": 22
+  },
+  {
+    "episode": 221,
+    "reward": -510.0,
+    "car_wait_avg": 4.58,
+    "ped_wait_avg": 0.86,
+    "signal_switches": 21
+  },
+  {
+    "episode": 222,
+    "reward": -362.5,
+    "car_wait_avg": 4.135,
+    "ped_wait_avg": 0.825,
+    "signal_switches": 22
+  },
+  {
+    "episode": 223,
+    "reward": -407.0,
+    "car_wait_avg": 4.1,
+    "ped_wait_avg": 1.165,
+    "signal_switches": 21
+  },
+  {
+    "episode": 224,
+    "reward": -787.0,
+    "car_wait_avg": 4.975,
+    "ped_wait_avg": 0.885,
+    "signal_switches": 21
+  },
+  {
+    "episode": 225,
+    "reward": -697.5,
+    "car_wait_avg": 4.965,
+    "ped_wait_avg": 0.645,
+    "signal_switches": 22
+  },
+  {
+    "episode": 226,
+    "reward": -351.5,
+    "car_wait_avg": 4.195,
+    "ped_wait_avg": 0.73,
+    "signal_switches": 22
+  },
+  {
+    "episode": 227,
+    "reward": -196.0,
+    "car_wait_avg": 3.56,
+    "ped_wait_avg": 0.945,
+    "signal_switches": 22
+  },
+  {
+    "episode": 228,
+    "reward": -528.0,
+    "car_wait_avg": 4.275,
+    "ped_wait_avg": 0.48,
+    "signal_switches": 21
+  },
+  {
+    "episode": 229,
+    "reward": -580.5,
+    "car_wait_avg": 4.42,
+    "ped_wait_avg": 1.225,
+    "signal_switches": 23
+  },
+  {
+    "episode": 230,
+    "reward": -308.5,
+    "car_wait_avg": 4.04,
+    "ped_wait_avg": 0.985,
+    "signal_switches": 21
+  },
+  {
+    "episode": 231,
+    "reward": -327.5,
+    "car_wait_avg": 3.995,
+    "ped_wait_avg": 1.11,
+    "signal_switches": 22
+  },
+  {
+    "episode": 232,
+    "reward": -509.0,
+    "car_wait_avg": 4.585,
+    "ped_wait_avg": 0.84,
+    "signal_switches": 22
+  },
+  {
+    "episode": 233,
+    "reward": -668.5,
+    "car_wait_avg": 4.825,
+    "ped_wait_avg": 0.685,
+    "signal_switches": 21
+  },
+  {
+    "episode": 234,
+    "reward": -487.5,
+    "car_wait_avg": 4.405,
+    "ped_wait_avg": 0.635,
+    "signal_switches": 22
+  },
+  {
+    "episode": 235,
+    "reward": -802.0,
+    "car_wait_avg": 4.94,
+    "ped_wait_avg": 1.24,
+    "signal_switches": 22
+  },
+  {
+    "episode": 236,
+    "reward": -418.5,
+    "car_wait_avg": 3.95,
+    "ped_wait_avg": 0.89,
+    "signal_switches": 21
+  },
+  {
+    "episode": 237,
+    "reward": -520.0,
+    "car_wait_avg": 4.505,
+    "ped_wait_avg": 0.75,
+    "signal_switches": 22
+  },
+  {
+    "episode": 238,
+    "reward": -489.0,
+    "car_wait_avg": 4.19,
+    "ped_wait_avg": 1.185,
+    "signal_switches": 21
+  },
+  {
+    "episode": 239,
+    "reward": -465.0,
+    "car_wait_avg": 4.295,
+    "ped_wait_avg": 0.775,
+    "signal_switches": 21
+  },
+  {
+    "episode": 240,
+    "reward": -463.0,
+    "car_wait_avg": 4.305,
+    "ped_wait_avg": 0.985,
+    "signal_switches": 22
+  },
+  {
+    "episode": 241,
+    "reward": -612.0,
+    "car_wait_avg": 4.57,
+    "ped_wait_avg": 1.26,
+    "signal_switches": 21
+  },
+  {
+    "episode": 242,
+    "reward": -323.0,
+    "car_wait_avg": 3.62,
+    "ped_wait_avg": 0.93,
+    "signal_switches": 22
+  },
+  {
+    "episode": 243,
+    "reward": -495.5,
+    "car_wait_avg": 4.29,
+    "ped_wait_avg": 1.01,
+    "signal_switches": 22
+  },
+  {
+    "episode": 244,
+    "reward": -700.0,
+    "car_wait_avg": 5.25,
+    "ped_wait_avg": 0.735,
+    "signal_switches": 21
+  },
+  {
+    "episode": 245,
+    "reward": -872.5,
+    "car_wait_avg": 5.32,
+    "ped_wait_avg": 0.63,
+    "signal_switches": 21
+  },
+  {
+    "episode": 246,
+    "reward": -345.5,
+    "car_wait_avg": 3.9,
+    "ped_wait_avg": 1.28,
+    "signal_switches": 22
+  },
+  {
+    "episode": 247,
+    "reward": -684.5,
+    "car_wait_avg": 4.835,
+    "ped_wait_avg": 0.965,
+    "signal_switches": 22
+  },
+  {
+    "episode": 248,
+    "reward": -1128.0,
+    "car_wait_avg": 6.195,
+    "ped_wait_avg": 1.505,
+    "signal_switches": 21
+  },
+  {
+    "episode": 249,
+    "reward": -536.0,
+    "car_wait_avg": 4.51,
+    "ped_wait_avg": 0.88,
+    "signal_switches": 22
+  },
+  {
+    "episode": 250,
+    "reward": -250.0,
+    "car_wait_avg": 3.92,
+    "ped_wait_avg": 0.84,
+    "signal_switches": 22
+  },
+  {
+    "episode": 251,
+    "reward": -460.5,
+    "car_wait_avg": 4.74,
+    "ped_wait_avg": 0.84,
+    "signal_switches": 21
+  },
+  {
+    "episode": 252,
+    "reward": -419.0,
+    "car_wait_avg": 4.535,
+    "ped_wait_avg": 0.585,
+    "signal_switches": 22
+  },
+  {
+    "episode": 253,
+    "reward": -124.0,
+    "car_wait_avg": 3.555,
+    "ped_wait_avg": 0.565,
+    "signal_switches": 20
+  },
+  {
+    "episode": 254,
+    "reward": -440.5,
+    "car_wait_avg": 4.39,
+    "ped_wait_avg": 1.12,
+    "signal_switches": 22
+  },
+  {
+    "episode": 255,
+    "reward": 232.0,
+    "car_wait_avg": 2.595,
+    "ped_wait_avg": 0.805,
+    "signal_switches": 19
+  },
+  {
+    "episode": 256,
+    "reward": -625.0,
+    "car_wait_avg": 4.53,
+    "ped_wait_avg": 0.885,
+    "signal_switches": 22
+  },
+  {
+    "episode": 257,
+    "reward": -547.0,
+    "car_wait_avg": 4.595,
+    "ped_wait_avg": 0.925,
+    "signal_switches": 21
+  },
+  {
+    "episode": 258,
+    "reward": -290.0,
+    "car_wait_avg": 4.025,
+    "ped_wait_avg": 0.61,
+    "signal_switches": 20
+  },
+  {
+    "episode": 259,
+    "reward": -330.5,
+    "car_wait_avg": 4.0,
+    "ped_wait_avg": 0.865,
+    "signal_switches": 21
+  },
+  {
+    "episode": 260,
+    "reward": -574.0,
+    "car_wait_avg": 4.375,
+    "ped_wait_avg": 0.96,
+    "signal_switches": 21
+  },
+  {
+    "episode": 261,
+    "reward": -566.5,
+    "car_wait_avg": 4.575,
+    "ped_wait_avg": 1.005,
+    "signal_switches": 22
+  },
+  {
+    "episode": 262,
+    "reward": -778.0,
+    "car_wait_avg": 4.93,
+    "ped_wait_avg": 1.49,
+    "signal_switches": 23
+  },
+  {
+    "episode": 263,
+    "reward": -57.0,
+    "car_wait_avg": 3.395,
+    "ped_wait_avg": 0.89,
+    "signal_switches": 21
+  },
+  {
+    "episode": 264,
+    "reward": -666.5,
+    "car_wait_avg": 4.805,
+    "ped_wait_avg": 0.665,
+    "signal_switches": 23
+  },
+  {
+    "episode": 265,
+    "reward": -485.0,
+    "car_wait_avg": 4.11,
+    "ped_wait_avg": 0.785,
+    "signal_switches": 20
+  },
+  {
+    "episode": 266,
+    "reward": -398.0,
+    "car_wait_avg": 3.91,
+    "ped_wait_avg": 1.145,
+    "signal_switches": 22
+  },
+  {
+    "episode": 267,
+    "reward": -441.5,
+    "car_wait_avg": 4.155,
+    "ped_wait_avg": 0.885,
+    "signal_switches": 22
+  },
+  {
+    "episode": 268,
+    "reward": -285.5,
+    "car_wait_avg": 3.865,
+    "ped_wait_avg": 0.905,
+    "signal_switches": 22
+  },
+  {
+    "episode": 269,
+    "reward": -334.5,
+    "car_wait_avg": 4.295,
+    "ped_wait_avg": 0.64,
+    "signal_switches": 22
+  },
+  {
+    "episode": 270,
+    "reward": -214.5,
+    "car_wait_avg": 3.73,
+    "ped_wait_avg": 0.785,
+    "signal_switches": 22
+  },
+  {
+    "episode": 271,
+    "reward": -666.0,
+    "car_wait_avg": 4.76,
+    "ped_wait_avg": 0.895,
+    "signal_switches": 22
+  },
+  {
+    "episode": 272,
+    "reward": -516.0,
+    "car_wait_avg": 4.4,
+    "ped_wait_avg": 1.125,
+    "signal_switches": 22
+  },
+  {
+    "episode": 273,
+    "reward": -389.5,
+    "car_wait_avg": 4.215,
+    "ped_wait_avg": 0.71,
+    "signal_switches": 21
+  },
+  {
+    "episode": 274,
+    "reward": -390.0,
+    "car_wait_avg": 4.41,
+    "ped_wait_avg": 0.775,
+    "signal_switches": 22
+  },
+  {
+    "episode": 275,
+    "reward": -485.5,
+    "car_wait_avg": 4.32,
+    "ped_wait_avg": 0.705,
+    "signal_switches": 22
+  },
+  {
+    "episode": 276,
+    "reward": -515.5,
+    "car_wait_avg": 4.385,
+    "ped_wait_avg": 0.69,
+    "signal_switches": 20
+  },
+  {
+    "episode": 277,
+    "reward": -614.5,
+    "car_wait_avg": 4.625,
+    "ped_wait_avg": 0.78,
+    "signal_switches": 21
+  },
+  {
+    "episode": 278,
+    "reward": -494.0,
+    "car_wait_avg": 4.45,
+    "ped_wait_avg": 0.695,
+    "signal_switches": 21
+  },
+  {
+    "episode": 279,
+    "reward": -382.0,
+    "car_wait_avg": 3.94,
+    "ped_wait_avg": 1.045,
+    "signal_switches": 21
+  },
+  {
+    "episode": 280,
+    "reward": -226.5,
+    "car_wait_avg": 3.625,
+    "ped_wait_avg": 0.805,
+    "signal_switches": 21
+  },
+  {
+    "episode": 281,
+    "reward": -550.5,
+    "car_wait_avg": 4.165,
+    "ped_wait_avg": 0.96,
+    "signal_switches": 23
+  },
+  {
+    "episode": 282,
+    "reward": -828.5,
+    "car_wait_avg": 5.17,
+    "ped_wait_avg": 0.75,
+    "signal_switches": 23
+  },
+  {
+    "episode": 283,
+    "reward": -632.0,
+    "car_wait_avg": 4.755,
+    "ped_wait_avg": 1.155,
+    "signal_switches": 21
+  },
+  {
+    "episode": 284,
+    "reward": -407.0,
+    "car_wait_avg": 4.355,
+    "ped_wait_avg": 0.56,
+    "signal_switches": 20
+  },
+  {
+    "episode": 285,
+    "reward": -295.5,
+    "car_wait_avg": 3.75,
+    "ped_wait_avg": 1.075,
+    "signal_switches": 22
+  },
+  {
+    "episode": 286,
+    "reward": -378.0,
+    "car_wait_avg": 3.94,
+    "ped_wait_avg": 1.1,
+    "signal_switches": 19
+  },
+  {
+    "episode": 287,
+    "reward": -850.0,
+    "car_wait_avg": 5.415,
+    "ped_wait_avg": 1.08,
+    "signal_switches": 22
+  },
+  {
+    "episode": 288,
+    "reward": -747.5,
+    "car_wait_avg": 4.93,
+    "ped_wait_avg": 0.95,
+    "signal_switches": 21
+  },
+  {
+    "episode": 289,
+    "reward": -14.0,
+    "car_wait_avg": 3.21,
+    "ped_wait_avg": 0.645,
+    "signal_switches": 21
+  },
+  {
+    "episode": 290,
+    "reward": -1089.5,
+    "car_wait_avg": 6.205,
+    "ped_wait_avg": 0.755,
+    "signal_switches": 21
+  },
+  {
+    "episode": 291,
+    "reward": -348.5,
+    "car_wait_avg": 3.86,
+    "ped_wait_avg": 1.26,
+    "signal_switches": 22
+  },
+  {
+    "episode": 292,
+    "reward": -589.0,
+    "car_wait_avg": 4.79,
+    "ped_wait_avg": 0.67,
+    "signal_switches": 21
+  },
+  {
+    "episode": 293,
+    "reward": -737.5,
+    "car_wait_avg": 5.205,
+    "ped_wait_avg": 1.025,
+    "signal_switches": 22
+  },
+  {
+    "episode": 294,
+    "reward": -550.0,
+    "car_wait_avg": 4.645,
+    "ped_wait_avg": 1.125,
+    "signal_switches": 20
+  },
+  {
+    "episode": 295,
+    "reward": -471.5,
+    "car_wait_avg": 4.04,
+    "ped_wait_avg": 1.44,
+    "signal_switches": 22
+  },
+  {
+    "episode": 296,
+    "reward": -377.0,
+    "car_wait_avg": 4.23,
+    "ped_wait_avg": 1.195,
+    "signal_switches": 21
+  },
+  {
+    "episode": 297,
+    "reward": -917.5,
+    "car_wait_avg": 5.425,
+    "ped_wait_avg": 1.285,
+    "signal_switches": 21
+  },
+  {
+    "episode": 298,
+    "reward": -279.5,
+    "car_wait_avg": 3.925,
+    "ped_wait_avg": 0.775,
+    "signal_switches": 22
+  },
+  {
+    "episode": 299,
+    "reward": -554.5,
+    "car_wait_avg": 4.405,
+    "ped_wait_avg": 1.27,
+    "signal_switches": 22
+  },
+  {
+    "episode": 300,
+    "reward": -254.5,
+    "car_wait_avg": 3.975,
+    "ped_wait_avg": 0.955,
+    "signal_switches": 22
+  },
+  {
+    "episode": 301,
+    "reward": -654.0,
+    "car_wait_avg": 4.975,
+    "ped_wait_avg": 0.81,
+    "signal_switches": 22
+  },
+  {
+    "episode": 302,
+    "reward": -387.5,
+    "car_wait_avg": 3.905,
+    "ped_wait_avg": 0.86,
+    "signal_switches": 22
+  },
+  {
+    "episode": 303,
+    "reward": -925.5,
+    "car_wait_avg": 5.28,
+    "ped_wait_avg": 1.655,
+    "signal_switches": 18
+  },
+  {
+    "episode": 304,
+    "reward": -965.5,
+    "car_wait_avg": 5.685,
+    "ped_wait_avg": 0.8,
+    "signal_switches": 22
+  },
+  {
+    "episode": 305,
+    "reward": -902.0,
+    "car_wait_avg": 5.61,
+    "ped_wait_avg": 0.855,
+    "signal_switches": 23
+  },
+  {
+    "episode": 306,
+    "reward": -225.0,
+    "car_wait_avg": 3.83,
+    "ped_wait_avg": 0.72,
+    "signal_switches": 21
+  },
+  {
+    "episode": 307,
+    "reward": -663.5,
+    "car_wait_avg": 4.955,
+    "ped_wait_avg": 0.855,
+    "signal_switches": 22
+  },
+  {
+    "episode": 308,
+    "reward": -651.5,
+    "car_wait_avg": 4.58,
+    "ped_wait_avg": 1.115,
+    "signal_switches": 20
+  },
+  {
+    "episode": 309,
+    "reward": -315.5,
+    "car_wait_avg": 4.135,
+    "ped_wait_avg": 0.99,
+    "signal_switches": 19
+  },
+  {
+    "episode": 310,
+    "reward": -222.5,
+    "car_wait_avg": 3.8,
+    "ped_wait_avg": 0.51,
+    "signal_switches": 20
+  },
+  {
+    "episode": 311,
+    "reward": -76.5,
+    "car_wait_avg": 3.305,
+    "ped_wait_avg": 0.765,
+    "signal_switches": 20
+  },
+  {
+    "episode": 312,
+    "reward": -645.5,
+    "car_wait_avg": 4.75,
+    "ped_wait_avg": 1.12,
+    "signal_switches": 20
+  },
+  {
+    "episode": 313,
+    "reward": -544.5,
+    "car_wait_avg": 4.58,
+    "ped_wait_avg": 0.71,
+    "signal_switches": 22
+  },
+  {
+    "episode": 314,
+    "reward": -523.0,
+    "car_wait_avg": 4.285,
+    "ped_wait_avg": 0.765,
+    "signal_switches": 20
+  },
+  {
+    "episode": 315,
+    "reward": -484.0,
+    "car_wait_avg": 4.205,
+    "ped_wait_avg": 0.885,
+    "signal_switches": 20
+  },
+  {
+    "episode": 316,
+    "reward": -222.0,
+    "car_wait_avg": 3.62,
+    "ped_wait_avg": 0.955,
+    "signal_switches": 19
+  },
+  {
+    "episode": 317,
+    "reward": -462.0,
+    "car_wait_avg": 4.075,
+    "ped_wait_avg": 1.33,
+    "signal_switches": 20
+  },
+  {
+    "episode": 318,
+    "reward": -514.0,
+    "car_wait_avg": 4.32,
+    "ped_wait_avg": 0.855,
+    "signal_switches": 21
+  },
+  {
+    "episode": 319,
+    "reward": -681.5,
+    "car_wait_avg": 4.95,
+    "ped_wait_avg": 1.095,
+    "signal_switches": 20
+  },
+  {
+    "episode": 320,
+    "reward": -787.0,
+    "car_wait_avg": 5.32,
+    "ped_wait_avg": 0.83,
+    "signal_switches": 20
+  },
+  {
+    "episode": 321,
+    "reward": -765.0,
+    "car_wait_avg": 4.905,
+    "ped_wait_avg": 1.16,
+    "signal_switches": 22
+  },
+  {
+    "episode": 322,
+    "reward": -331.5,
+    "car_wait_avg": 3.935,
+    "ped_wait_avg": 1.11,
+    "signal_switches": 21
+  },
+  {
+    "episode": 323,
+    "reward": -638.0,
+    "car_wait_avg": 4.69,
+    "ped_wait_avg": 1.085,
+    "signal_switches": 16
+  },
+  {
+    "episode": 324,
+    "reward": -781.5,
+    "car_wait_avg": 4.98,
+    "ped_wait_avg": 0.99,
+    "signal_switches": 21
+  },
+  {
+    "episode": 325,
+    "reward": -705.0,
+    "car_wait_avg": 4.83,
+    "ped_wait_avg": 0.93,
+    "signal_switches": 21
+  },
+  {
+    "episode": 326,
+    "reward": -554.5,
+    "car_wait_avg": 4.355,
+    "ped_wait_avg": 0.955,
+    "signal_switches": 20
+  },
+  {
+    "episode": 327,
+    "reward": -624.5,
+    "car_wait_avg": 4.685,
+    "ped_wait_avg": 0.575,
+    "signal_switches": 19
+  },
+  {
+    "episode": 328,
+    "reward": -771.5,
+    "car_wait_avg": 5.4,
+    "ped_wait_avg": 0.95,
+    "signal_switches": 20
+  },
+  {
+    "episode": 329,
+    "reward": -776.5,
+    "car_wait_avg": 5.16,
+    "ped_wait_avg": 1.105,
+    "signal_switches": 21
+  },
+  {
+    "episode": 330,
+    "reward": -445.0,
+    "car_wait_avg": 4.625,
+    "ped_wait_avg": 0.78,
+    "signal_switches": 18
+  },
+  {
+    "episode": 331,
+    "reward": -340.0,
+    "car_wait_avg": 3.95,
+    "ped_wait_avg": 1.01,
+    "signal_switches": 19
+  },
+  {
+    "episode": 332,
+    "reward": -543.5,
+    "car_wait_avg": 4.445,
+    "ped_wait_avg": 1.06,
+    "signal_switches": 19
+  },
+  {
+    "episode": 333,
+    "reward": -433.5,
+    "car_wait_avg": 3.835,
+    "ped_wait_avg": 1.055,
+    "signal_switches": 20
+  },
+  {
+    "episode": 334,
+    "reward": -417.0,
+    "car_wait_avg": 4.245,
+    "ped_wait_avg": 0.935,
+    "signal_switches": 21
+  },
+  {
+    "episode": 335,
+    "reward": -492.0,
+    "car_wait_avg": 4.49,
+    "ped_wait_avg": 0.9,
+    "signal_switches": 20
+  },
+  {
+    "episode": 336,
+    "reward": -1033.5,
+    "car_wait_avg": 5.65,
+    "ped_wait_avg": 0.99,
+    "signal_switches": 20
+  },
+  {
+    "episode": 337,
+    "reward": -461.0,
+    "car_wait_avg": 4.485,
+    "ped_wait_avg": 0.89,
+    "signal_switches": 21
+  },
+  {
+    "episode": 338,
+    "reward": -44.0,
+    "car_wait_avg": 3.635,
+    "ped_wait_avg": 0.785,
+    "signal_switches": 19
+  },
+  {
+    "episode": 339,
+    "reward": -553.5,
+    "car_wait_avg": 4.305,
+    "ped_wait_avg": 0.87,
+    "signal_switches": 20
+  },
+  {
+    "episode": 340,
+    "reward": -438.0,
+    "car_wait_avg": 4.105,
+    "ped_wait_avg": 0.93,
+    "signal_switches": 20
+  },
+  {
+    "episode": 341,
+    "reward": -525.0,
+    "car_wait_avg": 4.81,
+    "ped_wait_avg": 0.74,
+    "signal_switches": 19
+  },
+  {
+    "episode": 342,
+    "reward": -569.0,
+    "car_wait_avg": 4.62,
+    "ped_wait_avg": 1.135,
+    "signal_switches": 21
+  },
+  {
+    "episode": 343,
+    "reward": -434.5,
+    "car_wait_avg": 3.92,
+    "ped_wait_avg": 1.395,
+    "signal_switches": 20
+  },
+  {
+    "episode": 344,
+    "reward": -243.0,
+    "car_wait_avg": 3.945,
+    "ped_wait_avg": 0.975,
+    "signal_switches": 21
+  },
+  {
+    "episode": 345,
+    "reward": -560.5,
+    "car_wait_avg": 4.525,
+    "ped_wait_avg": 0.95,
+    "signal_switches": 19
+  },
+  {
+    "episode": 346,
+    "reward": -623.0,
+    "car_wait_avg": 4.73,
+    "ped_wait_avg": 0.7,
+    "signal_switches": 21
+  },
+  {
+    "episode": 347,
+    "reward": -199.0,
+    "car_wait_avg": 3.515,
+    "ped_wait_avg": 0.845,
+    "signal_switches": 19
+  },
+  {
+    "episode": 348,
+    "reward": -452.5,
+    "car_wait_avg": 4.27,
+    "ped_wait_avg": 0.58,
+    "signal_switches": 20
+  },
+  {
+    "episode": 349,
+    "reward": -321.5,
+    "car_wait_avg": 4.02,
+    "ped_wait_avg": 1.025,
+    "signal_switches": 19
+  },
+  {
+    "episode": 350,
+    "reward": -565.5,
+    "car_wait_avg": 4.215,
+    "ped_wait_avg": 1.25,
+    "signal_switches": 20
+  },
+  {
+    "episode": 351,
+    "reward": -435.0,
+    "car_wait_avg": 4.495,
+    "ped_wait_avg": 1.135,
+    "signal_switches": 20
+  },
+  {
+    "episode": 352,
+    "reward": -569.0,
+    "car_wait_avg": 4.665,
+    "ped_wait_avg": 0.65,
+    "signal_switches": 22
+  },
+  {
+    "episode": 353,
+    "reward": -342.0,
+    "car_wait_avg": 4.05,
+    "ped_wait_avg": 1.21,
+    "signal_switches": 18
+  },
+  {
+    "episode": 354,
+    "reward": -530.0,
+    "car_wait_avg": 4.41,
+    "ped_wait_avg": 0.74,
+    "signal_switches": 21
+  },
+  {
+    "episode": 355,
+    "reward": -457.5,
+    "car_wait_avg": 4.155,
+    "ped_wait_avg": 0.93,
+    "signal_switches": 20
+  },
+  {
+    "episode": 356,
+    "reward": -574.0,
+    "car_wait_avg": 4.85,
+    "ped_wait_avg": 1.0,
+    "signal_switches": 19
+  },
+  {
+    "episode": 357,
+    "reward": -448.5,
+    "car_wait_avg": 4.215,
+    "ped_wait_avg": 1.035,
+    "signal_switches": 20
+  },
+  {
+    "episode": 358,
+    "reward": -567.5,
+    "car_wait_avg": 4.08,
+    "ped_wait_avg": 1.425,
+    "signal_switches": 18
+  },
+  {
+    "episode": 359,
+    "reward": -446.5,
+    "car_wait_avg": 3.995,
+    "ped_wait_avg": 1.0,
+    "signal_switches": 18
+  },
+  {
+    "episode": 360,
+    "reward": -225.0,
+    "car_wait_avg": 3.655,
+    "ped_wait_avg": 1.235,
+    "signal_switches": 20
+  },
+  {
+    "episode": 361,
+    "reward": -880.0,
+    "car_wait_avg": 5.435,
+    "ped_wait_avg": 1.035,
+    "signal_switches": 21
+  },
+  {
+    "episode": 362,
+    "reward": -521.5,
+    "car_wait_avg": 4.295,
+    "ped_wait_avg": 1.035,
+    "signal_switches": 20
+  },
+  {
+    "episode": 363,
+    "reward": -324.5,
+    "car_wait_avg": 3.915,
+    "ped_wait_avg": 1.04,
+    "signal_switches": 21
+  },
+  {
+    "episode": 364,
+    "reward": -570.0,
+    "car_wait_avg": 4.785,
+    "ped_wait_avg": 0.59,
+    "signal_switches": 20
+  },
+  {
+    "episode": 365,
+    "reward": -365.0,
+    "car_wait_avg": 3.985,
+    "ped_wait_avg": 0.755,
+    "signal_switches": 20
+  },
+  {
+    "episode": 366,
+    "reward": -667.5,
+    "car_wait_avg": 4.695,
+    "ped_wait_avg": 0.88,
+    "signal_switches": 21
+  },
+  {
+    "episode": 367,
+    "reward": -445.0,
+    "car_wait_avg": 4.585,
+    "ped_wait_avg": 0.845,
+    "signal_switches": 20
+  },
+  {
+    "episode": 368,
+    "reward": -668.5,
+    "car_wait_avg": 5.27,
+    "ped_wait_avg": 0.88,
+    "signal_switches": 20
+  },
+  {
+    "episode": 369,
+    "reward": -369.5,
+    "car_wait_avg": 4.08,
+    "ped_wait_avg": 0.935,
+    "signal_switches": 20
+  },
+  {
+    "episode": 370,
+    "reward": -654.0,
+    "car_wait_avg": 5.035,
+    "ped_wait_avg": 0.685,
+    "signal_switches": 21
+  },
+  {
+    "episode": 371,
+    "reward": -551.0,
+    "car_wait_avg": 4.43,
+    "ped_wait_avg": 1.03,
+    "signal_switches": 19
+  },
+  {
+    "episode": 372,
+    "reward": -260.0,
+    "car_wait_avg": 4.065,
+    "ped_wait_avg": 0.655,
+    "signal_switches": 23
+  },
+  {
+    "episode": 373,
+    "reward": -477.5,
+    "car_wait_avg": 4.35,
+    "ped_wait_avg": 1.325,
+    "signal_switches": 19
+  },
+  {
+    "episode": 374,
+    "reward": -637.0,
+    "car_wait_avg": 4.54,
+    "ped_wait_avg": 1.115,
+    "signal_switches": 20
+  },
+  {
+    "episode": 375,
+    "reward": -825.5,
+    "car_wait_avg": 5.06,
+    "ped_wait_avg": 0.81,
+    "signal_switches": 22
+  },
+  {
+    "episode": 376,
+    "reward": -138.0,
+    "car_wait_avg": 3.59,
+    "ped_wait_avg": 1.285,
+    "signal_switches": 19
+  },
+  {
+    "episode": 377,
+    "reward": -467.0,
+    "car_wait_avg": 4.215,
+    "ped_wait_avg": 0.8,
+    "signal_switches": 20
+  },
+  {
+    "episode": 378,
+    "reward": -687.5,
+    "car_wait_avg": 4.78,
+    "ped_wait_avg": 0.89,
+    "signal_switches": 21
+  },
+  {
+    "episode": 379,
+    "reward": -728.5,
+    "car_wait_avg": 4.965,
+    "ped_wait_avg": 0.875,
+    "signal_switches": 20
+  },
+  {
+    "episode": 380,
+    "reward": -448.5,
+    "car_wait_avg": 4.21,
+    "ped_wait_avg": 0.885,
+    "signal_switches": 20
+  },
+  {
+    "episode": 381,
+    "reward": -661.5,
+    "car_wait_avg": 5.125,
+    "ped_wait_avg": 0.695,
+    "signal_switches": 21
+  },
+  {
+    "episode": 382,
+    "reward": -279.0,
+    "car_wait_avg": 3.825,
+    "ped_wait_avg": 0.795,
+    "signal_switches": 19
+  },
+  {
+    "episode": 383,
+    "reward": -427.5,
+    "car_wait_avg": 4.34,
+    "ped_wait_avg": 1.14,
+    "signal_switches": 21
+  },
+  {
+    "episode": 384,
+    "reward": -509.0,
+    "car_wait_avg": 4.37,
+    "ped_wait_avg": 1.075,
+    "signal_switches": 22
+  },
+  {
+    "episode": 385,
+    "reward": -273.5,
+    "car_wait_avg": 3.9,
+    "ped_wait_avg": 0.985,
+    "signal_switches": 20
+  },
+  {
+    "episode": 386,
+    "reward": -692.0,
+    "car_wait_avg": 5.28,
+    "ped_wait_avg": 0.49,
+    "signal_switches": 20
+  },
+  {
+    "episode": 387,
+    "reward": -394.0,
+    "car_wait_avg": 3.78,
+    "ped_wait_avg": 1.255,
+    "signal_switches": 21
+  },
+  {
+    "episode": 388,
+    "reward": -398.5,
+    "car_wait_avg": 3.99,
+    "ped_wait_avg": 1.185,
+    "signal_switches": 21
+  },
+  {
+    "episode": 389,
+    "reward": -142.5,
+    "car_wait_avg": 3.285,
+    "ped_wait_avg": 0.995,
+    "signal_switches": 19
+  },
+  {
+    "episode": 390,
+    "reward": -337.5,
+    "car_wait_avg": 3.79,
+    "ped_wait_avg": 0.97,
+    "signal_switches": 22
+  },
+  {
+    "episode": 391,
+    "reward": -145.0,
+    "car_wait_avg": 3.355,
+    "ped_wait_avg": 0.75,
+    "signal_switches": 19
+  },
+  {
+    "episode": 392,
+    "reward": -656.0,
+    "car_wait_avg": 5.0,
+    "ped_wait_avg": 1.05,
+    "signal_switches": 21
+  },
+  {
+    "episode": 393,
+    "reward": -332.5,
+    "car_wait_avg": 4.135,
+    "ped_wait_avg": 0.915,
+    "signal_switches": 18
+  },
+  {
+    "episode": 394,
+    "reward": -655.5,
+    "car_wait_avg": 4.74,
+    "ped_wait_avg": 1.125,
+    "signal_switches": 21
+  },
+  {
+    "episode": 395,
+    "reward": -197.5,
+    "car_wait_avg": 3.715,
+    "ped_wait_avg": 0.86,
+    "signal_switches": 20
+  },
+  {
+    "episode": 396,
+    "reward": -622.5,
+    "car_wait_avg": 4.745,
+    "ped_wait_avg": 1.05,
+    "signal_switches": 22
+  },
+  {
+    "episode": 397,
+    "reward": -473.5,
+    "car_wait_avg": 4.275,
+    "ped_wait_avg": 1.01,
+    "signal_switches": 21
+  },
+  {
+    "episode": 398,
+    "reward": -719.0,
+    "car_wait_avg": 5.195,
+    "ped_wait_avg": 0.705,
+    "signal_switches": 22
+  },
+  {
+    "episode": 399,
+    "reward": -676.5,
+    "car_wait_avg": 4.955,
+    "ped_wait_avg": 1.15,
+    "signal_switches": 21
+  },
+  {
+    "episode": 400,
+    "reward": -152.0,
+    "car_wait_avg": 3.595,
+    "ped_wait_avg": 0.71,
+    "signal_switches": 20
+  },
+  {
+    "episode": 401,
+    "reward": -861.0,
+    "car_wait_avg": 5.365,
+    "ped_wait_avg": 0.685,
+    "signal_switches": 20
+  },
+  {
+    "episode": 402,
+    "reward": -653.0,
+    "car_wait_avg": 4.62,
+    "ped_wait_avg": 0.95,
+    "signal_switches": 21
+  },
+  {
+    "episode": 403,
+    "reward": -336.0,
+    "car_wait_avg": 4.07,
+    "ped_wait_avg": 0.87,
+    "signal_switches": 23
+  },
+  {
+    "episode": 404,
+    "reward": -758.5,
+    "car_wait_avg": 5.01,
+    "ped_wait_avg": 1.065,
+    "signal_switches": 21
+  },
+  {
+    "episode": 405,
+    "reward": -492.0,
+    "car_wait_avg": 4.41,
+    "ped_wait_avg": 0.67,
+    "signal_switches": 22
+  },
+  {
+    "episode": 406,
+    "reward": -753.0,
+    "car_wait_avg": 5.17,
+    "ped_wait_avg": 1.13,
+    "signal_switches": 21
+  },
+  {
+    "episode": 407,
+    "reward": -366.5,
+    "car_wait_avg": 4.39,
+    "ped_wait_avg": 0.725,
+    "signal_switches": 22
+  },
+  {
+    "episode": 408,
+    "reward": -200.0,
+    "car_wait_avg": 3.72,
+    "ped_wait_avg": 0.905,
+    "signal_switches": 20
+  },
+  {
+    "episode": 409,
+    "reward": -178.5,
+    "car_wait_avg": 3.58,
+    "ped_wait_avg": 0.695,
+    "signal_switches": 20
+  },
+  {
+    "episode": 410,
+    "reward": -162.5,
+    "car_wait_avg": 3.775,
+    "ped_wait_avg": 0.585,
+    "signal_switches": 19
+  },
+  {
+    "episode": 411,
+    "reward": -447.0,
+    "car_wait_avg": 4.33,
+    "ped_wait_avg": 0.75,
+    "signal_switches": 20
+  },
+  {
+    "episode": 412,
+    "reward": -510.0,
+    "car_wait_avg": 4.425,
+    "ped_wait_avg": 0.995,
+    "signal_switches": 21
+  },
+  {
+    "episode": 413,
+    "reward": -577.0,
+    "car_wait_avg": 4.54,
+    "ped_wait_avg": 1.165,
+    "signal_switches": 20
+  },
+  {
+    "episode": 414,
+    "reward": -803.0,
+    "car_wait_avg": 5.585,
+    "ped_wait_avg": 0.87,
+    "signal_switches": 20
+  },
+  {
+    "episode": 415,
+    "reward": -466.0,
+    "car_wait_avg": 4.105,
+    "ped_wait_avg": 0.58,
+    "signal_switches": 20
+  },
+  {
+    "episode": 416,
+    "reward": -569.5,
+    "car_wait_avg": 4.95,
+    "ped_wait_avg": 0.725,
+    "signal_switches": 22
+  },
+  {
+    "episode": 417,
+    "reward": -566.0,
+    "car_wait_avg": 4.57,
+    "ped_wait_avg": 0.82,
+    "signal_switches": 22
+  },
+  {
+    "episode": 418,
+    "reward": -758.5,
+    "car_wait_avg": 4.96,
+    "ped_wait_avg": 1.355,
+    "signal_switches": 20
+  },
+  {
+    "episode": 419,
+    "reward": -330.5,
+    "car_wait_avg": 4.32,
+    "ped_wait_avg": 0.53,
+    "signal_switches": 21
+  },
+  {
+    "episode": 420,
+    "reward": -161.0,
+    "car_wait_avg": 3.705,
+    "ped_wait_avg": 0.725,
+    "signal_switches": 21
+  },
+  {
+    "episode": 421,
+    "reward": -501.5,
+    "car_wait_avg": 4.425,
+    "ped_wait_avg": 0.7,
+    "signal_switches": 20
+  },
+  {
+    "episode": 422,
+    "reward": -125.5,
+    "car_wait_avg": 3.335,
+    "ped_wait_avg": 0.76,
+    "signal_switches": 21
+  },
+  {
+    "episode": 423,
+    "reward": -535.5,
+    "car_wait_avg": 4.835,
+    "ped_wait_avg": 0.565,
+    "signal_switches": 22
+  },
+  {
+    "episode": 424,
+    "reward": -219.5,
+    "car_wait_avg": 3.775,
+    "ped_wait_avg": 0.615,
+    "signal_switches": 21
+  },
+  {
+    "episode": 425,
+    "reward": -305.0,
+    "car_wait_avg": 4.08,
+    "ped_wait_avg": 1.04,
+    "signal_switches": 20
+  },
+  {
+    "episode": 426,
+    "reward": -673.0,
+    "car_wait_avg": 4.935,
+    "ped_wait_avg": 0.725,
+    "signal_switches": 20
+  },
+  {
+    "episode": 427,
+    "reward": -384.5,
+    "car_wait_avg": 3.975,
+    "ped_wait_avg": 0.94,
+    "signal_switches": 21
+  },
+  {
+    "episode": 428,
+    "reward": -635.5,
+    "car_wait_avg": 4.86,
+    "ped_wait_avg": 0.935,
+    "signal_switches": 21
+  },
+  {
+    "episode": 429,
+    "reward": -414.5,
+    "car_wait_avg": 4.335,
+    "ped_wait_avg": 0.985,
+    "signal_switches": 21
+  },
+  {
+    "episode": 430,
+    "reward": -466.0,
+    "car_wait_avg": 4.385,
+    "ped_wait_avg": 1.125,
+    "signal_switches": 20
+  },
+  {
+    "episode": 431,
+    "reward": -1001.0,
+    "car_wait_avg": 5.655,
+    "ped_wait_avg": 0.75,
+    "signal_switches": 20
+  },
+  {
+    "episode": 432,
+    "reward": -407.5,
+    "car_wait_avg": 4.335,
+    "ped_wait_avg": 0.73,
+    "signal_switches": 21
+  },
+  {
+    "episode": 433,
+    "reward": -542.0,
+    "car_wait_avg": 4.495,
+    "ped_wait_avg": 1.13,
+    "signal_switches": 23
+  },
+  {
+    "episode": 434,
+    "reward": -528.0,
+    "car_wait_avg": 4.48,
+    "ped_wait_avg": 1.07,
+    "signal_switches": 22
+  },
+  {
+    "episode": 435,
+    "reward": -73.5,
+    "car_wait_avg": 3.365,
+    "ped_wait_avg": 0.815,
+    "signal_switches": 21
+  },
+  {
+    "episode": 436,
+    "reward": -338.5,
+    "car_wait_avg": 4.04,
+    "ped_wait_avg": 1.09,
+    "signal_switches": 22
+  },
+  {
+    "episode": 437,
+    "reward": -390.0,
+    "car_wait_avg": 4.425,
+    "ped_wait_avg": 0.625,
+    "signal_switches": 22
+  },
+  {
+    "episode": 438,
+    "reward": -398.0,
+    "car_wait_avg": 4.175,
+    "ped_wait_avg": 1.245,
+    "signal_switches": 19
+  },
+  {
+    "episode": 439,
+    "reward": -659.0,
+    "car_wait_avg": 4.76,
+    "ped_wait_avg": 1.18,
+    "signal_switches": 22
+  },
+  {
+    "episode": 440,
+    "reward": -381.5,
+    "car_wait_avg": 4.23,
+    "ped_wait_avg": 0.545,
+    "signal_switches": 21
+  },
+  {
+    "episode": 441,
+    "reward": -878.0,
+    "car_wait_avg": 5.39,
+    "ped_wait_avg": 0.785,
+    "signal_switches": 22
+  },
+  {
+    "episode": 442,
+    "reward": -402.5,
+    "car_wait_avg": 4.07,
+    "ped_wait_avg": 0.73,
+    "signal_switches": 20
+  },
+  {
+    "episode": 443,
+    "reward": -675.5,
+    "car_wait_avg": 4.69,
+    "ped_wait_avg": 0.95,
+    "signal_switches": 21
+  },
+  {
+    "episode": 444,
+    "reward": -491.0,
+    "car_wait_avg": 4.54,
+    "ped_wait_avg": 0.635,
+    "signal_switches": 21
+  },
+  {
+    "episode": 445,
+    "reward": -143.5,
+    "car_wait_avg": 3.51,
+    "ped_wait_avg": 0.735,
+    "signal_switches": 20
+  },
+  {
+    "episode": 446,
+    "reward": -197.0,
+    "car_wait_avg": 3.76,
+    "ped_wait_avg": 0.55,
+    "signal_switches": 20
+  },
+  {
+    "episode": 447,
+    "reward": -433.5,
+    "car_wait_avg": 4.225,
+    "ped_wait_avg": 0.835,
+    "signal_switches": 21
+  },
+  {
+    "episode": 448,
+    "reward": -614.5,
+    "car_wait_avg": 4.945,
+    "ped_wait_avg": 0.915,
+    "signal_switches": 20
+  },
+  {
+    "episode": 449,
+    "reward": -148.5,
+    "car_wait_avg": 3.735,
+    "ped_wait_avg": 0.995,
+    "signal_switches": 22
+  },
+  {
+    "episode": 450,
+    "reward": -402.5,
+    "car_wait_avg": 4.425,
+    "ped_wait_avg": 0.98,
+    "signal_switches": 23
+  },
+  {
+    "episode": 451,
+    "reward": -647.5,
+    "car_wait_avg": 4.545,
+    "ped_wait_avg": 1.18,
+    "signal_switches": 21
+  },
+  {
+    "episode": 452,
+    "reward": -117.0,
+    "car_wait_avg": 3.39,
+    "ped_wait_avg": 0.835,
+    "signal_switches": 20
+  },
+  {
+    "episode": 453,
+    "reward": -469.0,
+    "car_wait_avg": 4.655,
+    "ped_wait_avg": 0.93,
+    "signal_switches": 19
+  },
+  {
+    "episode": 454,
+    "reward": -635.5,
+    "car_wait_avg": 5.095,
+    "ped_wait_avg": 0.97,
+    "signal_switches": 21
+  },
+  {
+    "episode": 455,
+    "reward": -744.0,
+    "car_wait_avg": 5.12,
+    "ped_wait_avg": 0.795,
+    "signal_switches": 22
+  },
+  {
+    "episode": 456,
+    "reward": -632.0,
+    "car_wait_avg": 4.655,
+    "ped_wait_avg": 0.965,
+    "signal_switches": 22
+  },
+  {
+    "episode": 457,
+    "reward": -460.5,
+    "car_wait_avg": 4.225,
+    "ped_wait_avg": 1.005,
+    "signal_switches": 21
+  },
+  {
+    "episode": 458,
+    "reward": -702.0,
+    "car_wait_avg": 5.15,
+    "ped_wait_avg": 0.745,
+    "signal_switches": 21
+  },
+  {
+    "episode": 459,
+    "reward": -430.5,
+    "car_wait_avg": 4.005,
+    "ped_wait_avg": 0.99,
+    "signal_switches": 21
+  },
+  {
+    "episode": 460,
+    "reward": -524.5,
+    "car_wait_avg": 4.375,
+    "ped_wait_avg": 0.935,
+    "signal_switches": 22
+  },
+  {
+    "episode": 461,
+    "reward": -335.5,
+    "car_wait_avg": 4.135,
+    "ped_wait_avg": 0.59,
+    "signal_switches": 19
+  },
+  {
+    "episode": 462,
+    "reward": -546.0,
+    "car_wait_avg": 4.445,
+    "ped_wait_avg": 0.585,
+    "signal_switches": 22
+  },
+  {
+    "episode": 463,
+    "reward": -470.5,
+    "car_wait_avg": 4.125,
+    "ped_wait_avg": 1.31,
+    "signal_switches": 21
+  },
+  {
+    "episode": 464,
+    "reward": -417.5,
+    "car_wait_avg": 4.13,
+    "ped_wait_avg": 0.99,
+    "signal_switches": 21
+  },
+  {
+    "episode": 465,
+    "reward": -604.5,
+    "car_wait_avg": 5.03,
+    "ped_wait_avg": 0.435,
+    "signal_switches": 22
+  },
+  {
+    "episode": 466,
+    "reward": -431.0,
+    "car_wait_avg": 4.435,
+    "ped_wait_avg": 0.72,
+    "signal_switches": 20
+  },
+  {
+    "episode": 467,
+    "reward": -459.5,
+    "car_wait_avg": 4.415,
+    "ped_wait_avg": 0.78,
+    "signal_switches": 21
+  },
+  {
+    "episode": 468,
+    "reward": -617.0,
+    "car_wait_avg": 4.895,
+    "ped_wait_avg": 0.68,
+    "signal_switches": 21
+  },
+  {
+    "episode": 469,
+    "reward": -546.0,
+    "car_wait_avg": 4.685,
+    "ped_wait_avg": 1.025,
+    "signal_switches": 21
+  },
+  {
+    "episode": 470,
+    "reward": -567.0,
+    "car_wait_avg": 5.17,
+    "ped_wait_avg": 0.93,
+    "signal_switches": 22
+  },
+  {
+    "episode": 471,
+    "reward": -806.0,
+    "car_wait_avg": 5.36,
+    "ped_wait_avg": 0.995,
+    "signal_switches": 20
+  },
+  {
+    "episode": 472,
+    "reward": -343.5,
+    "car_wait_avg": 3.935,
+    "ped_wait_avg": 1.2,
+    "signal_switches": 21
+  },
+  {
+    "episode": 473,
+    "reward": -535.0,
+    "car_wait_avg": 4.67,
+    "ped_wait_avg": 0.655,
+    "signal_switches": 22
+  },
+  {
+    "episode": 474,
+    "reward": -176.0,
+    "car_wait_avg": 3.205,
+    "ped_wait_avg": 0.805,
+    "signal_switches": 21
+  },
+  {
+    "episode": 475,
+    "reward": -458.5,
+    "car_wait_avg": 4.03,
+    "ped_wait_avg": 0.98,
+    "signal_switches": 22
+  },
+  {
+    "episode": 476,
+    "reward": -628.5,
+    "car_wait_avg": 4.665,
+    "ped_wait_avg": 1.075,
+    "signal_switches": 21
+  },
+  {
+    "episode": 477,
+    "reward": -710.0,
+    "car_wait_avg": 5.06,
+    "ped_wait_avg": 0.965,
+    "signal_switches": 21
+  },
+  {
+    "episode": 478,
+    "reward": -401.5,
+    "car_wait_avg": 4.26,
+    "ped_wait_avg": 1.025,
+    "signal_switches": 21
+  },
+  {
+    "episode": 479,
+    "reward": -583.0,
+    "car_wait_avg": 4.37,
+    "ped_wait_avg": 0.89,
+    "signal_switches": 20
+  },
+  {
+    "episode": 480,
+    "reward": -330.0,
+    "car_wait_avg": 4.07,
+    "ped_wait_avg": 1.005,
+    "signal_switches": 21
+  },
+  {
+    "episode": 481,
+    "reward": -323.0,
+    "car_wait_avg": 4.225,
+    "ped_wait_avg": 0.805,
+    "signal_switches": 21
+  },
+  {
+    "episode": 482,
+    "reward": -181.5,
+    "car_wait_avg": 3.785,
+    "ped_wait_avg": 0.98,
+    "signal_switches": 21
+  },
+  {
+    "episode": 483,
+    "reward": -538.0,
+    "car_wait_avg": 4.59,
+    "ped_wait_avg": 1.07,
+    "signal_switches": 21
+  },
+  {
+    "episode": 484,
+    "reward": -557.0,
+    "car_wait_avg": 4.655,
+    "ped_wait_avg": 1.01,
+    "signal_switches": 22
+  },
+  {
+    "episode": 485,
+    "reward": -241.5,
+    "car_wait_avg": 3.79,
+    "ped_wait_avg": 0.885,
+    "signal_switches": 21
+  },
+  {
+    "episode": 486,
+    "reward": -76.5,
+    "car_wait_avg": 3.215,
+    "ped_wait_avg": 1.085,
+    "signal_switches": 19
+  },
+  {
+    "episode": 487,
+    "reward": -277.0,
+    "car_wait_avg": 3.68,
+    "ped_wait_avg": 0.835,
+    "signal_switches": 21
+  },
+  {
+    "episode": 488,
+    "reward": -390.5,
+    "car_wait_avg": 4.385,
+    "ped_wait_avg": 0.745,
+    "signal_switches": 21
+  },
+  {
+    "episode": 489,
+    "reward": -279.5,
+    "car_wait_avg": 3.995,
+    "ped_wait_avg": 0.85,
+    "signal_switches": 22
+  },
+  {
+    "episode": 490,
+    "reward": -173.5,
+    "car_wait_avg": 3.745,
+    "ped_wait_avg": 0.71,
+    "signal_switches": 21
+  },
+  {
+    "episode": 491,
+    "reward": -542.5,
+    "car_wait_avg": 4.195,
+    "ped_wait_avg": 1.55,
+    "signal_switches": 22
+  },
+  {
+    "episode": 492,
+    "reward": -584.5,
+    "car_wait_avg": 4.645,
+    "ped_wait_avg": 1.025,
+    "signal_switches": 19
+  },
+  {
+    "episode": 493,
+    "reward": -493.0,
+    "car_wait_avg": 4.505,
+    "ped_wait_avg": 0.605,
+    "signal_switches": 21
+  },
+  {
+    "episode": 494,
+    "reward": -617.5,
+    "car_wait_avg": 4.77,
+    "ped_wait_avg": 1.065,
+    "signal_switches": 20
+  },
+  {
+    "episode": 495,
+    "reward": -213.0,
+    "car_wait_avg": 3.96,
+    "ped_wait_avg": 0.82,
+    "signal_switches": 21
+  },
+  {
+    "episode": 496,
+    "reward": -350.0,
+    "car_wait_avg": 4.175,
+    "ped_wait_avg": 1.255,
+    "signal_switches": 21
+  },
+  {
+    "episode": 497,
+    "reward": -449.0,
+    "car_wait_avg": 4.18,
+    "ped_wait_avg": 1.15,
+    "signal_switches": 22
+  },
+  {
+    "episode": 498,
+    "reward": -167.5,
+    "car_wait_avg": 3.57,
+    "ped_wait_avg": 0.795,
+    "signal_switches": 21
+  },
+  {
+    "episode": 499,
+    "reward": -514.0,
+    "car_wait_avg": 4.475,
+    "ped_wait_avg": 0.83,
+    "signal_switches": 22
+  },
+  {
+    "episode": 500,
+    "reward": -111.0,
+    "car_wait_avg": 3.675,
+    "ped_wait_avg": 0.795,
+    "signal_switches": 20
+  },
+  {
+    "episode": 501,
+    "reward": -283.0,
+    "car_wait_avg": 4.165,
+    "ped_wait_avg": 0.92,
+    "signal_switches": 21
+  },
+  {
+    "episode": 502,
+    "reward": -742.5,
+    "car_wait_avg": 5.07,
+    "ped_wait_avg": 0.705,
+    "signal_switches": 21
+  },
+  {
+    "episode": 503,
+    "reward": -51.0,
+    "car_wait_avg": 3.215,
+    "ped_wait_avg": 0.82,
+    "signal_switches": 20
+  },
+  {
+    "episode": 504,
+    "reward": -236.0,
+    "car_wait_avg": 4.185,
+    "ped_wait_avg": 0.865,
+    "signal_switches": 21
+  },
+  {
+    "episode": 505,
+    "reward": -527.0,
+    "car_wait_avg": 4.515,
+    "ped_wait_avg": 0.66,
+    "signal_switches": 22
+  },
+  {
+    "episode": 506,
+    "reward": -367.0,
+    "car_wait_avg": 4.26,
+    "ped_wait_avg": 0.83,
+    "signal_switches": 21
+  },
+  {
+    "episode": 507,
+    "reward": -300.0,
+    "car_wait_avg": 4.15,
+    "ped_wait_avg": 1.0,
+    "signal_switches": 20
+  },
+  {
+    "episode": 508,
+    "reward": -495.5,
+    "car_wait_avg": 4.565,
+    "ped_wait_avg": 0.985,
+    "signal_switches": 21
+  },
+  {
+    "episode": 509,
+    "reward": -672.5,
+    "car_wait_avg": 5.05,
+    "ped_wait_avg": 0.64,
+    "signal_switches": 21
+  },
+  {
+    "episode": 510,
+    "reward": -314.5,
+    "car_wait_avg": 3.775,
+    "ped_wait_avg": 1.165,
+    "signal_switches": 22
+  },
+  {
+    "episode": 511,
+    "reward": -381.0,
+    "car_wait_avg": 4.185,
+    "ped_wait_avg": 0.845,
+    "signal_switches": 21
+  },
+  {
+    "episode": 512,
+    "reward": -714.5,
+    "car_wait_avg": 4.91,
+    "ped_wait_avg": 0.955,
+    "signal_switches": 20
+  },
+  {
+    "episode": 513,
+    "reward": -145.5,
+    "car_wait_avg": 3.87,
+    "ped_wait_avg": 0.97,
+    "signal_switches": 20
+  },
+  {
+    "episode": 514,
+    "reward": -248.0,
+    "car_wait_avg": 3.835,
+    "ped_wait_avg": 0.8,
+    "signal_switches": 19
+  },
+  {
+    "episode": 515,
+    "reward": -248.5,
+    "car_wait_avg": 3.685,
+    "ped_wait_avg": 0.935,
+    "signal_switches": 20
+  },
+  {
+    "episode": 516,
+    "reward": -437.5,
+    "car_wait_avg": 4.42,
+    "ped_wait_avg": 0.675,
+    "signal_switches": 21
+  },
+  {
+    "episode": 517,
+    "reward": -293.0,
+    "car_wait_avg": 3.98,
+    "ped_wait_avg": 0.715,
+    "signal_switches": 22
+  },
+  {
+    "episode": 518,
+    "reward": -410.0,
+    "car_wait_avg": 4.24,
+    "ped_wait_avg": 0.99,
+    "signal_switches": 22
+  },
+  {
+    "episode": 519,
+    "reward": -476.0,
+    "car_wait_avg": 4.415,
+    "ped_wait_avg": 0.89,
+    "signal_switches": 21
+  },
+  {
+    "episode": 520,
+    "reward": -426.0,
+    "car_wait_avg": 4.01,
+    "ped_wait_avg": 1.155,
+    "signal_switches": 20
+  },
+  {
+    "episode": 521,
+    "reward": -219.5,
+    "car_wait_avg": 3.745,
+    "ped_wait_avg": 0.69,
+    "signal_switches": 22
+  },
+  {
+    "episode": 522,
+    "reward": -216.5,
+    "car_wait_avg": 3.73,
+    "ped_wait_avg": 0.925,
+    "signal_switches": 21
+  },
+  {
+    "episode": 523,
+    "reward": -351.5,
+    "car_wait_avg": 4.045,
+    "ped_wait_avg": 1.275,
+    "signal_switches": 21
+  },
+  {
+    "episode": 524,
+    "reward": -397.5,
+    "car_wait_avg": 4.16,
+    "ped_wait_avg": 0.945,
+    "signal_switches": 22
+  },
+  {
+    "episode": 525,
+    "reward": -729.5,
+    "car_wait_avg": 5.225,
+    "ped_wait_avg": 1.02,
+    "signal_switches": 20
+  },
+  {
+    "episode": 526,
+    "reward": -571.0,
+    "car_wait_avg": 4.735,
+    "ped_wait_avg": 1.025,
+    "signal_switches": 21
+  },
+  {
+    "episode": 527,
+    "reward": -446.5,
+    "car_wait_avg": 4.455,
+    "ped_wait_avg": 0.875,
+    "signal_switches": 21
+  },
+  {
+    "episode": 528,
+    "reward": -431.0,
+    "car_wait_avg": 4.34,
+    "ped_wait_avg": 1.165,
+    "signal_switches": 19
+  },
+  {
+    "episode": 529,
+    "reward": -313.0,
+    "car_wait_avg": 3.855,
+    "ped_wait_avg": 0.935,
+    "signal_switches": 21
+  },
+  {
+    "episode": 530,
+    "reward": -344.0,
+    "car_wait_avg": 4.0,
+    "ped_wait_avg": 0.78,
+    "signal_switches": 22
+  },
+  {
+    "episode": 531,
+    "reward": -385.0,
+    "car_wait_avg": 4.355,
+    "ped_wait_avg": 1.01,
+    "signal_switches": 20
+  },
+  {
+    "episode": 532,
+    "reward": -411.5,
+    "car_wait_avg": 4.295,
+    "ped_wait_avg": 0.945,
+    "signal_switches": 19
+  },
+  {
+    "episode": 533,
+    "reward": -127.5,
+    "car_wait_avg": 3.64,
+    "ped_wait_avg": 0.83,
+    "signal_switches": 21
+  },
+  {
+    "episode": 534,
+    "reward": -87.0,
+    "car_wait_avg": 3.56,
+    "ped_wait_avg": 0.945,
+    "signal_switches": 22
+  },
+  {
+    "episode": 535,
+    "reward": -112.0,
+    "car_wait_avg": 3.36,
+    "ped_wait_avg": 1.015,
+    "signal_switches": 21
+  },
+  {
+    "episode": 536,
+    "reward": -439.0,
+    "car_wait_avg": 4.03,
+    "ped_wait_avg": 1.05,
+    "signal_switches": 21
+  },
+  {
+    "episode": 537,
+    "reward": -628.5,
+    "car_wait_avg": 4.735,
+    "ped_wait_avg": 0.81,
+    "signal_switches": 23
+  },
+  {
+    "episode": 538,
+    "reward": -328.0,
+    "car_wait_avg": 4.11,
+    "ped_wait_avg": 0.76,
+    "signal_switches": 22
+  },
+  {
+    "episode": 539,
+    "reward": -673.5,
+    "car_wait_avg": 5.015,
+    "ped_wait_avg": 1.07,
+    "signal_switches": 22
+  },
+  {
+    "episode": 540,
+    "reward": -525.0,
+    "car_wait_avg": 4.345,
+    "ped_wait_avg": 0.77,
+    "signal_switches": 22
+  },
+  {
+    "episode": 541,
+    "reward": -456.0,
+    "car_wait_avg": 4.425,
+    "ped_wait_avg": 1.255,
+    "signal_switches": 21
+  },
+  {
+    "episode": 542,
+    "reward": -172.5,
+    "car_wait_avg": 3.64,
+    "ped_wait_avg": 0.925,
+    "signal_switches": 21
+  },
+  {
+    "episode": 543,
+    "reward": -495.5,
+    "car_wait_avg": 4.245,
+    "ped_wait_avg": 1.19,
+    "signal_switches": 20
+  },
+  {
+    "episode": 544,
+    "reward": -663.5,
+    "car_wait_avg": 4.75,
+    "ped_wait_avg": 1.175,
+    "signal_switches": 22
+  },
+  {
+    "episode": 545,
+    "reward": -509.0,
+    "car_wait_avg": 4.625,
+    "ped_wait_avg": 1.03,
+    "signal_switches": 22
+  },
+  {
+    "episode": 546,
+    "reward": -109.0,
+    "car_wait_avg": 3.535,
+    "ped_wait_avg": 0.67,
+    "signal_switches": 22
+  },
+  {
+    "episode": 547,
+    "reward": -552.5,
+    "car_wait_avg": 4.785,
+    "ped_wait_avg": 0.745,
+    "signal_switches": 20
+  },
+  {
+    "episode": 548,
+    "reward": -770.0,
+    "car_wait_avg": 5.21,
+    "ped_wait_avg": 0.905,
+    "signal_switches": 21
+  },
+  {
+    "episode": 549,
+    "reward": -268.0,
+    "car_wait_avg": 3.905,
+    "ped_wait_avg": 0.77,
+    "signal_switches": 19
+  },
+  {
+    "episode": 550,
+    "reward": -522.5,
+    "car_wait_avg": 4.25,
+    "ped_wait_avg": 1.325,
+    "signal_switches": 21
+  },
+  {
+    "episode": 551,
+    "reward": -626.5,
+    "car_wait_avg": 4.84,
+    "ped_wait_avg": 0.79,
+    "signal_switches": 22
+  },
+  {
+    "episode": 552,
+    "reward": -428.5,
+    "car_wait_avg": 4.245,
+    "ped_wait_avg": 0.585,
+    "signal_switches": 20
+  },
+  {
+    "episode": 553,
+    "reward": -469.0,
+    "car_wait_avg": 4.45,
+    "ped_wait_avg": 0.755,
+    "signal_switches": 21
+  },
+  {
+    "episode": 554,
+    "reward": -60.0,
+    "car_wait_avg": 3.295,
+    "ped_wait_avg": 0.635,
+    "signal_switches": 21
+  },
+  {
+    "episode": 555,
+    "reward": -44.5,
+    "car_wait_avg": 3.385,
+    "ped_wait_avg": 1.26,
+    "signal_switches": 23
+  },
+  {
+    "episode": 556,
+    "reward": -602.5,
+    "car_wait_avg": 4.905,
+    "ped_wait_avg": 0.795,
+    "signal_switches": 22
+  },
+  {
+    "episode": 557,
+    "reward": -209.5,
+    "car_wait_avg": 3.95,
+    "ped_wait_avg": 0.68,
+    "signal_switches": 22
+  },
+  {
+    "episode": 558,
+    "reward": -178.5,
+    "car_wait_avg": 3.23,
+    "ped_wait_avg": 1.16,
+    "signal_switches": 23
+  },
+  {
+    "episode": 559,
+    "reward": -359.5,
+    "car_wait_avg": 3.745,
+    "ped_wait_avg": 0.955,
+    "signal_switches": 21
+  },
+  {
+    "episode": 560,
+    "reward": -388.5,
+    "car_wait_avg": 4.11,
+    "ped_wait_avg": 0.735,
+    "signal_switches": 23
+  },
+  {
+    "episode": 561,
+    "reward": -259.5,
+    "car_wait_avg": 3.735,
+    "ped_wait_avg": 0.81,
+    "signal_switches": 21
+  },
+  {
+    "episode": 562,
+    "reward": -280.0,
+    "car_wait_avg": 3.71,
+    "ped_wait_avg": 0.615,
+    "signal_switches": 23
+  },
+  {
+    "episode": 563,
+    "reward": -317.0,
+    "car_wait_avg": 3.9,
+    "ped_wait_avg": 0.915,
+    "signal_switches": 22
+  },
+  {
+    "episode": 564,
+    "reward": -610.0,
+    "car_wait_avg": 4.67,
+    "ped_wait_avg": 1.11,
+    "signal_switches": 22
+  },
+  {
+    "episode": 565,
+    "reward": -254.0,
+    "car_wait_avg": 3.55,
+    "ped_wait_avg": 1.01,
+    "signal_switches": 22
+  },
+  {
+    "episode": 566,
+    "reward": -333.5,
+    "car_wait_avg": 3.77,
+    "ped_wait_avg": 1.045,
+    "signal_switches": 22
+  },
+  {
+    "episode": 567,
+    "reward": -603.0,
+    "car_wait_avg": 4.665,
+    "ped_wait_avg": 1.115,
+    "signal_switches": 21
+  },
+  {
+    "episode": 568,
+    "reward": -453.0,
+    "car_wait_avg": 4.33,
+    "ped_wait_avg": 1.095,
+    "signal_switches": 22
+  },
+  {
+    "episode": 569,
+    "reward": -477.0,
+    "car_wait_avg": 4.345,
+    "ped_wait_avg": 0.92,
+    "signal_switches": 21
+  },
+  {
+    "episode": 570,
+    "reward": -221.0,
+    "car_wait_avg": 3.545,
+    "ped_wait_avg": 0.665,
+    "signal_switches": 22
+  },
+  {
+    "episode": 571,
+    "reward": -179.5,
+    "car_wait_avg": 3.83,
+    "ped_wait_avg": 0.67,
+    "signal_switches": 22
+  },
+  {
+    "episode": 572,
+    "reward": -176.0,
+    "car_wait_avg": 3.47,
+    "ped_wait_avg": 0.905,
+    "signal_switches": 23
+  },
+  {
+    "episode": 573,
+    "reward": -526.0,
+    "car_wait_avg": 4.49,
+    "ped_wait_avg": 0.98,
+    "signal_switches": 23
+  },
+  {
+    "episode": 574,
+    "reward": -490.5,
+    "car_wait_avg": 4.165,
+    "ped_wait_avg": 0.705,
+    "signal_switches": 22
+  },
+  {
+    "episode": 575,
+    "reward": -238.0,
+    "car_wait_avg": 4.005,
+    "ped_wait_avg": 0.845,
+    "signal_switches": 21
+  },
+  {
+    "episode": 576,
+    "reward": -1135.0,
+    "car_wait_avg": 6.44,
+    "ped_wait_avg": 0.97,
+    "signal_switches": 21
+  },
+  {
+    "episode": 577,
+    "reward": -201.0,
+    "car_wait_avg": 3.49,
+    "ped_wait_avg": 0.77,
+    "signal_switches": 23
+  },
+  {
+    "episode": 578,
+    "reward": -411.5,
+    "car_wait_avg": 4.025,
+    "ped_wait_avg": 1.04,
+    "signal_switches": 23
+  },
+  {
+    "episode": 579,
+    "reward": -335.0,
+    "car_wait_avg": 3.76,
+    "ped_wait_avg": 0.75,
+    "signal_switches": 22
+  },
+  {
+    "episode": 580,
+    "reward": -396.5,
+    "car_wait_avg": 4.1,
+    "ped_wait_avg": 0.895,
+    "signal_switches": 22
+  },
+  {
+    "episode": 581,
+    "reward": -411.5,
+    "car_wait_avg": 4.16,
+    "ped_wait_avg": 0.81,
+    "signal_switches": 23
+  },
+  {
+    "episode": 582,
+    "reward": -568.0,
+    "car_wait_avg": 4.56,
+    "ped_wait_avg": 1.115,
+    "signal_switches": 22
+  },
+  {
+    "episode": 583,
+    "reward": -406.5,
+    "car_wait_avg": 4.065,
+    "ped_wait_avg": 1.19,
+    "signal_switches": 21
+  },
+  {
+    "episode": 584,
+    "reward": -470.5,
+    "car_wait_avg": 4.28,
+    "ped_wait_avg": 0.875,
+    "signal_switches": 22
+  },
+  {
+    "episode": 585,
+    "reward": -464.0,
+    "car_wait_avg": 4.22,
+    "ped_wait_avg": 0.995,
+    "signal_switches": 23
+  },
+  {
+    "episode": 586,
+    "reward": -747.0,
+    "car_wait_avg": 5.315,
+    "ped_wait_avg": 0.805,
+    "signal_switches": 22
+  },
+  {
+    "episode": 587,
+    "reward": -483.0,
+    "car_wait_avg": 4.505,
+    "ped_wait_avg": 0.735,
+    "signal_switches": 23
+  },
+  {
+    "episode": 588,
+    "reward": -643.5,
+    "car_wait_avg": 4.625,
+    "ped_wait_avg": 1.07,
+    "signal_switches": 23
+  },
+  {
+    "episode": 589,
+    "reward": -423.5,
+    "car_wait_avg": 4.375,
+    "ped_wait_avg": 0.725,
+    "signal_switches": 22
+  },
+  {
+    "episode": 590,
+    "reward": -536.0,
+    "car_wait_avg": 4.575,
+    "ped_wait_avg": 0.955,
+    "signal_switches": 23
+  },
+  {
+    "episode": 591,
+    "reward": -510.5,
+    "car_wait_avg": 4.46,
+    "ped_wait_avg": 0.895,
+    "signal_switches": 23
+  },
+  {
+    "episode": 592,
+    "reward": -735.5,
+    "car_wait_avg": 5.04,
+    "ped_wait_avg": 0.82,
+    "signal_switches": 23
+  },
+  {
+    "episode": 593,
+    "reward": -238.5,
+    "car_wait_avg": 3.81,
+    "ped_wait_avg": 1.12,
+    "signal_switches": 23
+  },
+  {
+    "episode": 594,
+    "reward": -617.0,
+    "car_wait_avg": 4.795,
+    "ped_wait_avg": 1.135,
+    "signal_switches": 21
+  },
+  {
+    "episode": 595,
+    "reward": -535.5,
+    "car_wait_avg": 4.605,
+    "ped_wait_avg": 0.68,
+    "signal_switches": 21
+  },
+  {
+    "episode": 596,
+    "reward": -430.5,
+    "car_wait_avg": 4.265,
+    "ped_wait_avg": 0.825,
+    "signal_switches": 22
+  },
+  {
+    "episode": 597,
+    "reward": -334.5,
+    "car_wait_avg": 4.335,
+    "ped_wait_avg": 0.955,
+    "signal_switches": 22
+  },
+  {
+    "episode": 598,
+    "reward": -389.5,
+    "car_wait_avg": 4.235,
+    "ped_wait_avg": 0.805,
+    "signal_switches": 22
+  },
+  {
+    "episode": 599,
+    "reward": -394.5,
+    "car_wait_avg": 4.01,
+    "ped_wait_avg": 0.825,
+    "signal_switches": 20
+  },
+  {
+    "episode": 600,
+    "reward": -268.5,
+    "car_wait_avg": 3.65,
+    "ped_wait_avg": 0.96,
+    "signal_switches": 22
+  }
+]

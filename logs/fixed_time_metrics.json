@@ -1,0 +1,4802 @@
+[
+  {
+    "episode": 1,
+    "reward": -930.5,
+    "steps": 200,
+    "car_wait_avg": 5.965,
+    "ped_wait_avg": 1.07,
+    "signal_switches": 13
+  },
+  {
+    "episode": 2,
+    "reward": -5957.5,
+    "steps": 200,
+    "car_wait_avg": 11.635,
+    "ped_wait_avg": 5.5425,
+    "signal_switches": 13
+  },
+  {
+    "episode": 3,
+    "reward": -6133.0,
+    "steps": 200,
+    "car_wait_avg": 13.65,
+    "ped_wait_avg": 6.86,
+    "signal_switches": 13
+  },
+  {
+    "episode": 4,
+    "reward": -5864.5,
+    "steps": 200,
+    "car_wait_avg": 14.585,
+    "ped_wait_avg": 7.32875,
+    "signal_switches": 13
+  },
+  {
+    "episode": 5,
+    "reward": -6165.0,
+    "steps": 200,
+    "car_wait_avg": 15.196,
+    "ped_wait_avg": 7.947,
+    "signal_switches": 13
+  },
+  {
+    "episode": 6,
+    "reward": -6321.5,
+    "steps": 200,
+    "car_wait_avg": 15.64,
+    "ped_wait_avg": 8.405,
+    "signal_switches": 13
+  },
+  {
+    "episode": 7,
+    "reward": -5800.0,
+    "steps": 200,
+    "car_wait_avg": 15.815,
+    "ped_wait_avg": 8.692142857142857,
+    "signal_switches": 13
+  },
+  {
+    "episode": 8,
+    "reward": -6200.0,
+    "steps": 200,
+    "car_wait_avg": 16.08875,
+    "ped_wait_avg": 8.855,
+    "signal_switches": 13
+  },
+  {
+    "episode": 9,
+    "reward": -6017.5,
+    "steps": 200,
+    "car_wait_avg": 16.289444444444445,
+    "ped_wait_avg": 8.785,
+    "signal_switches": 13
+  },
+  {
+    "episode": 10,
+    "reward": -5934.5,
+    "steps": 200,
+    "car_wait_avg": 16.4555,
+    "ped_wait_avg": 8.668,
+    "signal_switches": 13
+  },
+  {
+    "episode": 11,
+    "reward": -6010.0,
+    "steps": 200,
+    "car_wait_avg": 16.481363636363636,
+    "ped_wait_avg": 8.858636363636364,
+    "signal_switches": 13
+  },
+  {
+    "episode": 12,
+    "reward": -6172.5,
+    "steps": 200,
+    "car_wait_avg": 16.55291666666667,
+    "ped_wait_avg": 9.018333333333333,
+    "signal_switches": 13
+  },
+  {
+    "episode": 13,
+    "reward": -6278.5,
+    "steps": 200,
+    "car_wait_avg": 16.721923076923076,
+    "ped_wait_avg": 8.946153846153846,
+    "signal_switches": 13
+  },
+  {
+    "episode": 14,
+    "reward": -6351.0,
+    "steps": 200,
+    "car_wait_avg": 16.839285714285715,
+    "ped_wait_avg": 9.020714285714286,
+    "signal_switches": 13
+  },
+  {
+    "episode": 15,
+    "reward": -6137.5,
+    "steps": 200,
+    "car_wait_avg": 16.934333333333335,
+    "ped_wait_avg": 8.992,
+    "signal_switches": 13
+  },
+  {
+    "episode": 16,
+    "reward": -5673.0,
+    "steps": 200,
+    "car_wait_avg": 16.9059375,
+    "ped_wait_avg": 9.1021875,
+    "signal_switches": 13
+  },
+  {
+    "episode": 17,
+    "reward": -5690.0,
+    "steps": 200,
+    "car_wait_avg": 16.888235294117646,
+    "ped_wait_avg": 9.175588235294118,
+    "signal_switches": 13
+  },
+  {
+    "episode": 18,
+    "reward": -5577.0,
+    "steps": 200,
+    "car_wait_avg": 16.779166666666665,
+    "ped_wait_avg": 9.294166666666667,
+    "signal_switches": 13
+  },
+  {
+    "episode": 19,
+    "reward": -5464.0,
+    "steps": 200,
+    "car_wait_avg": 16.76105263157895,
+    "ped_wait_avg": 9.237894736842104,
+    "signal_switches": 13
+  },
+  {
+    "episode": 20,
+    "reward": -6200.5,
+    "steps": 200,
+    "car_wait_avg": 16.8495,
+    "ped_wait_avg": 9.1645,
+    "signal_switches": 13
+  },
+  {
+    "episode": 21,
+    "reward": -6001.5,
+    "steps": 200,
+    "car_wait_avg": 16.911190476190477,
+    "ped_wait_avg": 9.084285714285715,
+    "signal_switches": 13
+  },
+  {
+    "episode": 22,
+    "reward": -6020.5,
+    "steps": 200,
+    "car_wait_avg": 16.938863636363635,
+    "ped_wait_avg": 9.126363636363637,
+    "signal_switches": 13
+  },
+  {
+    "episode": 23,
+    "reward": -6089.5,
+    "steps": 200,
+    "car_wait_avg": 16.95195652173913,
+    "ped_wait_avg": 9.241521739130436,
+    "signal_switches": 13
+  },
+  {
+    "episode": 24,
+    "reward": -6241.0,
+    "steps": 200,
+    "car_wait_avg": 17.00625,
+    "ped_wait_avg": 9.262083333333333,
+    "signal_switches": 13
+  },
+  {
+    "episode": 25,
+    "reward": -5772.5,
+    "steps": 200,
+    "car_wait_avg": 16.975,
+    "ped_wait_avg": 9.297,
+    "signal_switches": 13
+  },
+  {
+    "episode": 26,
+    "reward": -5545.5,
+    "steps": 200,
+    "car_wait_avg": 16.99923076923077,
+    "ped_wait_avg": 9.127884615384616,
+    "signal_switches": 13
+  },
+  {
+    "episode": 27,
+    "reward": -6003.5,
+    "steps": 200,
+    "car_wait_avg": 16.98111111111111,
+    "ped_wait_avg": 9.199259259259259,
+    "signal_switches": 13
+  },
+  {
+    "episode": 28,
+    "reward": -5340.0,
+    "steps": 200,
+    "car_wait_avg": 16.94,
+    "ped_wait_avg": 9.1525,
+    "signal_switches": 13
+  },
+  {
+    "episode": 29,
+    "reward": -6020.0,
+    "steps": 200,
+    "car_wait_avg": 16.927413793103447,
+    "ped_wait_avg": 9.24551724137931,
+    "signal_switches": 13
+  },
+  {
+    "episode": 30,
+    "reward": -6147.0,
+    "steps": 200,
+    "car_wait_avg": 16.949166666666667,
+    "ped_wait_avg": 9.292166666666667,
+    "signal_switches": 13
+  },
+  {
+    "episode": 31,
+    "reward": -5703.0,
+    "steps": 200,
+    "car_wait_avg": 16.960322580645162,
+    "ped_wait_avg": 9.23241935483871,
+    "signal_switches": 13
+  },
+  {
+    "episode": 32,
+    "reward": -5595.5,
+    "steps": 200,
+    "car_wait_avg": 16.95359375,
+    "ped_wait_avg": 9.1871875,
+    "signal_switches": 13
+  },
+  {
+    "episode": 33,
+    "reward": -6054.5,
+    "steps": 200,
+    "car_wait_avg": 16.963939393939395,
+    "ped_wait_avg": 9.210909090909091,
+    "signal_switches": 13
+  },
+  {
+    "episode": 34,
+    "reward": -5689.5,
+    "steps": 200,
+    "car_wait_avg": 16.968529411764706,
+    "ped_wait_avg": 9.190882352941177,
+    "signal_switches": 13
+  },
+  {
+    "episode": 35,
+    "reward": -5989.0,
+    "steps": 200,
+    "car_wait_avg": 16.956714285714284,
+    "ped_wait_avg": 9.300142857142857,
+    "signal_switches": 13
+  },
+  {
+    "episode": 36,
+    "reward": -6031.0,
+    "steps": 200,
+    "car_wait_avg": 16.97513888888889,
+    "ped_wait_avg": 9.303333333333333,
+    "signal_switches": 13
+  },
+  {
+    "episode": 37,
+    "reward": -6233.5,
+    "steps": 200,
+    "car_wait_avg": 16.979054054054053,
+    "ped_wait_avg": 9.370810810810811,
+    "signal_switches": 13
+  },
+  {
+    "episode": 38,
+    "reward": -5673.5,
+    "steps": 200,
+    "car_wait_avg": 16.995526315789473,
+    "ped_wait_avg": 9.284605263157895,
+    "signal_switches": 13
+  },
+  {
+    "episode": 39,
+    "reward": -6248.0,
+    "steps": 200,
+    "car_wait_avg": 17.00474358974359,
+    "ped_wait_avg": 9.357179487179486,
+    "signal_switches": 13
+  },
+  {
+    "episode": 40,
+    "reward": -5963.5,
+    "steps": 200,
+    "car_wait_avg": 17.0105,
+    "ped_wait_avg": 9.363375,
+    "signal_switches": 13
+  },
+  {
+    "episode": 41,
+    "reward": -6111.5,
+    "steps": 200,
+    "car_wait_avg": 17.014024390243904,
+    "ped_wait_avg": 9.410487804878048,
+    "signal_switches": 13
+  },
+  {
+    "episode": 42,
+    "reward": -5610.0,
+    "steps": 200,
+    "car_wait_avg": 17.010595238095238,
+    "ped_wait_avg": 9.380238095238095,
+    "signal_switches": 13
+  },
+  {
+    "episode": 43,
+    "reward": -5788.0,
+    "steps": 200,
+    "car_wait_avg": 17.01860465116279,
+    "ped_wait_avg": 9.347209302325581,
+    "signal_switches": 13
+  },
+  {
+    "episode": 44,
+    "reward": -5672.5,
+    "steps": 200,
+    "car_wait_avg": 17.031022727272727,
+    "ped_wait_avg": 9.276363636363635,
+    "signal_switches": 13
+  },
+  {
+    "episode": 45,
+    "reward": -5665.0,
+    "steps": 200,
+    "car_wait_avg": 16.99388888888889,
+    "ped_wait_avg": 9.359555555555556,
+    "signal_switches": 13
+  },
+  {
+    "episode": 46,
+    "reward": -6035.0,
+    "steps": 200,
+    "car_wait_avg": 17.007282608695654,
+    "ped_wait_avg": 9.344673913043477,
+    "signal_switches": 13
+  },
+  {
+    "episode": 47,
+    "reward": -6146.0,
+    "steps": 200,
+    "car_wait_avg": 17.02031914893617,
+    "ped_wait_avg": 9.348936170212767,
+    "signal_switches": 13
+  },
+  {
+    "episode": 48,
+    "reward": -5997.0,
+    "steps": 200,
+    "car_wait_avg": 17.018958333333334,
+    "ped_wait_avg": 9.392395833333333,
+    "signal_switches": 13
+  },
+  {
+    "episode": 49,
+    "reward": -6102.5,
+    "steps": 200,
+    "car_wait_avg": 17.020714285714284,
+    "ped_wait_avg": 9.44204081632653,
+    "signal_switches": 13
+  },
+  {
+    "episode": 50,
+    "reward": -6331.0,
+    "steps": 200,
+    "car_wait_avg": 17.0335,
+    "ped_wait_avg": 9.4958,
+    "signal_switches": 13
+  },
+  {
+    "episode": 51,
+    "reward": -6261.0,
+    "steps": 200,
+    "car_wait_avg": 17.054313725490196,
+    "ped_wait_avg": 9.517549019607843,
+    "signal_switches": 13
+  },
+  {
+    "episode": 52,
+    "reward": -6188.0,
+    "steps": 200,
+    "car_wait_avg": 17.071153846153845,
+    "ped_wait_avg": 9.529903846153847,
+    "signal_switches": 13
+  },
+  {
+    "episode": 53,
+    "reward": -6110.5,
+    "steps": 200,
+    "car_wait_avg": 17.077830188679247,
+    "ped_wait_avg": 9.567075471698113,
+    "signal_switches": 13
+  },
+  {
+    "episode": 54,
+    "reward": -5817.5,
+    "steps": 200,
+    "car_wait_avg": 17.078055555555554,
+    "ped_wait_avg": 9.567777777777778,
+    "signal_switches": 13
+  },
+  {
+    "episode": 55,
+    "reward": -6485.5,
+    "steps": 200,
+    "car_wait_avg": 17.085363636363635,
+    "ped_wait_avg": 9.652363636363637,
+    "signal_switches": 13
+  },
+  {
+    "episode": 56,
+    "reward": -6134.0,
+    "steps": 200,
+    "car_wait_avg": 17.094017857142855,
+    "ped_wait_avg": 9.675892857142857,
+    "signal_switches": 13
+  },
+  {
+    "episode": 57,
+    "reward": -5559.5,
+    "steps": 200,
+    "car_wait_avg": 17.09043859649123,
+    "ped_wait_avg": 9.615526315789474,
+    "signal_switches": 13
+  },
+  {
+    "episode": 58,
+    "reward": -5859.0,
+    "steps": 200,
+    "car_wait_avg": 17.098189655172416,
+    "ped_wait_avg": 9.578706896551724,
+    "signal_switches": 13
+  },
+  {
+    "episode": 59,
+    "reward": -6228.5,
+    "steps": 200,
+    "car_wait_avg": 17.112966101694916,
+    "ped_wait_avg": 9.591864406779662,
+    "signal_switches": 13
+  },
+  {
+    "episode": 60,
+    "reward": -6041.0,
+    "steps": 200,
+    "car_wait_avg": 17.1115,
+    "ped_wait_avg": 9.6215,
+    "signal_switches": 13
+  },
+  {
+    "episode": 61,
+    "reward": -5855.5,
+    "steps": 200,
+    "car_wait_avg": 17.126147540983606,
+    "ped_wait_avg": 9.56811475409836,
+    "signal_switches": 13
+  },
+  {
+    "episode": 62,
+    "reward": -6457.5,
+    "steps": 200,
+    "car_wait_avg": 17.140564516129032,
+    "ped_wait_avg": 9.606693548387097,
+    "signal_switches": 13
+  },
+  {
+    "episode": 63,
+    "reward": -5895.5,
+    "steps": 200,
+    "car_wait_avg": 17.151349206349206,
+    "ped_wait_avg": 9.577222222222222,
+    "signal_switches": 13
+  },
+  {
+    "episode": 64,
+    "reward": -6250.0,
+    "steps": 200,
+    "car_wait_avg": 17.160859375,
+    "ped_wait_avg": 9.597265625,
+    "signal_switches": 13
+  },
+  {
+    "episode": 65,
+    "reward": -6075.0,
+    "steps": 200,
+    "car_wait_avg": 17.15646153846154,
+    "ped_wait_avg": 9.623,
+    "signal_switches": 13
+  },
+  {
+    "episode": 66,
+    "reward": -5592.0,
+    "steps": 200,
+    "car_wait_avg": 17.158181818181816,
+    "ped_wait_avg": 9.57,
+    "signal_switches": 13
+  },
+  {
+    "episode": 67,
+    "reward": -6011.0,
+    "steps": 200,
+    "car_wait_avg": 17.15641791044776,
+    "ped_wait_avg": 9.587388059701492,
+    "signal_switches": 13
+  },
+  {
+    "episode": 68,
+    "reward": -5312.0,
+    "steps": 200,
+    "car_wait_avg": 17.13154411764706,
+    "ped_wait_avg": 9.596838235294118,
+    "signal_switches": 13
+  },
+  {
+    "episode": 69,
+    "reward": -5629.5,
+    "steps": 200,
+    "car_wait_avg": 17.131086956521738,
+    "ped_wait_avg": 9.566014492753624,
+    "signal_switches": 13
+  },
+  {
+    "episode": 70,
+    "reward": -5799.0,
+    "steps": 200,
+    "car_wait_avg": 17.1325,
+    "ped_wait_avg": 9.530285714285714,
+    "signal_switches": 13
+  },
+  {
+    "episode": 71,
+    "reward": -5684.5,
+    "steps": 200,
+    "car_wait_avg": 17.137535211267604,
+    "ped_wait_avg": 9.476901408450704,
+    "signal_switches": 13
+  },
+  {
+    "episode": 72,
+    "reward": -6317.0,
+    "steps": 200,
+    "car_wait_avg": 17.143402777777776,
+    "ped_wait_avg": 9.50361111111111,
+    "signal_switches": 13
+  },
+  {
+    "episode": 73,
+    "reward": -5984.0,
+    "steps": 200,
+    "car_wait_avg": 17.151575342465755,
+    "ped_wait_avg": 9.496232876712329,
+    "signal_switches": 13
+  },
+  {
+    "episode": 74,
+    "reward": -5905.0,
+    "steps": 200,
+    "car_wait_avg": 17.14891891891892,
+    "ped_wait_avg": 9.496689189189189,
+    "signal_switches": 13
+  },
+  {
+    "episode": 75,
+    "reward": -5793.5,
+    "steps": 200,
+    "car_wait_avg": 17.146933333333333,
+    "ped_wait_avg": 9.475,
+    "signal_switches": 13
+  },
+  {
+    "episode": 76,
+    "reward": -5418.5,
+    "steps": 200,
+    "car_wait_avg": 17.13861842105263,
+    "ped_wait_avg": 9.448947368421052,
+    "signal_switches": 13
+  },
+  {
+    "episode": 77,
+    "reward": -5676.5,
+    "steps": 200,
+    "car_wait_avg": 17.13331168831169,
+    "ped_wait_avg": 9.440779220779222,
+    "signal_switches": 13
+  },
+  {
+    "episode": 78,
+    "reward": -5652.5,
+    "steps": 200,
+    "car_wait_avg": 17.127371794871795,
+    "ped_wait_avg": 9.436730769230769,
+    "signal_switches": 13
+  },
+  {
+    "episode": 79,
+    "reward": -6217.5,
+    "steps": 200,
+    "car_wait_avg": 17.13867088607595,
+    "ped_wait_avg": 9.446772151898735,
+    "signal_switches": 13
+  },
+  {
+    "episode": 80,
+    "reward": -5752.5,
+    "steps": 200,
+    "car_wait_avg": 17.1380625,
+    "ped_wait_avg": 9.429,
+    "signal_switches": 13
+  },
+  {
+    "episode": 81,
+    "reward": -6102.0,
+    "steps": 200,
+    "car_wait_avg": 17.147345679012346,
+    "ped_wait_avg": 9.426172839506172,
+    "signal_switches": 13
+  },
+  {
+    "episode": 82,
+    "reward": -5838.5,
+    "steps": 200,
+    "car_wait_avg": 17.151158536585367,
+    "ped_wait_avg": 9.4025,
+    "signal_switches": 13
+  },
+  {
+    "episode": 83,
+    "reward": -6383.5,
+    "steps": 200,
+    "car_wait_avg": 17.16,
+    "ped_wait_avg": 9.42789156626506,
+    "signal_switches": 13
+  },
+  {
+    "episode": 84,
+    "reward": -6231.0,
+    "steps": 200,
+    "car_wait_avg": 17.167559523809523,
+    "ped_wait_avg": 9.435119047619047,
+    "signal_switches": 13
+  },
+  {
+    "episode": 85,
+    "reward": -5568.5,
+    "steps": 200,
+    "car_wait_avg": 17.14835294117647,
+    "ped_wait_avg": 9.46264705882353,
+    "signal_switches": 13
+  },
+  {
+    "episode": 86,
+    "reward": -6195.0,
+    "steps": 200,
+    "car_wait_avg": 17.156279069767443,
+    "ped_wait_avg": 9.476511627906977,
+    "signal_switches": 13
+  },
+  {
+    "episode": 87,
+    "reward": -6196.0,
+    "steps": 200,
+    "car_wait_avg": 17.16270114942529,
+    "ped_wait_avg": 9.48948275862069,
+    "signal_switches": 13
+  },
+  {
+    "episode": 88,
+    "reward": -5725.0,
+    "steps": 200,
+    "car_wait_avg": 17.154602272727274,
+    "ped_wait_avg": 9.508920454545455,
+    "signal_switches": 13
+  },
+  {
+    "episode": 89,
+    "reward": -6067.0,
+    "steps": 200,
+    "car_wait_avg": 17.152808988764043,
+    "ped_wait_avg": 9.529719101123595,
+    "signal_switches": 13
+  },
+  {
+    "episode": 90,
+    "reward": -5705.0,
+    "steps": 200,
+    "car_wait_avg": 17.151777777777777,
+    "ped_wait_avg": 9.514888888888889,
+    "signal_switches": 13
+  },
+  {
+    "episode": 91,
+    "reward": -5703.0,
+    "steps": 200,
+    "car_wait_avg": 17.144395604395605,
+    "ped_wait_avg": 9.527472527472527,
+    "signal_switches": 13
+  },
+  {
+    "episode": 92,
+    "reward": -6205.5,
+    "steps": 200,
+    "car_wait_avg": 17.151847826086957,
+    "ped_wait_avg": 9.545760869565218,
+    "signal_switches": 13
+  },
+  {
+    "episode": 93,
+    "reward": -6015.5,
+    "steps": 200,
+    "car_wait_avg": 17.158602150537636,
+    "ped_wait_avg": 9.536612903225807,
+    "signal_switches": 13
+  },
+  {
+    "episode": 94,
+    "reward": -5737.5,
+    "steps": 200,
+    "car_wait_avg": 17.14936170212766,
+    "ped_wait_avg": 9.560372340425532,
+    "signal_switches": 13
+  },
+  {
+    "episode": 95,
+    "reward": -5686.0,
+    "steps": 200,
+    "car_wait_avg": 17.143,
+    "ped_wait_avg": 9.541210526315789,
+    "signal_switches": 13
+  },
+  {
+    "episode": 96,
+    "reward": -5129.5,
+    "steps": 200,
+    "car_wait_avg": 17.13234375,
+    "ped_wait_avg": 9.502864583333333,
+    "signal_switches": 13
+  },
+  {
+    "episode": 97,
+    "reward": -6414.5,
+    "steps": 200,
+    "car_wait_avg": 17.142886597938144,
+    "ped_wait_avg": 9.517268041237113,
+    "signal_switches": 13
+  },
+  {
+    "episode": 98,
+    "reward": -5823.0,
+    "steps": 200,
+    "car_wait_avg": 17.144489795918368,
+    "ped_wait_avg": 9.508367346938776,
+    "signal_switches": 13
+  },
+  {
+    "episode": 99,
+    "reward": -5975.0,
+    "steps": 200,
+    "car_wait_avg": 17.143636363636364,
+    "ped_wait_avg": 9.522626262626263,
+    "signal_switches": 13
+  },
+  {
+    "episode": 100,
+    "reward": -6023.0,
+    "steps": 200,
+    "car_wait_avg": 17.1428,
+    "ped_wait_avg": 9.53485,
+    "signal_switches": 13
+  },
+  {
+    "episode": 101,
+    "reward": -6267.0,
+    "steps": 200,
+    "car_wait_avg": 17.149257425742576,
+    "ped_wait_avg": 9.54029702970297,
+    "signal_switches": 13
+  },
+  {
+    "episode": 102,
+    "reward": -6097.0,
+    "steps": 200,
+    "car_wait_avg": 17.150294117647057,
+    "ped_wait_avg": 9.548529411764706,
+    "signal_switches": 13
+  },
+  {
+    "episode": 103,
+    "reward": -6412.5,
+    "steps": 200,
+    "car_wait_avg": 17.15868932038835,
+    "ped_wait_avg": 9.570922330097087,
+    "signal_switches": 13
+  },
+  {
+    "episode": 104,
+    "reward": -5691.0,
+    "steps": 200,
+    "car_wait_avg": 17.15639423076923,
+    "ped_wait_avg": 9.566346153846155,
+    "signal_switches": 13
+  },
+  {
+    "episode": 105,
+    "reward": -6472.5,
+    "steps": 200,
+    "car_wait_avg": 17.164380952380952,
+    "ped_wait_avg": 9.592428571428572,
+    "signal_switches": 13
+  },
+  {
+    "episode": 106,
+    "reward": -5945.5,
+    "steps": 200,
+    "car_wait_avg": 17.17448113207547,
+    "ped_wait_avg": 9.56872641509434,
+    "signal_switches": 13
+  },
+  {
+    "episode": 107,
+    "reward": -6040.0,
+    "steps": 200,
+    "car_wait_avg": 17.176214953271028,
+    "ped_wait_avg": 9.575140186915888,
+    "signal_switches": 13
+  },
+  {
+    "episode": 108,
+    "reward": -5958.5,
+    "steps": 200,
+    "car_wait_avg": 17.172824074074075,
+    "ped_wait_avg": 9.58388888888889,
+    "signal_switches": 13
+  },
+  {
+    "episode": 109,
+    "reward": -5817.5,
+    "steps": 200,
+    "car_wait_avg": 17.169495412844036,
+    "ped_wait_avg": 9.585183486238533,
+    "signal_switches": 13
+  },
+  {
+    "episode": 110,
+    "reward": -5616.5,
+    "steps": 200,
+    "car_wait_avg": 17.166681818181818,
+    "ped_wait_avg": 9.567954545454546,
+    "signal_switches": 13
+  },
+  {
+    "episode": 111,
+    "reward": -5845.5,
+    "steps": 200,
+    "car_wait_avg": 17.165405405405405,
+    "ped_wait_avg": 9.574594594594595,
+    "signal_switches": 13
+  },
+  {
+    "episode": 112,
+    "reward": -5472.0,
+    "steps": 200,
+    "car_wait_avg": 17.147321428571427,
+    "ped_wait_avg": 9.607008928571428,
+    "signal_switches": 13
+  },
+  {
+    "episode": 113,
+    "reward": -5822.0,
+    "steps": 200,
+    "car_wait_avg": 17.151991150442477,
+    "ped_wait_avg": 9.585619469026549,
+    "signal_switches": 13
+  },
+  {
+    "episode": 114,
+    "reward": -5765.5,
+    "steps": 200,
+    "car_wait_avg": 17.154429824561404,
+    "ped_wait_avg": 9.568201754385965,
+    "signal_switches": 13
+  },
+  {
+    "episode": 115,
+    "reward": -6181.5,
+    "steps": 200,
+    "car_wait_avg": 17.161739130434782,
+    "ped_wait_avg": 9.565913043478261,
+    "signal_switches": 13
+  },
+  {
+    "episode": 116,
+    "reward": -5611.0,
+    "steps": 200,
+    "car_wait_avg": 17.15637931034483,
+    "ped_wait_avg": 9.564396551724139,
+    "signal_switches": 13
+  },
+  {
+    "episode": 117,
+    "reward": -5905.0,
+    "steps": 200,
+    "car_wait_avg": 17.164700854700854,
+    "ped_wait_avg": 9.532008547008546,
+    "signal_switches": 13
+  },
+  {
+    "episode": 118,
+    "reward": -6013.0,
+    "steps": 200,
+    "car_wait_avg": 17.158177966101697,
+    "ped_wait_avg": 9.567118644067797,
+    "signal_switches": 13
+  },
+  {
+    "episode": 119,
+    "reward": -6028.0,
+    "steps": 200,
+    "car_wait_avg": 17.161512605042017,
+    "ped_wait_avg": 9.57172268907563,
+    "signal_switches": 13
+  },
+  {
+    "episode": 120,
+    "reward": -6364.5,
+    "steps": 200,
+    "car_wait_avg": 17.164166666666667,
+    "ped_wait_avg": 9.598625,
+    "signal_switches": 13
+  },
+  {
+    "episode": 121,
+    "reward": -6232.5,
+    "steps": 200,
+    "car_wait_avg": 17.16913223140496,
+    "ped_wait_avg": 9.60694214876033,
+    "signal_switches": 13
+  },
+  {
+    "episode": 122,
+    "reward": -5888.5,
+    "steps": 200,
+    "car_wait_avg": 17.17344262295082,
+    "ped_wait_avg": 9.590901639344262,
+    "signal_switches": 13
+  },
+  {
+    "episode": 123,
+    "reward": -5596.0,
+    "steps": 200,
+    "car_wait_avg": 17.16552845528455,
+    "ped_wait_avg": 9.60109756097561,
+    "signal_switches": 13
+  },
+  {
+    "episode": 124,
+    "reward": -6291.5,
+    "steps": 200,
+    "car_wait_avg": 17.171774193548387,
+    "ped_wait_avg": 9.612862903225807,
+    "signal_switches": 13
+  },
+  {
+    "episode": 125,
+    "reward": -5686.0,
+    "steps": 200,
+    "car_wait_avg": 17.16524,
+    "ped_wait_avg": 9.62188,
+    "signal_switches": 13
+  },
+  {
+    "episode": 126,
+    "reward": -5807.5,
+    "steps": 200,
+    "car_wait_avg": 17.16575396825397,
+    "ped_wait_avg": 9.612063492063491,
+    "signal_switches": 13
+  },
+  {
+    "episode": 127,
+    "reward": -5641.5,
+    "steps": 200,
+    "car_wait_avg": 17.162165354330707,
+    "ped_wait_avg": 9.605157480314961,
+    "signal_switches": 13
+  },
+  {
+    "episode": 128,
+    "reward": -5395.5,
+    "steps": 200,
+    "car_wait_avg": 17.157890625,
+    "ped_wait_avg": 9.58296875,
+    "signal_switches": 13
+  },
+  {
+    "episode": 129,
+    "reward": -6133.5,
+    "steps": 200,
+    "car_wait_avg": 17.15887596899225,
+    "ped_wait_avg": 9.597906976744186,
+    "signal_switches": 13
+  },
+  {
+    "episode": 130,
+    "reward": -6584.5,
+    "steps": 200,
+    "car_wait_avg": 17.16696153846154,
+    "ped_wait_avg": 9.625423076923077,
+    "signal_switches": 13
+  },
+  {
+    "episode": 131,
+    "reward": -6188.0,
+    "steps": 200,
+    "car_wait_avg": 17.175343511450382,
+    "ped_wait_avg": 9.62087786259542,
+    "signal_switches": 13
+  },
+  {
+    "episode": 132,
+    "reward": -5892.5,
+    "steps": 200,
+    "car_wait_avg": 17.177651515151513,
+    "ped_wait_avg": 9.608598484848486,
+    "signal_switches": 13
+  },
+  {
+    "episode": 133,
+    "reward": -6323.0,
+    "steps": 200,
+    "car_wait_avg": 17.18078947368421,
+    "ped_wait_avg": 9.627180451127819,
+    "signal_switches": 13
+  },
+  {
+    "episode": 134,
+    "reward": -5622.0,
+    "steps": 200,
+    "car_wait_avg": 17.176641791044776,
+    "ped_wait_avg": 9.615634328358208,
+    "signal_switches": 13
+  },
+  {
+    "episode": 135,
+    "reward": -6014.5,
+    "steps": 200,
+    "car_wait_avg": 17.180629629629628,
+    "ped_wait_avg": 9.610407407407408,
+    "signal_switches": 13
+  },
+  {
+    "episode": 136,
+    "reward": -6378.0,
+    "steps": 200,
+    "car_wait_avg": 17.186360294117648,
+    "ped_wait_avg": 9.625257352941176,
+    "signal_switches": 13
+  },
+  {
+    "episode": 137,
+    "reward": -5474.0,
+    "steps": 200,
+    "car_wait_avg": 17.17624087591241,
+    "ped_wait_avg": 9.627007299270073,
+    "signal_switches": 13
+  },
+  {
+    "episode": 138,
+    "reward": -6150.5,
+    "steps": 200,
+    "car_wait_avg": 17.172608695652173,
+    "ped_wait_avg": 9.646086956521739,
+    "signal_switches": 13
+  },
+  {
+    "episode": 139,
+    "reward": -6140.5,
+    "steps": 200,
+    "car_wait_avg": 17.173705035971224,
+    "ped_wait_avg": 9.651690647482015,
+    "signal_switches": 13
+  },
+  {
+    "episode": 140,
+    "reward": -5744.0,
+    "steps": 200,
+    "car_wait_avg": 17.17667857142857,
+    "ped_wait_avg": 9.632285714285715,
+    "signal_switches": 13
+  },
+  {
+    "episode": 141,
+    "reward": -5407.5,
+    "steps": 200,
+    "car_wait_avg": 17.17276595744681,
+    "ped_wait_avg": 9.614680851063829,
+    "signal_switches": 13
+  },
+  {
+    "episode": 142,
+    "reward": -5824.0,
+    "steps": 200,
+    "car_wait_avg": 17.168661971830986,
+    "ped_wait_avg": 9.624260563380282,
+    "signal_switches": 13
+  },
+  {
+    "episode": 143,
+    "reward": -5777.0,
+    "steps": 200,
+    "car_wait_avg": 17.172237762237764,
+    "ped_wait_avg": 9.604055944055943,
+    "signal_switches": 13
+  },
+  {
+    "episode": 144,
+    "reward": -5631.0,
+    "steps": 200,
+    "car_wait_avg": 17.177465277777777,
+    "ped_wait_avg": 9.56861111111111,
+    "signal_switches": 13
+  },
+  {
+    "episode": 145,
+    "reward": -5575.5,
+    "steps": 200,
+    "car_wait_avg": 17.17348275862069,
+    "ped_wait_avg": 9.55706896551724,
+    "signal_switches": 13
+  },
+  {
+    "episode": 146,
+    "reward": -6156.5,
+    "steps": 200,
+    "car_wait_avg": 17.179109589041097,
+    "ped_wait_avg": 9.55236301369863,
+    "signal_switches": 13
+  },
+  {
+    "episode": 147,
+    "reward": -6139.0,
+    "steps": 200,
+    "car_wait_avg": 17.179965986394556,
+    "ped_wait_avg": 9.570544217687075,
+    "signal_switches": 13
+  },
+  {
+    "episode": 148,
+    "reward": -6086.0,
+    "steps": 200,
+    "car_wait_avg": 17.179222972972973,
+    "ped_wait_avg": 9.587364864864865,
+    "signal_switches": 13
+  },
+  {
+    "episode": 149,
+    "reward": -5764.0,
+    "steps": 200,
+    "car_wait_avg": 17.174127516778523,
+    "ped_wait_avg": 9.595302013422819,
+    "signal_switches": 13
+  },
+  {
+    "episode": 150,
+    "reward": -6155.5,
+    "steps": 200,
+    "car_wait_avg": 17.178833333333333,
+    "ped_wait_avg": 9.5989,
+    "signal_switches": 13
+  },
+  {
+    "episode": 151,
+    "reward": -6377.5,
+    "steps": 200,
+    "car_wait_avg": 17.178774834437085,
+    "ped_wait_avg": 9.630033112582781,
+    "signal_switches": 13
+  },
+  {
+    "episode": 152,
+    "reward": -6310.0,
+    "steps": 200,
+    "car_wait_avg": 17.178815789473685,
+    "ped_wait_avg": 9.656447368421052,
+    "signal_switches": 13
+  },
+  {
+    "episode": 153,
+    "reward": -6350.0,
+    "steps": 200,
+    "car_wait_avg": 17.18156862745098,
+    "ped_wait_avg": 9.676274509803921,
+    "signal_switches": 13
+  },
+  {
+    "episode": 154,
+    "reward": -6262.0,
+    "steps": 200,
+    "car_wait_avg": 17.18766233766234,
+    "ped_wait_avg": 9.676818181818183,
+    "signal_switches": 13
+  },
+  {
+    "episode": 155,
+    "reward": -5620.5,
+    "steps": 200,
+    "car_wait_avg": 17.187645161290323,
+    "ped_wait_avg": 9.654290322580644,
+    "signal_switches": 13
+  },
+  {
+    "episode": 156,
+    "reward": -5588.5,
+    "steps": 200,
+    "car_wait_avg": 17.179134615384616,
+    "ped_wait_avg": 9.66448717948718,
+    "signal_switches": 13
+  },
+  {
+    "episode": 157,
+    "reward": -5633.0,
+    "steps": 200,
+    "car_wait_avg": 17.176146496815285,
+    "ped_wait_avg": 9.655573248407643,
+    "signal_switches": 13
+  },
+  {
+    "episode": 158,
+    "reward": -6495.0,
+    "steps": 200,
+    "car_wait_avg": 17.18411392405063,
+    "ped_wait_avg": 9.664778481012657,
+    "signal_switches": 13
+  },
+  {
+    "episode": 159,
+    "reward": -5804.0,
+    "steps": 200,
+    "car_wait_avg": 17.184591194968554,
+    "ped_wait_avg": 9.656069182389937,
+    "signal_switches": 13
+  },
+  {
+    "episode": 160,
+    "reward": -5484.0,
+    "steps": 200,
+    "car_wait_avg": 17.1839375,
+    "ped_wait_avg": 9.631,
+    "signal_switches": 13
+  },
+  {
+    "episode": 161,
+    "reward": -5948.0,
+    "steps": 200,
+    "car_wait_avg": 17.182049689440994,
+    "ped_wait_avg": 9.645062111801241,
+    "signal_switches": 13
+  },
+  {
+    "episode": 162,
+    "reward": -6524.0,
+    "steps": 200,
+    "car_wait_avg": 17.19064814814815,
+    "ped_wait_avg": 9.655154320987654,
+    "signal_switches": 13
+  },
+  {
+    "episode": 163,
+    "reward": -6368.5,
+    "steps": 200,
+    "car_wait_avg": 17.191411042944786,
+    "ped_wait_avg": 9.672147239263804,
+    "signal_switches": 13
+  },
+  {
+    "episode": 164,
+    "reward": -6158.5,
+    "steps": 200,
+    "car_wait_avg": 17.19609756097561,
+    "ped_wait_avg": 9.672896341463415,
+    "signal_switches": 13
+  },
+  {
+    "episode": 165,
+    "reward": -6122.5,
+    "steps": 200,
+    "car_wait_avg": 17.199545454545454,
+    "ped_wait_avg": 9.673484848484849,
+    "signal_switches": 13
+  },
+  {
+    "episode": 166,
+    "reward": -5981.5,
+    "steps": 200,
+    "car_wait_avg": 17.20460843373494,
+    "ped_wait_avg": 9.659156626506023,
+    "signal_switches": 13
+  },
+  {
+    "episode": 167,
+    "reward": -5999.5,
+    "steps": 200,
+    "car_wait_avg": 17.20934131736527,
+    "ped_wait_avg": 9.647425149700599,
+    "signal_switches": 13
+  },
+  {
+    "episode": 168,
+    "reward": -5587.5,
+    "steps": 200,
+    "car_wait_avg": 17.201428571428572,
+    "ped_wait_avg": 9.659196428571429,
+    "signal_switches": 13
+  },
+  {
+    "episode": 169,
+    "reward": -6382.5,
+    "steps": 200,
+    "car_wait_avg": 17.20526627218935,
+    "ped_wait_avg": 9.669378698224852,
+    "signal_switches": 13
+  },
+  {
+    "episode": 170,
+    "reward": -5887.0,
+    "steps": 200,
+    "car_wait_avg": 17.198794117647058,
+    "ped_wait_avg": 9.688470588235294,
+    "signal_switches": 13
+  },
+  {
+    "episode": 171,
+    "reward": -5744.5,
+    "steps": 200,
+    "car_wait_avg": 17.19891812865497,
+    "ped_wait_avg": 9.67640350877193,
+    "signal_switches": 13
+  },
+  {
+    "episode": 172,
+    "reward": -5735.5,
+    "steps": 200,
+    "car_wait_avg": 17.193808139534884,
+    "ped_wait_avg": 9.685116279069767,
+    "signal_switches": 13
+  },
+  {
+    "episode": 173,
+    "reward": -5662.5,
+    "steps": 200,
+    "car_wait_avg": 17.194161849710984,
+    "ped_wait_avg": 9.673526011560694,
+    "signal_switches": 13
+  },
+  {
+    "episode": 174,
+    "reward": -6031.0,
+    "steps": 200,
+    "car_wait_avg": 17.195718390804597,
+    "ped_wait_avg": 9.673017241379311,
+    "signal_switches": 13
+  },
+  {
+    "episode": 175,
+    "reward": -6005.5,
+    "steps": 200,
+    "car_wait_avg": 17.194828571428573,
+    "ped_wait_avg": 9.6826,
+    "signal_switches": 13
+  },
+  {
+    "episode": 176,
+    "reward": -6026.0,
+    "steps": 200,
+    "car_wait_avg": 17.193409090909093,
+    "ped_wait_avg": 9.695,
+    "signal_switches": 13
+  },
+  {
+    "episode": 177,
+    "reward": -6430.0,
+    "steps": 200,
+    "car_wait_avg": 17.201751412429378,
+    "ped_wait_avg": 9.695310734463277,
+    "signal_switches": 13
+  },
+  {
+    "episode": 178,
+    "reward": -6254.0,
+    "steps": 200,
+    "car_wait_avg": 17.200028089887642,
+    "ped_wait_avg": 9.71441011235955,
+    "signal_switches": 13
+  },
+  {
+    "episode": 179,
+    "reward": -6335.0,
+    "steps": 200,
+    "car_wait_avg": 17.20645251396648,
+    "ped_wait_avg": 9.716117318435755,
+    "signal_switches": 13
+  },
+  {
+    "episode": 180,
+    "reward": -6225.5,
+    "steps": 200,
+    "car_wait_avg": 17.20513888888889,
+    "ped_wait_avg": 9.730944444444445,
+    "signal_switches": 13
+  },
+  {
+    "episode": 181,
+    "reward": -5674.0,
+    "steps": 200,
+    "car_wait_avg": 17.202624309392267,
+    "ped_wait_avg": 9.72792817679558,
+    "signal_switches": 13
+  },
+  {
+    "episode": 182,
+    "reward": -5564.0,
+    "steps": 200,
+    "car_wait_avg": 17.199725274725274,
+    "ped_wait_avg": 9.719807692307691,
+    "signal_switches": 13
+  },
+  {
+    "episode": 183,
+    "reward": -5833.5,
+    "steps": 200,
+    "car_wait_avg": 17.199562841530053,
+    "ped_wait_avg": 9.713333333333333,
+    "signal_switches": 13
+  },
+  {
+    "episode": 184,
+    "reward": -5514.5,
+    "steps": 200,
+    "car_wait_avg": 17.196766304347825,
+    "ped_wait_avg": 9.699619565217391,
+    "signal_switches": 13
+  },
+  {
+    "episode": 185,
+    "reward": -6429.0,
+    "steps": 200,
+    "car_wait_avg": 17.198162162162163,
+    "ped_wait_avg": 9.723648648648648,
+    "signal_switches": 13
+  },
+  {
+    "episode": 186,
+    "reward": -5990.0,
+    "steps": 200,
+    "car_wait_avg": 17.198548387096775,
+    "ped_wait_avg": 9.7275,
+    "signal_switches": 13
+  },
+  {
+    "episode": 187,
+    "reward": -5890.5,
+    "steps": 200,
+    "car_wait_avg": 17.20216577540107,
+    "ped_wait_avg": 9.714866310160428,
+    "signal_switches": 13
+  },
+  {
+    "episode": 188,
+    "reward": -6327.0,
+    "steps": 200,
+    "car_wait_avg": 17.204867021276595,
+    "ped_wait_avg": 9.728218085106382,
+    "signal_switches": 13
+  },
+  {
+    "episode": 189,
+    "reward": -6548.5,
+    "steps": 200,
+    "car_wait_avg": 17.210026455026455,
+    "ped_wait_avg": 9.742037037037036,
+    "signal_switches": 13
+  },
+  {
+    "episode": 190,
+    "reward": -5648.0,
+    "steps": 200,
+    "car_wait_avg": 17.20863157894737,
+    "ped_wait_avg": 9.737394736842106,
+    "signal_switches": 13
+  },
+  {
+    "episode": 191,
+    "reward": -6316.5,
+    "steps": 200,
+    "car_wait_avg": 17.214842931937174,
+    "ped_wait_avg": 9.732303664921465,
+    "signal_switches": 13
+  },
+  {
+    "episode": 192,
+    "reward": -6060.5,
+    "steps": 200,
+    "car_wait_avg": 17.21856770833333,
+    "ped_wait_avg": 9.726979166666666,
+    "signal_switches": 13
+  },
+  {
+    "episode": 193,
+    "reward": -6075.0,
+    "steps": 200,
+    "car_wait_avg": 17.222305699481865,
+    "ped_wait_avg": 9.726606217616581,
+    "signal_switches": 13
+  },
+  {
+    "episode": 194,
+    "reward": -6234.0,
+    "steps": 200,
+    "car_wait_avg": 17.22634020618557,
+    "ped_wait_avg": 9.727938144329897,
+    "signal_switches": 13
+  },
+  {
+    "episode": 195,
+    "reward": -5920.5,
+    "steps": 200,
+    "car_wait_avg": 17.22423076923077,
+    "ped_wait_avg": 9.731897435897435,
+    "signal_switches": 13
+  },
+  {
+    "episode": 196,
+    "reward": -5831.5,
+    "steps": 200,
+    "car_wait_avg": 17.222219387755104,
+    "ped_wait_avg": 9.73734693877551,
+    "signal_switches": 13
+  },
+  {
+    "episode": 197,
+    "reward": -5717.5,
+    "steps": 200,
+    "car_wait_avg": 17.216522842639595,
+    "ped_wait_avg": 9.74002538071066,
+    "signal_switches": 13
+  },
+  {
+    "episode": 198,
+    "reward": -5679.0,
+    "steps": 200,
+    "car_wait_avg": 17.214469696969697,
+    "ped_wait_avg": 9.732525252525253,
+    "signal_switches": 13
+  },
+  {
+    "episode": 199,
+    "reward": -6153.0,
+    "steps": 200,
+    "car_wait_avg": 17.21653266331658,
+    "ped_wait_avg": 9.738467336683417,
+    "signal_switches": 13
+  },
+  {
+    "episode": 200,
+    "reward": -5864.0,
+    "steps": 200,
+    "car_wait_avg": 17.216325,
+    "ped_wait_avg": 9.7336,
+    "signal_switches": 13
+  },
+  {
+    "episode": 201,
+    "reward": -6338.5,
+    "steps": 200,
+    "car_wait_avg": 17.218855721393034,
+    "ped_wait_avg": 9.746144278606964,
+    "signal_switches": 13
+  },
+  {
+    "episode": 202,
+    "reward": -5974.0,
+    "steps": 200,
+    "car_wait_avg": 17.21980198019802,
+    "ped_wait_avg": 9.747673267326732,
+    "signal_switches": 13
+  },
+  {
+    "episode": 203,
+    "reward": -5701.5,
+    "steps": 200,
+    "car_wait_avg": 17.218817733990146,
+    "ped_wait_avg": 9.73844827586207,
+    "signal_switches": 13
+  },
+  {
+    "episode": 204,
+    "reward": -5935.0,
+    "steps": 200,
+    "car_wait_avg": 17.21825980392157,
+    "ped_wait_avg": 9.738725490196078,
+    "signal_switches": 13
+  },
+  {
+    "episode": 205,
+    "reward": -6327.5,
+    "steps": 200,
+    "car_wait_avg": 17.219317073170732,
+    "ped_wait_avg": 9.74780487804878,
+    "signal_switches": 13
+  },
+  {
+    "episode": 206,
+    "reward": -5478.5,
+    "steps": 200,
+    "car_wait_avg": 17.209514563106797,
+    "ped_wait_avg": 9.753131067961165,
+    "signal_switches": 13
+  },
+  {
+    "episode": 207,
+    "reward": -6138.5,
+    "steps": 200,
+    "car_wait_avg": 17.21086956521739,
+    "ped_wait_avg": 9.759685990338165,
+    "signal_switches": 13
+  },
+  {
+    "episode": 208,
+    "reward": -6046.5,
+    "steps": 200,
+    "car_wait_avg": 17.212668269230768,
+    "ped_wait_avg": 9.757403846153846,
+    "signal_switches": 13
+  },
+  {
+    "episode": 209,
+    "reward": -6144.0,
+    "steps": 200,
+    "car_wait_avg": 17.213014354066985,
+    "ped_wait_avg": 9.769617224880383,
+    "signal_switches": 13
+  },
+  {
+    "episode": 210,
+    "reward": -5479.5,
+    "steps": 200,
+    "car_wait_avg": 17.21047619047619,
+    "ped_wait_avg": 9.754666666666667,
+    "signal_switches": 13
+  },
+  {
+    "episode": 211,
+    "reward": -6202.0,
+    "steps": 200,
+    "car_wait_avg": 17.212962085308057,
+    "ped_wait_avg": 9.757511848341233,
+    "signal_switches": 13
+  },
+  {
+    "episode": 212,
+    "reward": -5986.5,
+    "steps": 200,
+    "car_wait_avg": 17.211320754716983,
+    "ped_wait_avg": 9.765825471698113,
+    "signal_switches": 13
+  },
+  {
+    "episode": 213,
+    "reward": -5354.0,
+    "steps": 200,
+    "car_wait_avg": 17.21042253521127,
+    "ped_wait_avg": 9.742676056338029,
+    "signal_switches": 13
+  },
+  {
+    "episode": 214,
+    "reward": -6006.0,
+    "steps": 200,
+    "car_wait_avg": 17.211915887850466,
+    "ped_wait_avg": 9.74035046728972,
+    "signal_switches": 13
+  },
+  {
+    "episode": 215,
+    "reward": -5918.5,
+    "steps": 200,
+    "car_wait_avg": 17.215511627906977,
+    "ped_wait_avg": 9.728906976744186,
+    "signal_switches": 13
+  },
+  {
+    "episode": 216,
+    "reward": -5797.0,
+    "steps": 200,
+    "car_wait_avg": 17.215925925925927,
+    "ped_wait_avg": 9.715231481481482,
+    "signal_switches": 13
+  },
+  {
+    "episode": 217,
+    "reward": -6118.5,
+    "steps": 200,
+    "car_wait_avg": 17.21808755760369,
+    "ped_wait_avg": 9.718571428571428,
+    "signal_switches": 13
+  },
+  {
+    "episode": 218,
+    "reward": -5539.0,
+    "steps": 200,
+    "car_wait_avg": 17.215298165137614,
+    "ped_wait_avg": 9.714266055045872,
+    "signal_switches": 13
+  },
+  {
+    "episode": 219,
+    "reward": -6330.5,
+    "steps": 200,
+    "car_wait_avg": 17.217100456621004,
+    "ped_wait_avg": 9.729794520547944,
+    "signal_switches": 13
+  },
+  {
+    "episode": 220,
+    "reward": -6276.0,
+    "steps": 200,
+    "car_wait_avg": 17.221090909090908,
+    "ped_wait_avg": 9.732636363636363,
+    "signal_switches": 13
+  },
+  {
+    "episode": 221,
+    "reward": -5365.5,
+    "steps": 200,
+    "car_wait_avg": 17.214253393665157,
+    "ped_wait_avg": 9.73054298642534,
+    "signal_switches": 13
+  },
+  {
+    "episode": 222,
+    "reward": -6248.0,
+    "steps": 200,
+    "car_wait_avg": 17.215833333333332,
+    "ped_wait_avg": 9.74099099099099,
+    "signal_switches": 13
+  },
+  {
+    "episode": 223,
+    "reward": -6689.5,
+    "steps": 200,
+    "car_wait_avg": 17.220695067264575,
+    "ped_wait_avg": 9.757107623318385,
+    "signal_switches": 13
+  },
+  {
+    "episode": 224,
+    "reward": -6188.0,
+    "steps": 200,
+    "car_wait_avg": 17.2240625,
+    "ped_wait_avg": 9.758058035714285,
+    "signal_switches": 13
+  },
+  {
+    "episode": 225,
+    "reward": -5792.5,
+    "steps": 200,
+    "car_wait_avg": 17.226644444444446,
+    "ped_wait_avg": 9.744311111111111,
+    "signal_switches": 13
+  },
+  {
+    "episode": 226,
+    "reward": -5643.5,
+    "steps": 200,
+    "car_wait_avg": 17.226061946902654,
+    "ped_wait_avg": 9.73637168141593,
+    "signal_switches": 13
+  },
+  {
+    "episode": 227,
+    "reward": -5861.0,
+    "steps": 200,
+    "car_wait_avg": 17.229493392070484,
+    "ped_wait_avg": 9.722466960352422,
+    "signal_switches": 13
+  },
+  {
+    "episode": 228,
+    "reward": -6046.5,
+    "steps": 200,
+    "car_wait_avg": 17.230570175438597,
+    "ped_wait_avg": 9.720526315789474,
+    "signal_switches": 13
+  },
+  {
+    "episode": 229,
+    "reward": -6155.0,
+    "steps": 200,
+    "car_wait_avg": 17.234672489082968,
+    "ped_wait_avg": 9.715633187772927,
+    "signal_switches": 13
+  },
+  {
+    "episode": 230,
+    "reward": -6116.0,
+    "steps": 200,
+    "car_wait_avg": 17.234217391304348,
+    "ped_wait_avg": 9.714956521739131,
+    "signal_switches": 13
+  },
+  {
+    "episode": 231,
+    "reward": -6230.0,
+    "steps": 200,
+    "car_wait_avg": 17.240194805194804,
+    "ped_wait_avg": 9.708030303030304,
+    "signal_switches": 13
+  },
+  {
+    "episode": 232,
+    "reward": -6037.5,
+    "steps": 200,
+    "car_wait_avg": 17.240237068965516,
+    "ped_wait_avg": 9.71323275862069,
+    "signal_switches": 13
+  },
+  {
+    "episode": 233,
+    "reward": -6031.0,
+    "steps": 200,
+    "car_wait_avg": 17.243712446351932,
+    "ped_wait_avg": 9.705214592274679,
+    "signal_switches": 13
+  },
+  {
+    "episode": 234,
+    "reward": -6460.5,
+    "steps": 200,
+    "car_wait_avg": 17.245555555555555,
+    "ped_wait_avg": 9.716495726495726,
+    "signal_switches": 13
+  },
+  {
+    "episode": 235,
+    "reward": -5980.5,
+    "steps": 200,
+    "car_wait_avg": 17.24708510638298,
+    "ped_wait_avg": 9.716042553191489,
+    "signal_switches": 13
+  },
+  {
+    "episode": 236,
+    "reward": -5019.5,
+    "steps": 200,
+    "car_wait_avg": 17.24156779661017,
+    "ped_wait_avg": 9.698559322033898,
+    "signal_switches": 13
+  },
+  {
+    "episode": 237,
+    "reward": -5303.0,
+    "steps": 200,
+    "car_wait_avg": 17.235316455696204,
+    "ped_wait_avg": 9.696772151898735,
+    "signal_switches": 13
+  },
+  {
+    "episode": 238,
+    "reward": -6308.0,
+    "steps": 200,
+    "car_wait_avg": 17.238004201680674,
+    "ped_wait_avg": 9.698403361344537,
+    "signal_switches": 13
+  },
+  {
+    "episode": 239,
+    "reward": -6192.5,
+    "steps": 200,
+    "car_wait_avg": 17.238096234309623,
+    "ped_wait_avg": 9.70744769874477,
+    "signal_switches": 13
+  },
+  {
+    "episode": 240,
+    "reward": -6009.0,
+    "steps": 200,
+    "car_wait_avg": 17.2391875,
+    "ped_wait_avg": 9.7060625,
+    "signal_switches": 13
+  },
+  {
+    "episode": 241,
+    "reward": -6290.5,
+    "steps": 200,
+    "car_wait_avg": 17.241701244813278,
+    "ped_wait_avg": 9.707759336099585,
+    "signal_switches": 13
+  },
+  {
+    "episode": 242,
+    "reward": -5935.0,
+    "steps": 200,
+    "car_wait_avg": 17.242623966942148,
+    "ped_wait_avg": 9.699524793388429,
+    "signal_switches": 13
+  },
+  {
+    "episode": 243,
+    "reward": -5507.5,
+    "steps": 200,
+    "car_wait_avg": 17.241481481481483,
+    "ped_wait_avg": 9.684958847736626,
+    "signal_switches": 13
+  },
+  {
+    "episode": 244,
+    "reward": -6320.5,
+    "steps": 200,
+    "car_wait_avg": 17.24547131147541,
+    "ped_wait_avg": 9.684795081967213,
+    "signal_switches": 13
+  },
+  {
+    "episode": 245,
+    "reward": -6163.5,
+    "steps": 200,
+    "car_wait_avg": 17.241591836734695,
+    "ped_wait_avg": 9.698673469387755,
+    "signal_switches": 13
+  },
+  {
+    "episode": 246,
+    "reward": -5527.0,
+    "steps": 200,
+    "car_wait_avg": 17.234430894308943,
+    "ped_wait_avg": 9.710914634146341,
+    "signal_switches": 13
+  },
+  {
+    "episode": 247,
+    "reward": -5887.5,
+    "steps": 200,
+    "car_wait_avg": 17.23495951417004,
+    "ped_wait_avg": 9.709372469635628,
+    "signal_switches": 13
+  },
+  {
+    "episode": 248,
+    "reward": -6347.0,
+    "steps": 200,
+    "car_wait_avg": 17.23899193548387,
+    "ped_wait_avg": 9.711814516129031,
+    "signal_switches": 13
+  },
+  {
+    "episode": 249,
+    "reward": -6205.0,
+    "steps": 200,
+    "car_wait_avg": 17.241385542168675,
+    "ped_wait_avg": 9.713072289156626,
+    "signal_switches": 13
+  },
+  {
+    "episode": 250,
+    "reward": -5947.5,
+    "steps": 200,
+    "car_wait_avg": 17.24022,
+    "ped_wait_avg": 9.71568,
+    "signal_switches": 13
+  },
+  {
+    "episode": 251,
+    "reward": -5876.0,
+    "steps": 200,
+    "car_wait_avg": 17.24077689243028,
+    "ped_wait_avg": 9.71101593625498,
+    "signal_switches": 13
+  },
+  {
+    "episode": 252,
+    "reward": -5423.5,
+    "steps": 200,
+    "car_wait_avg": 17.237817460317462,
+    "ped_wait_avg": 9.699325396825397,
+    "signal_switches": 13
+  },
+  {
+    "episode": 253,
+    "reward": -5622.0,
+    "steps": 200,
+    "car_wait_avg": 17.23598814229249,
+    "ped_wait_avg": 9.688458498023715,
+    "signal_switches": 13
+  },
+  {
+    "episode": 254,
+    "reward": -5596.0,
+    "steps": 200,
+    "car_wait_avg": 17.231279527559057,
+    "ped_wait_avg": 9.692283464566929,
+    "signal_switches": 13
+  },
+  {
+    "episode": 255,
+    "reward": -5576.5,
+    "steps": 200,
+    "car_wait_avg": 17.22578431372549,
+    "ped_wait_avg": 9.694686274509804,
+    "signal_switches": 13
+  },
+  {
+    "episode": 256,
+    "reward": -6428.5,
+    "steps": 200,
+    "car_wait_avg": 17.2278125,
+    "ped_wait_avg": 9.70623046875,
+    "signal_switches": 13
+  },
+  {
+    "episode": 257,
+    "reward": -5721.5,
+    "steps": 200,
+    "car_wait_avg": 17.225836575875487,
+    "ped_wait_avg": 9.703035019455253,
+    "signal_switches": 13
+  },
+  {
+    "episode": 258,
+    "reward": -5804.5,
+    "steps": 200,
+    "car_wait_avg": 17.228023255813955,
+    "ped_wait_avg": 9.688914728682171,
+    "signal_switches": 13
+  },
+  {
+    "episode": 259,
+    "reward": -5770.0,
+    "steps": 200,
+    "car_wait_avg": 17.226312741312743,
+    "ped_wait_avg": 9.685714285714285,
+    "signal_switches": 13
+  },
+  {
+    "episode": 260,
+    "reward": -5926.0,
+    "steps": 200,
+    "car_wait_avg": 17.223846153846154,
+    "ped_wait_avg": 9.697865384615385,
+    "signal_switches": 13
+  },
+  {
+    "episode": 261,
+    "reward": -6101.5,
+    "steps": 200,
+    "car_wait_avg": 17.223333333333333,
+    "ped_wait_avg": 9.706111111111111,
+    "signal_switches": 13
+  },
+  {
+    "episode": 262,
+    "reward": -5849.0,
+    "steps": 200,
+    "car_wait_avg": 17.220534351145037,
+    "ped_wait_avg": 9.708301526717557,
+    "signal_switches": 13
+  },
+  {
+    "episode": 263,
+    "reward": -5875.5,
+    "steps": 200,
+    "car_wait_avg": 17.218897338403043,
+    "ped_wait_avg": 9.709220532319392,
+    "signal_switches": 13
+  },
+  {
+    "episode": 264,
+    "reward": -5889.0,
+    "steps": 200,
+    "car_wait_avg": 17.21967803030303,
+    "ped_wait_avg": 9.707121212121212,
+    "signal_switches": 13
+  },
+  {
+    "episode": 265,
+    "reward": -6034.5,
+    "steps": 200,
+    "car_wait_avg": 17.220698113207547,
+    "ped_wait_avg": 9.708245283018869,
+    "signal_switches": 13
+  },
+  {
+    "episode": 266,
+    "reward": -6528.0,
+    "steps": 200,
+    "car_wait_avg": 17.223157894736843,
+    "ped_wait_avg": 9.721672932330828,
+    "signal_switches": 13
+  },
+  {
+    "episode": 267,
+    "reward": -6159.5,
+    "steps": 200,
+    "car_wait_avg": 17.225861423220973,
+    "ped_wait_avg": 9.721460674157303,
+    "signal_switches": 13
+  },
+  {
+    "episode": 268,
+    "reward": -6220.0,
+    "steps": 200,
+    "car_wait_avg": 17.227481343283582,
+    "ped_wait_avg": 9.72384328358209,
+    "signal_switches": 13
+  },
+  {
+    "episode": 269,
+    "reward": -5911.5,
+    "steps": 200,
+    "car_wait_avg": 17.228828996282527,
+    "ped_wait_avg": 9.719591078066914,
+    "signal_switches": 13
+  },
+  {
+    "episode": 270,
+    "reward": -6048.0,
+    "steps": 200,
+    "car_wait_avg": 17.229092592592593,
+    "ped_wait_avg": 9.72512962962963,
+    "signal_switches": 13
+  },
+  {
+    "episode": 271,
+    "reward": -5938.5,
+    "steps": 200,
+    "car_wait_avg": 17.23038745387454,
+    "ped_wait_avg": 9.718671586715868,
+    "signal_switches": 13
+  },
+  {
+    "episode": 272,
+    "reward": -6016.0,
+    "steps": 200,
+    "car_wait_avg": 17.229871323529412,
+    "ped_wait_avg": 9.722757352941176,
+    "signal_switches": 13
+  },
+  {
+    "episode": 273,
+    "reward": -5839.5,
+    "steps": 200,
+    "car_wait_avg": 17.231410256410257,
+    "ped_wait_avg": 9.71393772893773,
+    "signal_switches": 13
+  },
+  {
+    "episode": 274,
+    "reward": -5820.0,
+    "steps": 200,
+    "car_wait_avg": 17.23271897810219,
+    "ped_wait_avg": 9.707299270072992,
+    "signal_switches": 13
+  },
+  {
+    "episode": 275,
+    "reward": -5498.0,
+    "steps": 200,
+    "car_wait_avg": 17.23092727272727,
+    "ped_wait_avg": 9.693109090909092,
+    "signal_switches": 13
+  },
+  {
+    "episode": 276,
+    "reward": -5924.0,
+    "steps": 200,
+    "car_wait_avg": 17.231123188405796,
+    "ped_wait_avg": 9.692771739130436,
+    "signal_switches": 13
+  },
+  {
+    "episode": 277,
+    "reward": -5602.0,
+    "steps": 200,
+    "car_wait_avg": 17.227418772563176,
+    "ped_wait_avg": 9.696064981949458,
+    "signal_switches": 13
+  },
+  {
+    "episode": 278,
+    "reward": -5752.0,
+    "steps": 200,
+    "car_wait_avg": 17.227410071942447,
+    "ped_wait_avg": 9.68320143884892,
+    "signal_switches": 13
+  },
+  {
+    "episode": 279,
+    "reward": -6298.0,
+    "steps": 200,
+    "car_wait_avg": 17.229247311827958,
+    "ped_wait_avg": 9.688118279569892,
+    "signal_switches": 13
+  },
+  {
+    "episode": 280,
+    "reward": -5992.5,
+    "steps": 200,
+    "car_wait_avg": 17.232125,
+    "ped_wait_avg": 9.681714285714285,
+    "signal_switches": 13
+  },
+  {
+    "episode": 281,
+    "reward": -6069.0,
+    "steps": 200,
+    "car_wait_avg": 17.2323487544484,
+    "ped_wait_avg": 9.685640569395018,
+    "signal_switches": 13
+  },
+  {
+    "episode": 282,
+    "reward": -6409.0,
+    "steps": 200,
+    "car_wait_avg": 17.23631205673759,
+    "ped_wait_avg": 9.688475177304964,
+    "signal_switches": 13
+  },
+  {
+    "episode": 283,
+    "reward": -5870.0,
+    "steps": 200,
+    "car_wait_avg": 17.23535335689046,
+    "ped_wait_avg": 9.688462897526502,
+    "signal_switches": 13
+  },
+  {
+    "episode": 284,
+    "reward": -6326.0,
+    "steps": 200,
+    "car_wait_avg": 17.236848591549297,
+    "ped_wait_avg": 9.693609154929577,
+    "signal_switches": 13
+  },
+  {
+    "episode": 285,
+    "reward": -6063.0,
+    "steps": 200,
+    "car_wait_avg": 17.23821052631579,
+    "ped_wait_avg": 9.69398245614035,
+    "signal_switches": 13
+  },
+  {
+    "episode": 286,
+    "reward": -5887.0,
+    "steps": 200,
+    "car_wait_avg": 17.238968531468533,
+    "ped_wait_avg": 9.687744755244756,
+    "signal_switches": 13
+  },
+  {
+    "episode": 287,
+    "reward": -5889.5,
+    "steps": 200,
+    "car_wait_avg": 17.239529616724738,
+    "ped_wait_avg": 9.685383275261325,
+    "signal_switches": 13
+  },
+  {
+    "episode": 288,
+    "reward": -6024.5,
+    "steps": 200,
+    "car_wait_avg": 17.24296875,
+    "ped_wait_avg": 9.67703125,
+    "signal_switches": 13
+  },
+  {
+    "episode": 289,
+    "reward": -6091.0,
+    "steps": 200,
+    "car_wait_avg": 17.244446366782007,
+    "ped_wait_avg": 9.67484429065744,
+    "signal_switches": 13
+  },
+  {
+    "episode": 290,
+    "reward": -6156.0,
+    "steps": 200,
+    "car_wait_avg": 17.247103448275862,
+    "ped_wait_avg": 9.673655172413794,
+    "signal_switches": 13
+  },
+  {
+    "episode": 291,
+    "reward": -5965.0,
+    "steps": 200,
+    "car_wait_avg": 17.24881443298969,
+    "ped_wait_avg": 9.669003436426117,
+    "signal_switches": 13
+  },
+  {
+    "episode": 292,
+    "reward": -5788.5,
+    "steps": 200,
+    "car_wait_avg": 17.24791095890411,
+    "ped_wait_avg": 9.665890410958903,
+    "signal_switches": 13
+  },
+  {
+    "episode": 293,
+    "reward": -5954.0,
+    "steps": 200,
+    "car_wait_avg": 17.249351535836176,
+    "ped_wait_avg": 9.660955631399318,
+    "signal_switches": 13
+  },
+  {
+    "episode": 294,
+    "reward": -6295.0,
+    "steps": 200,
+    "car_wait_avg": 17.251122448979594,
+    "ped_wait_avg": 9.666020408163265,
+    "signal_switches": 13
+  },
+  {
+    "episode": 295,
+    "reward": -5867.5,
+    "steps": 200,
+    "car_wait_avg": 17.251525423728815,
+    "ped_wait_avg": 9.664033898305085,
+    "signal_switches": 13
+  },
+  {
+    "episode": 296,
+    "reward": -5698.0,
+    "steps": 200,
+    "car_wait_avg": 17.252922297297296,
+    "ped_wait_avg": 9.646182432432433,
+    "signal_switches": 13
+  },
+  {
+    "episode": 297,
+    "reward": -6232.0,
+    "steps": 200,
+    "car_wait_avg": 17.253888888888888,
+    "ped_wait_avg": 9.654309764309764,
+    "signal_switches": 13
+  },
+  {
+    "episode": 298,
+    "reward": -5513.5,
+    "steps": 200,
+    "car_wait_avg": 17.250973154362416,
+    "ped_wait_avg": 9.64981543624161,
+    "signal_switches": 13
+  },
+  {
+    "episode": 299,
+    "reward": -5908.0,
+    "steps": 200,
+    "car_wait_avg": 17.251672240802677,
+    "ped_wait_avg": 9.648060200668896,
+    "signal_switches": 13
+  },
+  {
+    "episode": 300,
+    "reward": -5734.5,
+    "steps": 200,
+    "car_wait_avg": 17.2514,
+    "ped_wait_avg": 9.645366666666666,
+    "signal_switches": 13
+  },
+  {
+    "episode": 301,
+    "reward": -5945.0,
+    "steps": 200,
+    "car_wait_avg": 17.251146179401992,
+    "ped_wait_avg": 9.65033222591362,
+    "signal_switches": 13
+  },
+  {
+    "episode": 302,
+    "reward": -5584.0,
+    "steps": 200,
+    "car_wait_avg": 17.247384105960265,
+    "ped_wait_avg": 9.653758278145695,
+    "signal_switches": 13
+  },
+  {
+    "episode": 303,
+    "reward": -5372.0,
+    "steps": 200,
+    "car_wait_avg": 17.245181518151814,
+    "ped_wait_avg": 9.643795379537954,
+    "signal_switches": 13
+  },
+  {
+    "episode": 304,
+    "reward": -6006.5,
+    "steps": 200,
+    "car_wait_avg": 17.247631578947367,
+    "ped_wait_avg": 9.63904605263158,
+    "signal_switches": 13
+  },
+  {
+    "episode": 305,
+    "reward": -6179.0,
+    "steps": 200,
+    "car_wait_avg": 17.248590163934427,
+    "ped_wait_avg": 9.644901639344262,
+    "signal_switches": 13
+  },
+  {
+    "episode": 306,
+    "reward": -5958.0,
+    "steps": 200,
+    "car_wait_avg": 17.247892156862743,
+    "ped_wait_avg": 9.648709150326797,
+    "signal_switches": 13
+  },
+  {
+    "episode": 307,
+    "reward": -5615.0,
+    "steps": 200,
+    "car_wait_avg": 17.246237785016287,
+    "ped_wait_avg": 9.643029315960913,
+    "signal_switches": 13
+  },
+  {
+    "episode": 308,
+    "reward": -5958.5,
+    "steps": 200,
+    "car_wait_avg": 17.244237012987014,
+    "ped_wait_avg": 9.65228896103896,
+    "signal_switches": 13
+  },
+  {
+    "episode": 309,
+    "reward": -5902.5,
+    "steps": 200,
+    "car_wait_avg": 17.243964401294498,
+    "ped_wait_avg": 9.654919093851133,
+    "signal_switches": 13
+  },
+  {
+    "episode": 310,
+    "reward": -5952.5,
+    "steps": 200,
+    "car_wait_avg": 17.24609677419355,
+    "ped_wait_avg": 9.646306451612903,
+    "signal_switches": 13
+  },
+  {
+    "episode": 311,
+    "reward": -6103.0,
+    "steps": 200,
+    "car_wait_avg": 17.24572347266881,
+    "ped_wait_avg": 9.65168810289389,
+    "signal_switches": 13
+  },
+  {
+    "episode": 312,
+    "reward": -6083.0,
+    "steps": 200,
+    "car_wait_avg": 17.24352564102564,
+    "ped_wait_avg": 9.659294871794872,
+    "signal_switches": 13
+  },
+  {
+    "episode": 313,
+    "reward": -5328.0,
+    "steps": 200,
+    "car_wait_avg": 17.239329073482427,
+    "ped_wait_avg": 9.655143769968051,
+    "signal_switches": 13
+  },
+  {
+    "episode": 314,
+    "reward": -6004.0,
+    "steps": 200,
+    "car_wait_avg": 17.242898089171973,
+    "ped_wait_avg": 9.647070063694267,
+    "signal_switches": 13
+  },
+  {
+    "episode": 315,
+    "reward": -5632.0,
+    "steps": 200,
+    "car_wait_avg": 17.242619047619048,
+    "ped_wait_avg": 9.639444444444445,
+    "signal_switches": 13
+  },
+  {
+    "episode": 316,
+    "reward": -6223.5,
+    "steps": 200,
+    "car_wait_avg": 17.24395569620253,
+    "ped_wait_avg": 9.645300632911393,
+    "signal_switches": 13
+  },
+  {
+    "episode": 317,
+    "reward": -5526.5,
+    "steps": 200,
+    "car_wait_avg": 17.241388012618298,
+    "ped_wait_avg": 9.64261829652997,
+    "signal_switches": 13
+  },
+  {
+    "episode": 318,
+    "reward": -5935.0,
+    "steps": 200,
+    "car_wait_avg": 17.241053459119495,
+    "ped_wait_avg": 9.639198113207547,
+    "signal_switches": 13
+  },
+  {
+    "episode": 319,
+    "reward": -6317.0,
+    "steps": 200,
+    "car_wait_avg": 17.243119122257053,
+    "ped_wait_avg": 9.641880877742947,
+    "signal_switches": 13
+  },
+  {
+    "episode": 320,
+    "reward": -5245.0,
+    "steps": 200,
+    "car_wait_avg": 17.2409375,
+    "ped_wait_avg": 9.63053125,
+    "signal_switches": 13
+  },
+  {
+    "episode": 321,
+    "reward": -6412.0,
+    "steps": 200,
+    "car_wait_avg": 17.243644859813084,
+    "ped_wait_avg": 9.6347507788162,
+    "signal_switches": 13
+  },
+  {
+    "episode": 322,
+    "reward": -6223.5,
+    "steps": 200,
+    "car_wait_avg": 17.245978260869567,
+    "ped_wait_avg": 9.637670807453416,
+    "signal_switches": 13
+  },
+  {
+    "episode": 323,
+    "reward": -5574.0,
+    "steps": 200,
+    "car_wait_avg": 17.246006191950464,
+    "ped_wait_avg": 9.626981424148607,
+    "signal_switches": 13
+  },
+  {
+    "episode": 324,
+    "reward": -5430.0,
+    "steps": 200,
+    "car_wait_avg": 17.245771604938273,
+    "ped_wait_avg": 9.61371913580247,
+    "signal_switches": 13
+  },
+  {
+    "episode": 325,
+    "reward": -6575.5,
+    "steps": 200,
+    "car_wait_avg": 17.248830769230768,
+    "ped_wait_avg": 9.62303076923077,
+    "signal_switches": 13
+  },
+  {
+    "episode": 326,
+    "reward": -6190.0,
+    "steps": 200,
+    "car_wait_avg": 17.251656441717792,
+    "ped_wait_avg": 9.620843558282209,
+    "signal_switches": 13
+  },
+  {
+    "episode": 327,
+    "reward": -5764.5,
+    "steps": 200,
+    "car_wait_avg": 17.251804281345567,
+    "ped_wait_avg": 9.614296636085626,
+    "signal_switches": 13
+  },
+  {
+    "episode": 328,
+    "reward": -5453.5,
+    "steps": 200,
+    "car_wait_avg": 17.249923780487805,
+    "ped_wait_avg": 9.60876524390244,
+    "signal_switches": 13
+  },
+  {
+    "episode": 329,
+    "reward": -6197.0,
+    "steps": 200,
+    "car_wait_avg": 17.251398176291794,
+    "ped_wait_avg": 9.610911854103344,
+    "signal_switches": 13
+  },
+  {
+    "episode": 330,
+    "reward": -6353.0,
+    "steps": 200,
+    "car_wait_avg": 17.25348484848485,
+    "ped_wait_avg": 9.618227272727273,
+    "signal_switches": 13
+  },
+  {
+    "episode": 331,
+    "reward": -5915.5,
+    "steps": 200,
+    "car_wait_avg": 17.25370090634441,
+    "ped_wait_avg": 9.612688821752267,
+    "signal_switches": 13
+  },
+  {
+    "episode": 332,
+    "reward": -6382.5,
+    "steps": 200,
+    "car_wait_avg": 17.253780120481927,
+    "ped_wait_avg": 9.621656626506024,
+    "signal_switches": 13
+  },
+  {
+    "episode": 333,
+    "reward": -6488.0,
+    "steps": 200,
+    "car_wait_avg": 17.25659159159159,
+    "ped_wait_avg": 9.627987987987987,
+    "signal_switches": 13
+  },
+  {
+    "episode": 334,
+    "reward": -6103.5,
+    "steps": 200,
+    "car_wait_avg": 17.259026946107785,
+    "ped_wait_avg": 9.626242514970059,
+    "signal_switches": 13
+  },
+  {
+    "episode": 335,
+    "reward": -6113.5,
+    "steps": 200,
+    "car_wait_avg": 17.25831343283582,
+    "ped_wait_avg": 9.629686567164178,
+    "signal_switches": 13
+  },
+  {
+    "episode": 336,
+    "reward": -5821.5,
+    "steps": 200,
+    "car_wait_avg": 17.259017857142858,
+    "ped_wait_avg": 9.624494047619047,
+    "signal_switches": 13
+  },
+  {
+    "episode": 337,
+    "reward": -6010.5,
+    "steps": 200,
+    "car_wait_avg": 17.260029673590505,
+    "ped_wait_avg": 9.624554896142433,
+    "signal_switches": 13
+  },
+  {
+    "episode": 338,
+    "reward": -5897.5,
+    "steps": 200,
+    "car_wait_avg": 17.258579881656804,
+    "ped_wait_avg": 9.629215976331361,
+    "signal_switches": 13
+  },
+  {
+    "episode": 339,
+    "reward": -5640.5,
+    "steps": 200,
+    "car_wait_avg": 17.259955752212388,
+    "ped_wait_avg": 9.616725663716814,
+    "signal_switches": 13
+  },
+  {
+    "episode": 340,
+    "reward": -5498.5,
+    "steps": 200,
+    "car_wait_avg": 17.25716176470588,
+    "ped_wait_avg": 9.614485294117648,
+    "signal_switches": 13
+  },
+  {
+    "episode": 341,
+    "reward": -5823.5,
+    "steps": 200,
+    "car_wait_avg": 17.26,
+    "ped_wait_avg": 9.600190615835777,
+    "signal_switches": 13
+  },
+  {
+    "episode": 342,
+    "reward": -6090.5,
+    "steps": 200,
+    "car_wait_avg": 17.257894736842104,
+    "ped_wait_avg": 9.612558479532163,
+    "signal_switches": 13
+  },
+  {
+    "episode": 343,
+    "reward": -6238.5,
+    "steps": 200,
+    "car_wait_avg": 17.259096209912535,
+    "ped_wait_avg": 9.618542274052478,
+    "signal_switches": 13
+  },
+  {
+    "episode": 344,
+    "reward": -6273.0,
+    "steps": 200,
+    "car_wait_avg": 17.259011627906975,
+    "ped_wait_avg": 9.628677325581396,
+    "signal_switches": 13
+  },
+  {
+    "episode": 345,
+    "reward": -6322.0,
+    "steps": 200,
+    "car_wait_avg": 17.25955072463768,
+    "ped_wait_avg": 9.637840579710145,
+    "signal_switches": 13
+  },
+  {
+    "episode": 346,
+    "reward": -5363.5,
+    "steps": 200,
+    "car_wait_avg": 17.256907514450866,
+    "ped_wait_avg": 9.633121387283238,
+    "signal_switches": 13
+  },
+  {
+    "episode": 347,
+    "reward": -6529.5,
+    "steps": 200,
+    "car_wait_avg": 17.25940922190202,
+    "ped_wait_avg": 9.642031700288184,
+    "signal_switches": 13
+  },
+  {
+    "episode": 348,
+    "reward": -6277.0,
+    "steps": 200,
+    "car_wait_avg": 17.261364942528736,
+    "ped_wait_avg": 9.64507183908046,
+    "signal_switches": 13
+  },
+  {
+    "episode": 349,
+    "reward": -5267.5,
+    "steps": 200,
+    "car_wait_avg": 17.256532951289397,
+    "ped_wait_avg": 9.645974212034384,
+    "signal_switches": 13
+  },
+  {
+    "episode": 350,
+    "reward": -6169.5,
+    "steps": 200,
+    "car_wait_avg": 17.257771428571427,
+    "ped_wait_avg": 9.648157142857142,
+    "signal_switches": 13
+  },
+  {
+    "episode": 351,
+    "reward": -6070.5,
+    "steps": 200,
+    "car_wait_avg": 17.255897435897435,
+    "ped_wait_avg": 9.657920227920227,
+    "signal_switches": 13
+  },
+  {
+    "episode": 352,
+    "reward": -6125.5,
+    "steps": 200,
+    "car_wait_avg": 17.256803977272728,
+    "ped_wait_avg": 9.6634375,
+    "signal_switches": 13
+  },
+  {
+    "episode": 353,
+    "reward": -6316.0,
+    "steps": 200,
+    "car_wait_avg": 17.258087818696882,
+    "ped_wait_avg": 9.670694050991502,
+    "signal_switches": 13
+  },
+  {
+    "episode": 354,
+    "reward": -5890.5,
+    "steps": 200,
+    "car_wait_avg": 17.257415254237287,
+    "ped_wait_avg": 9.670437853107344,
+    "signal_switches": 13
+  },
+  {
+    "episode": 355,
+    "reward": -5305.5,
+    "steps": 200,
+    "car_wait_avg": 17.25554929577465,
+    "ped_wait_avg": 9.660478873239436,
+    "signal_switches": 13
+  },
+  {
+    "episode": 356,
+    "reward": -5509.0,
+    "steps": 200,
+    "car_wait_avg": 17.25615168539326,
+    "ped_wait_avg": 9.648469101123595,
+    "signal_switches": 13
+  },
+  {
+    "episode": 357,
+    "reward": -5928.5,
+    "steps": 200,
+    "car_wait_avg": 17.257549019607843,
+    "ped_wait_avg": 9.642759103641456,
+    "signal_switches": 13
+  },
+  {
+    "episode": 358,
+    "reward": -6192.5,
+    "steps": 200,
+    "car_wait_avg": 17.25891061452514,
+    "ped_wait_avg": 9.645279329608938,
+    "signal_switches": 13
+  },
+  {
+    "episode": 359,
+    "reward": -5686.5,
+    "steps": 200,
+    "car_wait_avg": 17.25640668523677,
+    "ped_wait_avg": 9.650974930362118,
+    "signal_switches": 13
+  },
+  {
+    "episode": 360,
+    "reward": -6009.0,
+    "steps": 200,
+    "car_wait_avg": 17.25801388888889,
+    "ped_wait_avg": 9.647527777777778,
+    "signal_switches": 13
+  },
+  {
+    "episode": 361,
+    "reward": -6215.0,
+    "steps": 200,
+    "car_wait_avg": 17.25886426592798,
+    "ped_wait_avg": 9.649390581717451,
+    "signal_switches": 13
+  },
+  {
+    "episode": 362,
+    "reward": -5675.5,
+    "steps": 200,
+    "car_wait_avg": 17.256312154696133,
+    "ped_wait_avg": 9.647859116022099,
+    "signal_switches": 13
+  },
+  {
+    "episode": 363,
+    "reward": -5607.0,
+    "steps": 200,
+    "car_wait_avg": 17.255151515151514,
+    "ped_wait_avg": 9.641900826446282,
+    "signal_switches": 13
+  },
+  {
+    "episode": 364,
+    "reward": -6094.5,
+    "steps": 200,
+    "car_wait_avg": 17.255618131868133,
+    "ped_wait_avg": 9.64510989010989,
+    "signal_switches": 13
+  },
+  {
+    "episode": 365,
+    "reward": -5915.0,
+    "steps": 200,
+    "car_wait_avg": 17.25727397260274,
+    "ped_wait_avg": 9.637616438356165,
+    "signal_switches": 13
+  },
+  {
+    "episode": 366,
+    "reward": -5923.5,
+    "steps": 200,
+    "car_wait_avg": 17.25818306010929,
+    "ped_wait_avg": 9.634439890710382,
+    "signal_switches": 13
+  },
+  {
+    "episode": 367,
+    "reward": -5999.5,
+    "steps": 200,
+    "car_wait_avg": 17.25858310626703,
+    "ped_wait_avg": 9.635490463215259,
+    "signal_switches": 13
+  },
+  {
+    "episode": 368,
+    "reward": -6604.0,
+    "steps": 200,
+    "car_wait_avg": 17.260149456521738,
+    "ped_wait_avg": 9.64586956521739,
+    "signal_switches": 13
+  },
+  {
+    "episode": 369,
+    "reward": -6110.0,
+    "steps": 200,
+    "car_wait_avg": 17.260352303523035,
+    "ped_wait_avg": 9.651178861788617,
+    "signal_switches": 13
+  },
+  {
+    "episode": 370,
+    "reward": -5854.0,
+    "steps": 200,
+    "car_wait_avg": 17.26127027027027,
+    "ped_wait_avg": 9.645891891891893,
+    "signal_switches": 13
+  },
+  {
+    "episode": 371,
+    "reward": -5265.0,
+    "steps": 200,
+    "car_wait_avg": 17.26102425876011,
+    "ped_wait_avg": 9.630485175202157,
+    "signal_switches": 13
+  },
+  {
+    "episode": 372,
+    "reward": -6271.5,
+    "steps": 200,
+    "car_wait_avg": 17.26081989247312,
+    "ped_wait_avg": 9.640497311827957,
+    "signal_switches": 13
+  },
+  {
+    "episode": 373,
+    "reward": -6008.5,
+    "steps": 200,
+    "car_wait_avg": 17.2592091152815,
+    "ped_wait_avg": 9.64446380697051,
+    "signal_switches": 13
+  },
+  {
+    "episode": 374,
+    "reward": -6583.0,
+    "steps": 200,
+    "car_wait_avg": 17.26196524064171,
+    "ped_wait_avg": 9.650762032085561,
+    "signal_switches": 13
+  },
+  {
+    "episode": 375,
+    "reward": -6418.5,
+    "steps": 200,
+    "car_wait_avg": 17.261826666666668,
+    "ped_wait_avg": 9.660106666666668,
+    "signal_switches": 13
+  },
+  {
+    "episode": 376,
+    "reward": -5467.0,
+    "steps": 200,
+    "car_wait_avg": 17.259042553191488,
+    "ped_wait_avg": 9.657752659574468,
+    "signal_switches": 13
+  },
+  {
+    "episode": 377,
+    "reward": -6242.5,
+    "steps": 200,
+    "car_wait_avg": 17.25814323607427,
+    "ped_wait_avg": 9.668368700265251,
+    "signal_switches": 13
+  },
+  {
+    "episode": 378,
+    "reward": -5799.0,
+    "steps": 200,
+    "car_wait_avg": 17.255343915343914,
+    "ped_wait_avg": 9.671666666666667,
+    "signal_switches": 13
+  },
+  {
+    "episode": 379,
+    "reward": -5708.5,
+    "steps": 200,
+    "car_wait_avg": 17.254379947229552,
+    "ped_wait_avg": 9.66759894459103,
+    "signal_switches": 13
+  },
+  {
+    "episode": 380,
+    "reward": -6148.5,
+    "steps": 200,
+    "car_wait_avg": 17.25411842105263,
+    "ped_wait_avg": 9.674723684210527,
+    "signal_switches": 13
+  },
+  {
+    "episode": 381,
+    "reward": -5329.5,
+    "steps": 200,
+    "car_wait_avg": 17.250629921259844,
+    "ped_wait_avg": 9.671719160104987,
+    "signal_switches": 13
+  },
+  {
+    "episode": 382,
+    "reward": -5575.0,
+    "steps": 200,
+    "car_wait_avg": 17.25044502617801,
+    "ped_wait_avg": 9.664803664921466,
+    "signal_switches": 13
+  },
+  {
+    "episode": 383,
+    "reward": -5617.0,
+    "steps": 200,
+    "car_wait_avg": 17.249073107049608,
+    "ped_wait_avg": 9.660326370757181,
+    "signal_switches": 13
+  },
+  {
+    "episode": 384,
+    "reward": -5856.0,
+    "steps": 200,
+    "car_wait_avg": 17.248216145833332,
+    "ped_wait_avg": 9.658359375,
+    "signal_switches": 13
+  },
+  {
+    "episode": 385,
+    "reward": -5798.5,
+    "steps": 200,
+    "car_wait_avg": 17.24833766233766,
+    "ped_wait_avg": 9.65638961038961,
+    "signal_switches": 13
+  },
+  {
+    "episode": 386,
+    "reward": -6438.0,
+    "steps": 200,
+    "car_wait_avg": 17.250764248704662,
+    "ped_wait_avg": 9.660660621761657,
+    "signal_switches": 13
+  },
+  {
+    "episode": 387,
+    "reward": -5895.5,
+    "steps": 200,
+    "car_wait_avg": 17.251614987080103,
+    "ped_wait_avg": 9.654948320413437,
+    "signal_switches": 13
+  },
+  {
+    "episode": 388,
+    "reward": -5655.0,
+    "steps": 200,
+    "car_wait_avg": 17.250592783505155,
+    "ped_wait_avg": 9.651984536082475,
+    "signal_switches": 13
+  },
+  {
+    "episode": 389,
+    "reward": -6021.0,
+    "steps": 200,
+    "car_wait_avg": 17.251272493573264,
+    "ped_wait_avg": 9.650514138817481,
+    "signal_switches": 13
+  },
+  {
+    "episode": 390,
+    "reward": -6308.0,
+    "steps": 200,
+    "car_wait_avg": 17.25353846153846,
+    "ped_wait_avg": 9.652282051282052,
+    "signal_switches": 13
+  },
+  {
+    "episode": 391,
+    "reward": -5849.0,
+    "steps": 200,
+    "car_wait_avg": 17.2533631713555,
+    "ped_wait_avg": 9.65089514066496,
+    "signal_switches": 13
+  },
+  {
+    "episode": 392,
+    "reward": -6060.0,
+    "steps": 200,
+    "car_wait_avg": 17.252602040816328,
+    "ped_wait_avg": 9.656581632653062,
+    "signal_switches": 13
+  },
+  {
+    "episode": 393,
+    "reward": -5743.0,
+    "steps": 200,
+    "car_wait_avg": 17.251297709923666,
+    "ped_wait_avg": 9.65912213740458,
+    "signal_switches": 13
+  },
+  {
+    "episode": 394,
+    "reward": -5892.0,
+    "steps": 200,
+    "car_wait_avg": 17.250761421319798,
+    "ped_wait_avg": 9.659619289340101,
+    "signal_switches": 13
+  },
+  {
+    "episode": 395,
+    "reward": -6025.0,
+    "steps": 200,
+    "car_wait_avg": 17.252151898734176,
+    "ped_wait_avg": 9.657025316455696,
+    "signal_switches": 13
+  },
+  {
+    "episode": 396,
+    "reward": -6150.5,
+    "steps": 200,
+    "car_wait_avg": 17.253131313131313,
+    "ped_wait_avg": 9.657310606060607,
+    "signal_switches": 13
+  },
+  {
+    "episode": 397,
+    "reward": -5740.0,
+    "steps": 200,
+    "car_wait_avg": 17.25484886649874,
+    "ped_wait_avg": 9.646486146095718,
+    "signal_switches": 13
+  },
+  {
+    "episode": 398,
+    "reward": -6357.5,
+    "steps": 200,
+    "car_wait_avg": 17.25571608040201,
+    "ped_wait_avg": 9.652675879396986,
+    "signal_switches": 13
+  },
+  {
+    "episode": 399,
+    "reward": -5784.0,
+    "steps": 200,
+    "car_wait_avg": 17.254774436090226,
+    "ped_wait_avg": 9.651641604010026,
+    "signal_switches": 13
+  },
+  {
+    "episode": 400,
+    "reward": -5841.0,
+    "steps": 200,
+    "car_wait_avg": 17.2568875,
+    "ped_wait_avg": 9.6422375,
+    "signal_switches": 13
+  },
+  {
+    "episode": 401,
+    "reward": -5808.5,
+    "steps": 200,
+    "car_wait_avg": 17.254713216957605,
+    "ped_wait_avg": 9.645436408977556,
+    "signal_switches": 13
+  },
+  {
+    "episode": 402,
+    "reward": -5689.5,
+    "steps": 200,
+    "car_wait_avg": 17.255460199004975,
+    "ped_wait_avg": 9.637624378109452,
+    "signal_switches": 13
+  },
+  {
+    "episode": 403,
+    "reward": -6004.0,
+    "steps": 200,
+    "car_wait_avg": 17.25444168734491,
+    "ped_wait_avg": 9.640012406947891,
+    "signal_switches": 13
+  },
+  {
+    "episode": 404,
+    "reward": -5881.5,
+    "steps": 200,
+    "car_wait_avg": 17.25184405940594,
+    "ped_wait_avg": 9.648316831683168,
+    "signal_switches": 13
+  },
+  {
+    "episode": 405,
+    "reward": -5997.0,
+    "steps": 200,
+    "car_wait_avg": 17.25127160493827,
+    "ped_wait_avg": 9.651777777777777,
+    "signal_switches": 13
+  },
+  {
+    "episode": 406,
+    "reward": -5402.5,
+    "steps": 200,
+    "car_wait_avg": 17.249975369458127,
+    "ped_wait_avg": 9.641785714285714,
+    "signal_switches": 13
+  },
+  {
+    "episode": 407,
+    "reward": -5827.5,
+    "steps": 200,
+    "car_wait_avg": 17.24992628992629,
+    "ped_wait_avg": 9.641019656019656,
+    "signal_switches": 13
+  },
+  {
+    "episode": 408,
+    "reward": -5084.5,
+    "steps": 200,
+    "car_wait_avg": 17.24561274509804,
+    "ped_wait_avg": 9.635232843137254,
+    "signal_switches": 13
+  },
+  {
+    "episode": 409,
+    "reward": -5919.5,
+    "steps": 200,
+    "car_wait_avg": 17.245073349633252,
+    "ped_wait_avg": 9.637017114914425,
+    "signal_switches": 13
+  },
+  {
+    "episode": 410,
+    "reward": -6195.0,
+    "steps": 200,
+    "car_wait_avg": 17.2454756097561,
+    "ped_wait_avg": 9.640670731707317,
+    "signal_switches": 13
+  },
+  {
+    "episode": 411,
+    "reward": -5762.0,
+    "steps": 200,
+    "car_wait_avg": 17.244026763990266,
+    "ped_wait_avg": 9.644318734793186,
+    "signal_switches": 13
+  },
+  {
+    "episode": 412,
+    "reward": -5931.5,
+    "steps": 200,
+    "car_wait_avg": 17.244757281553397,
+    "ped_wait_avg": 9.641432038834951,
+    "signal_switches": 13
+  },
+  {
+    "episode": 413,
+    "reward": -5459.5,
+    "steps": 200,
+    "car_wait_avg": 17.243450363196125,
+    "ped_wait_avg": 9.632397094430992,
+    "signal_switches": 13
+  },
+  {
+    "episode": 414,
+    "reward": -5884.0,
+    "steps": 200,
+    "car_wait_avg": 17.241642512077295,
+    "ped_wait_avg": 9.63469806763285,
+    "signal_switches": 13
+  },
+  {
+    "episode": 415,
+    "reward": -6110.0,
+    "steps": 200,
+    "car_wait_avg": 17.24155421686747,
+    "ped_wait_avg": 9.641168674698795,
+    "signal_switches": 13
+  },
+  {
+    "episode": 416,
+    "reward": -5856.0,
+    "steps": 200,
+    "car_wait_avg": 17.242115384615385,
+    "ped_wait_avg": 9.635721153846154,
+    "signal_switches": 13
+  },
+  {
+    "episode": 417,
+    "reward": -6196.5,
+    "steps": 200,
+    "car_wait_avg": 17.24353717026379,
+    "ped_wait_avg": 9.635719424460431,
+    "signal_switches": 13
+  },
+  {
+    "episode": 418,
+    "reward": -6399.0,
+    "steps": 200,
+    "car_wait_avg": 17.245442583732057,
+    "ped_wait_avg": 9.64025119617225,
+    "signal_switches": 13
+  },
+  {
+    "episode": 419,
+    "reward": -6602.0,
+    "steps": 200,
+    "car_wait_avg": 17.247613365155132,
+    "ped_wait_avg": 9.650680190930787,
+    "signal_switches": 13
+  },
+  {
+    "episode": 420,
+    "reward": -5872.5,
+    "steps": 200,
+    "car_wait_avg": 17.247678571428573,
+    "ped_wait_avg": 9.650297619047619,
+    "signal_switches": 13
+  },
+  {
+    "episode": 421,
+    "reward": -6025.5,
+    "steps": 200,
+    "car_wait_avg": 17.247422802850355,
+    "ped_wait_avg": 9.653503562945367,
+    "signal_switches": 13
+  },
+  {
+    "episode": 422,
+    "reward": -5608.0,
+    "steps": 200,
+    "car_wait_avg": 17.24781990521327,
+    "ped_wait_avg": 9.644905213270142,
+    "signal_switches": 13
+  },
+  {
+    "episode": 423,
+    "reward": -4871.0,
+    "steps": 200,
+    "car_wait_avg": 17.24481087470449,
+    "ped_wait_avg": 9.630886524822696,
+    "signal_switches": 13
+  },
+  {
+    "episode": 424,
+    "reward": -6381.5,
+    "steps": 200,
+    "car_wait_avg": 17.247110849056604,
+    "ped_wait_avg": 9.633372641509434,
+    "signal_switches": 13
+  },
+  {
+    "episode": 425,
+    "reward": -6378.5,
+    "steps": 200,
+    "car_wait_avg": 17.248976470588236,
+    "ped_wait_avg": 9.639894117647058,
+    "signal_switches": 13
+  },
+  {
+    "episode": 426,
+    "reward": -6035.0,
+    "steps": 200,
+    "car_wait_avg": 17.248086854460094,
+    "ped_wait_avg": 9.64481220657277,
+    "signal_switches": 13
+  },
+  {
+    "episode": 427,
+    "reward": -5741.5,
+    "steps": 200,
+    "car_wait_avg": 17.247611241217797,
+    "ped_wait_avg": 9.642365339578454,
+    "signal_switches": 13
+  },
+  {
+    "episode": 428,
+    "reward": -6023.5,
+    "steps": 200,
+    "car_wait_avg": 17.247897196261682,
+    "ped_wait_avg": 9.643633177570093,
+    "signal_switches": 13
+  },
+  {
+    "episode": 429,
+    "reward": -5680.0,
+    "steps": 200,
+    "car_wait_avg": 17.24698135198135,
+    "ped_wait_avg": 9.643892773892773,
+    "signal_switches": 13
+  },
+  {
+    "episode": 430,
+    "reward": -5559.5,
+    "steps": 200,
+    "car_wait_avg": 17.244209302325583,
+    "ped_wait_avg": 9.644720930232559,
+    "signal_switches": 13
+  },
+  {
+    "episode": 431,
+    "reward": -5934.5,
+    "steps": 200,
+    "car_wait_avg": 17.24273781902552,
+    "ped_wait_avg": 9.65054524361949,
+    "signal_switches": 13
+  },
+  {
+    "episode": 432,
+    "reward": -5997.0,
+    "steps": 200,
+    "car_wait_avg": 17.242939814814815,
+    "ped_wait_avg": 9.649409722222222,
+    "signal_switches": 13
+  },
+  {
+    "episode": 433,
+    "reward": -6282.0,
+    "steps": 200,
+    "car_wait_avg": 17.244110854503464,
+    "ped_wait_avg": 9.652921478060046,
+    "signal_switches": 13
+  },
+  {
+    "episode": 434,
+    "reward": -5805.0,
+    "steps": 200,
+    "car_wait_avg": 17.24372119815668,
+    "ped_wait_avg": 9.652937788018432,
+    "signal_switches": 13
+  },
+  {
+    "episode": 435,
+    "reward": -6162.5,
+    "steps": 200,
+    "car_wait_avg": 17.24474712643678,
+    "ped_wait_avg": 9.65255172413793,
+    "signal_switches": 13
+  },
+  {
+    "episode": 436,
+    "reward": -6175.0,
+    "steps": 200,
+    "car_wait_avg": 17.245573394495413,
+    "ped_wait_avg": 9.655470183486239,
+    "signal_switches": 13
+  },
+  {
+    "episode": 437,
+    "reward": -5943.5,
+    "steps": 200,
+    "car_wait_avg": 17.24662471395881,
+    "ped_wait_avg": 9.652677345537757,
+    "signal_switches": 13
+  },
+  {
+    "episode": 438,
+    "reward": -6114.0,
+    "steps": 200,
+    "car_wait_avg": 17.24816210045662,
+    "ped_wait_avg": 9.651392694063928,
+    "signal_switches": 13
+  },
+  {
+    "episode": 439,
+    "reward": -6410.0,
+    "steps": 200,
+    "car_wait_avg": 17.24979498861048,
+    "ped_wait_avg": 9.655660592255126,
+    "signal_switches": 13
+  },
+  {
+    "episode": 440,
+    "reward": -5873.5,
+    "steps": 200,
+    "car_wait_avg": 17.247863636363636,
+    "ped_wait_avg": 9.661363636363637,
+    "signal_switches": 13
+  },
+  {
+    "episode": 441,
+    "reward": -6179.0,
+    "steps": 200,
+    "car_wait_avg": 17.24942176870748,
+    "ped_wait_avg": 9.659160997732426,
+    "signal_switches": 13
+  },
+  {
+    "episode": 442,
+    "reward": -5562.5,
+    "steps": 200,
+    "car_wait_avg": 17.249321266968327,
+    "ped_wait_avg": 9.651323529411764,
+    "signal_switches": 13
+  },
+  {
+    "episode": 443,
+    "reward": -5583.0,
+    "steps": 200,
+    "car_wait_avg": 17.247776523702033,
+    "ped_wait_avg": 9.647686230248308,
+    "signal_switches": 13
+  },
+  {
+    "episode": 444,
+    "reward": -5966.5,
+    "steps": 200,
+    "car_wait_avg": 17.248727477477477,
+    "ped_wait_avg": 9.645709459459459,
+    "signal_switches": 13
+  },
+  {
+    "episode": 445,
+    "reward": -5954.5,
+    "steps": 200,
+    "car_wait_avg": 17.247370786516854,
+    "ped_wait_avg": 9.650842696629214,
+    "signal_switches": 13
+  },
+  {
+    "episode": 446,
+    "reward": -5409.0,
+    "steps": 200,
+    "car_wait_avg": 17.245773542600897,
+    "ped_wait_avg": 9.645313901345292,
+    "signal_switches": 13
+  },
+  {
+    "episode": 447,
+    "reward": -5854.5,
+    "steps": 200,
+    "car_wait_avg": 17.246219239373602,
+    "ped_wait_avg": 9.642348993288591,
+    "signal_switches": 13
+  },
+  {
+    "episode": 448,
+    "reward": -6214.5,
+    "steps": 200,
+    "car_wait_avg": 17.247611607142858,
+    "ped_wait_avg": 9.643013392857142,
+    "signal_switches": 13
+  },
+  {
+    "episode": 449,
+    "reward": -5585.0,
+    "steps": 200,
+    "car_wait_avg": 17.247761692650332,
+    "ped_wait_avg": 9.636369710467706,
+    "signal_switches": 13
+  },
+  {
+    "episode": 450,
+    "reward": -5514.0,
+    "steps": 200,
+    "car_wait_avg": 17.24587777777778,
+    "ped_wait_avg": 9.63418888888889,
+    "signal_switches": 13
+  },
+  {
+    "episode": 451,
+    "reward": -6077.5,
+    "steps": 200,
+    "car_wait_avg": 17.247028824833702,
+    "ped_wait_avg": 9.634323725055433,
+    "signal_switches": 13
+  },
+  {
+    "episode": 452,
+    "reward": -5826.0,
+    "steps": 200,
+    "car_wait_avg": 17.246227876106193,
+    "ped_wait_avg": 9.633296460176991,
+    "signal_switches": 13
+  },
+  {
+    "episode": 453,
+    "reward": -6010.5,
+    "steps": 200,
+    "car_wait_avg": 17.246799116997792,
+    "ped_wait_avg": 9.634514348785872,
+    "signal_switches": 13
+  },
+  {
+    "episode": 454,
+    "reward": -6145.5,
+    "steps": 200,
+    "car_wait_avg": 17.247356828193833,
+    "ped_wait_avg": 9.639052863436124,
+    "signal_switches": 13
+  },
+  {
+    "episode": 455,
+    "reward": -6040.0,
+    "steps": 200,
+    "car_wait_avg": 17.248725274725274,
+    "ped_wait_avg": 9.635626373626373,
+    "signal_switches": 13
+  },
+  {
+    "episode": 456,
+    "reward": -6695.5,
+    "steps": 200,
+    "car_wait_avg": 17.25122807017544,
+    "ped_wait_avg": 9.642357456140351,
+    "signal_switches": 13
+  },
+  {
+    "episode": 457,
+    "reward": -6071.5,
+    "steps": 200,
+    "car_wait_avg": 17.251509846827133,
+    "ped_wait_avg": 9.642713347921225,
+    "signal_switches": 13
+  },
+  {
+    "episode": 458,
+    "reward": -5468.5,
+    "steps": 200,
+    "car_wait_avg": 17.250305676855895,
+    "ped_wait_avg": 9.635218340611354,
+    "signal_switches": 13
+  },
+  {
+    "episode": 459,
+    "reward": -5219.5,
+    "steps": 200,
+    "car_wait_avg": 17.248366013071895,
+    "ped_wait_avg": 9.627418300653595,
+    "signal_switches": 13
+  },
+  {
+    "episode": 460,
+    "reward": -6000.5,
+    "steps": 200,
+    "car_wait_avg": 17.247021739130435,
+    "ped_wait_avg": 9.634413043478261,
+    "signal_switches": 13
+  },
+  {
+    "episode": 461,
+    "reward": -6252.0,
+    "steps": 200,
+    "car_wait_avg": 17.248004338394793,
+    "ped_wait_avg": 9.638156182212581,
+    "signal_switches": 13
+  },
+  {
+    "episode": 462,
+    "reward": -5769.5,
+    "steps": 200,
+    "car_wait_avg": 17.24737012987013,
+    "ped_wait_avg": 9.633116883116884,
+    "signal_switches": 13
+  },
+  {
+    "episode": 463,
+    "reward": -6267.0,
+    "steps": 200,
+    "car_wait_avg": 17.247030237580994,
+    "ped_wait_avg": 9.641425485961124,
+    "signal_switches": 13
+  },
+  {
+    "episode": 464,
+    "reward": -5802.0,
+    "steps": 200,
+    "car_wait_avg": 17.247693965517243,
+    "ped_wait_avg": 9.637726293103448,
+    "signal_switches": 13
+  },
+  {
+    "episode": 465,
+    "reward": -5951.5,
+    "steps": 200,
+    "car_wait_avg": 17.248645161290323,
+    "ped_wait_avg": 9.635849462365591,
+    "signal_switches": 13
+  },
+  {
+    "episode": 466,
+    "reward": -5900.5,
+    "steps": 200,
+    "car_wait_avg": 17.24769313304721,
+    "ped_wait_avg": 9.635343347639486,
+    "signal_switches": 13
+  },
+  {
+    "episode": 467,
+    "reward": -6315.5,
+    "steps": 200,
+    "car_wait_avg": 17.248661670235546,
+    "ped_wait_avg": 9.639871520342613,
+    "signal_switches": 13
+  },
+  {
+    "episode": 468,
+    "reward": -5884.0,
+    "steps": 200,
+    "car_wait_avg": 17.248910256410255,
+    "ped_wait_avg": 9.63974358974359,
+    "signal_switches": 13
+  },
+  {
+    "episode": 469,
+    "reward": -5916.5,
+    "steps": 200,
+    "car_wait_avg": 17.248965884861406,
+    "ped_wait_avg": 9.637388059701493,
+    "signal_switches": 13
+  },
+  {
+    "episode": 470,
+    "reward": -6101.0,
+    "steps": 200,
+    "car_wait_avg": 17.24963829787234,
+    "ped_wait_avg": 9.637542553191489,
+    "signal_switches": 13
+  },
+  {
+    "episode": 471,
+    "reward": -5755.0,
+    "steps": 200,
+    "car_wait_avg": 17.249309978768576,
+    "ped_wait_avg": 9.635191082802548,
+    "signal_switches": 13
+  },
+  {
+    "episode": 472,
+    "reward": -6313.0,
+    "steps": 200,
+    "car_wait_avg": 17.25061440677966,
+    "ped_wait_avg": 9.63853813559322,
+    "signal_switches": 13
+  },
+  {
+    "episode": 473,
+    "reward": -5613.0,
+    "steps": 200,
+    "car_wait_avg": 17.252959830866807,
+    "ped_wait_avg": 9.623826638477802,
+    "signal_switches": 13
+  },
+  {
+    "episode": 474,
+    "reward": -5974.5,
+    "steps": 200,
+    "car_wait_avg": 17.254567510548522,
+    "ped_wait_avg": 9.619978902953587,
+    "signal_switches": 13
+  },
+  {
+    "episode": 475,
+    "reward": -5949.0,
+    "steps": 200,
+    "car_wait_avg": 17.25458947368421,
+    "ped_wait_avg": 9.621273684210527,
+    "signal_switches": 13
+  },
+  {
+    "episode": 476,
+    "reward": -5658.0,
+    "steps": 200,
+    "car_wait_avg": 17.25528361344538,
+    "ped_wait_avg": 9.614002100840336,
+    "signal_switches": 13
+  },
+  {
+    "episode": 477,
+    "reward": -5784.0,
+    "steps": 200,
+    "car_wait_avg": 17.256394129979036,
+    "ped_wait_avg": 9.606802935010482,
+    "signal_switches": 13
+  },
+  {
+    "episode": 478,
+    "reward": -6267.0,
+    "steps": 200,
+    "car_wait_avg": 17.255491631799163,
+    "ped_wait_avg": 9.6143410041841,
+    "signal_switches": 13
+  },
+  {
+    "episode": 479,
+    "reward": -5563.0,
+    "steps": 200,
+    "car_wait_avg": 17.252567849686848,
+    "ped_wait_avg": 9.617797494780794,
+    "signal_switches": 13
+  },
+  {
+    "episode": 480,
+    "reward": -5852.5,
+    "steps": 200,
+    "car_wait_avg": 17.253802083333333,
+    "ped_wait_avg": 9.61209375,
+    "signal_switches": 13
+  },
+  {
+    "episode": 481,
+    "reward": -6317.0,
+    "steps": 200,
+    "car_wait_avg": 17.2531288981289,
+    "ped_wait_avg": 9.61966735966736,
+    "signal_switches": 13
+  },
+  {
+    "episode": 482,
+    "reward": -5857.0,
+    "steps": 200,
+    "car_wait_avg": 17.255165975103733,
+    "ped_wait_avg": 9.611970954356847,
+    "signal_switches": 13
+  },
+  {
+    "episode": 483,
+    "reward": -6586.5,
+    "steps": 200,
+    "car_wait_avg": 17.25651138716356,
+    "ped_wait_avg": 9.619699792960663,
+    "signal_switches": 13
+  },
+  {
+    "episode": 484,
+    "reward": -6339.0,
+    "steps": 200,
+    "car_wait_avg": 17.257561983471074,
+    "ped_wait_avg": 9.624245867768595,
+    "signal_switches": 13
+  },
+  {
+    "episode": 485,
+    "reward": -6081.5,
+    "steps": 200,
+    "car_wait_avg": 17.258298969072165,
+    "ped_wait_avg": 9.62340206185567,
+    "signal_switches": 13
+  },
+  {
+    "episode": 486,
+    "reward": -6258.0,
+    "steps": 200,
+    "car_wait_avg": 17.259187242798355,
+    "ped_wait_avg": 9.626471193415638,
+    "signal_switches": 13
+  },
+  {
+    "episode": 487,
+    "reward": -5656.5,
+    "steps": 200,
+    "car_wait_avg": 17.259620123203284,
+    "ped_wait_avg": 9.61988706365503,
+    "signal_switches": 13
+  },
+  {
+    "episode": 488,
+    "reward": -5722.5,
+    "steps": 200,
+    "car_wait_avg": 17.26003073770492,
+    "ped_wait_avg": 9.615143442622951,
+    "signal_switches": 13
+  },
+  {
+    "episode": 489,
+    "reward": -6203.0,
+    "steps": 200,
+    "car_wait_avg": 17.261237218813907,
+    "ped_wait_avg": 9.617699386503068,
+    "signal_switches": 13
+  },
+  {
+    "episode": 490,
+    "reward": -5671.0,
+    "steps": 200,
+    "car_wait_avg": 17.26295918367347,
+    "ped_wait_avg": 9.604602040816326,
+    "signal_switches": 13
+  },
+  {
+    "episode": 491,
+    "reward": -6173.0,
+    "steps": 200,
+    "car_wait_avg": 17.261262729124237,
+    "ped_wait_avg": 9.614327902240326,
+    "signal_switches": 13
+  },
+  {
+    "episode": 492,
+    "reward": -6097.5,
+    "steps": 200,
+    "car_wait_avg": 17.262205284552845,
+    "ped_wait_avg": 9.611524390243902,
+    "signal_switches": 13
+  },
+  {
+    "episode": 493,
+    "reward": -5923.5,
+    "steps": 200,
+    "car_wait_avg": 17.261866125760648,
+    "ped_wait_avg": 9.613864097363082,
+    "signal_switches": 13
+  },
+  {
+    "episode": 494,
+    "reward": -6498.5,
+    "steps": 200,
+    "car_wait_avg": 17.263805668016193,
+    "ped_wait_avg": 9.61910931174089,
+    "signal_switches": 13
+  },
+  {
+    "episode": 495,
+    "reward": -5469.0,
+    "steps": 200,
+    "car_wait_avg": 17.264585858585857,
+    "ped_wait_avg": 9.607040404040404,
+    "signal_switches": 13
+  },
+  {
+    "episode": 496,
+    "reward": -6172.5,
+    "steps": 200,
+    "car_wait_avg": 17.265524193548387,
+    "ped_wait_avg": 9.607993951612903,
+    "signal_switches": 13
+  },
+  {
+    "episode": 497,
+    "reward": -5532.5,
+    "steps": 200,
+    "car_wait_avg": 17.265653923541247,
+    "ped_wait_avg": 9.599657947686117,
+    "signal_switches": 13
+  },
+  {
+    "episode": 498,
+    "reward": -5953.5,
+    "steps": 200,
+    "car_wait_avg": 17.267088353413655,
+    "ped_wait_avg": 9.595331325301204,
+    "signal_switches": 13
+  },
+  {
+    "episode": 499,
+    "reward": -6108.5,
+    "steps": 200,
+    "car_wait_avg": 17.26736472945892,
+    "ped_wait_avg": 9.597795591182365,
+    "signal_switches": 13
+  },
+  {
+    "episode": 500,
+    "reward": -6014.0,
+    "steps": 200,
+    "car_wait_avg": 17.2678,
+    "ped_wait_avg": 9.59878,
+    "signal_switches": 13
+  },
+  {
+    "episode": 501,
+    "reward": -5926.5,
+    "steps": 200,
+    "car_wait_avg": 17.269540918163674,
+    "ped_wait_avg": 9.593343313373254,
+    "signal_switches": 13
+  },
+  {
+    "episode": 502,
+    "reward": -5824.5,
+    "steps": 200,
+    "car_wait_avg": 17.26889442231076,
+    "ped_wait_avg": 9.5923406374502,
+    "signal_switches": 13
+  },
+  {
+    "episode": 503,
+    "reward": -5772.0,
+    "steps": 200,
+    "car_wait_avg": 17.26928429423459,
+    "ped_wait_avg": 9.588737574552685,
+    "signal_switches": 13
+  },
+  {
+    "episode": 504,
+    "reward": -6143.0,
+    "steps": 200,
+    "car_wait_avg": 17.270744047619047,
+    "ped_wait_avg": 9.58780753968254,
+    "signal_switches": 13
+  },
+  {
+    "episode": 505,
+    "reward": -5930.5,
+    "steps": 200,
+    "car_wait_avg": 17.27010891089109,
+    "ped_wait_avg": 9.589079207920792,
+    "signal_switches": 13
+  },
+  {
+    "episode": 506,
+    "reward": -6404.5,
+    "steps": 200,
+    "car_wait_avg": 17.270266798418973,
+    "ped_wait_avg": 9.598310276679841,
+    "signal_switches": 13
+  },
+  {
+    "episode": 507,
+    "reward": -6153.5,
+    "steps": 200,
+    "car_wait_avg": 17.270749506903353,
+    "ped_wait_avg": 9.601065088757396,
+    "signal_switches": 13
+  },
+  {
+    "episode": 508,
+    "reward": -5772.0,
+    "steps": 200,
+    "car_wait_avg": 17.2725,
+    "ped_wait_avg": 9.592165354330708,
+    "signal_switches": 13
+  },
+  {
+    "episode": 509,
+    "reward": -6105.0,
+    "steps": 200,
+    "car_wait_avg": 17.272416502946953,
+    "ped_wait_avg": 9.596306483300589,
+    "signal_switches": 13
+  },
+  {
+    "episode": 510,
+    "reward": -5637.0,
+    "steps": 200,
+    "car_wait_avg": 17.271392156862746,
+    "ped_wait_avg": 9.593931372549019,
+    "signal_switches": 13
+  },
+  {
+    "episode": 511,
+    "reward": -6178.5,
+    "steps": 200,
+    "car_wait_avg": 17.271252446183954,
+    "ped_wait_avg": 9.598737769080234,
+    "signal_switches": 13
+  },
+  {
+    "episode": 512,
+    "reward": -5782.5,
+    "steps": 200,
+    "car_wait_avg": 17.268564453125,
+    "ped_wait_avg": 9.604609375,
+    "signal_switches": 13
+  },
+  {
+    "episode": 513,
+    "reward": -6256.0,
+    "steps": 200,
+    "car_wait_avg": 17.268684210526317,
+    "ped_wait_avg": 9.611500974658869,
+    "signal_switches": 13
+  },
+  {
+    "episode": 514,
+    "reward": -5741.5,
+    "steps": 200,
+    "car_wait_avg": 17.26934824902724,
+    "ped_wait_avg": 9.606303501945526,
+    "signal_switches": 13
+  },
+  {
+    "episode": 515,
+    "reward": -5813.5,
+    "steps": 200,
+    "car_wait_avg": 17.269514563106796,
+    "ped_wait_avg": 9.602864077669903,
+    "signal_switches": 13
+  },
+  {
+    "episode": 516,
+    "reward": -6032.0,
+    "steps": 200,
+    "car_wait_avg": 17.269922480620156,
+    "ped_wait_avg": 9.601676356589147,
+    "signal_switches": 13
+  },
+  {
+    "episode": 517,
+    "reward": -5695.5,
+    "steps": 200,
+    "car_wait_avg": 17.268510638297872,
+    "ped_wait_avg": 9.603152804642166,
+    "signal_switches": 13
+  },
+  {
+    "episode": 518,
+    "reward": -5911.0,
+    "steps": 200,
+    "car_wait_avg": 17.267915057915058,
+    "ped_wait_avg": 9.600444015444015,
+    "signal_switches": 13
+  },
+  {
+    "episode": 519,
+    "reward": -5524.5,
+    "steps": 200,
+    "car_wait_avg": 17.266589595375724,
+    "ped_wait_avg": 9.597919075144508,
+    "signal_switches": 13
+  },
+  {
+    "episode": 520,
+    "reward": -5867.5,
+    "steps": 200,
+    "car_wait_avg": 17.265740384615384,
+    "ped_wait_avg": 9.597846153846154,
+    "signal_switches": 13
+  },
+  {
+    "episode": 521,
+    "reward": -5581.5,
+    "steps": 200,
+    "car_wait_avg": 17.265259117082532,
+    "ped_wait_avg": 9.590595009596928,
+    "signal_switches": 13
+  },
+  {
+    "episode": 522,
+    "reward": -5960.0,
+    "steps": 200,
+    "car_wait_avg": 17.26449233716475,
+    "ped_wait_avg": 9.59345785440613,
+    "signal_switches": 13
+  },
+  {
+    "episode": 523,
+    "reward": -6330.5,
+    "steps": 200,
+    "car_wait_avg": 17.265764818355642,
+    "ped_wait_avg": 9.597055449330783,
+    "signal_switches": 13
+  },
+  {
+    "episode": 524,
+    "reward": -5553.0,
+    "steps": 200,
+    "car_wait_avg": 17.265486641221376,
+    "ped_wait_avg": 9.589618320610686,
+    "signal_switches": 13
+  },
+  {
+    "episode": 525,
+    "reward": -5965.0,
+    "steps": 200,
+    "car_wait_avg": 17.266133333333332,
+    "ped_wait_avg": 9.587714285714286,
+    "signal_switches": 13
+  },
+  {
+    "episode": 526,
+    "reward": -5978.5,
+    "steps": 200,
+    "car_wait_avg": 17.2662072243346,
+    "ped_wait_avg": 9.589344106463878,
+    "signal_switches": 13
+  },
+  {
+    "episode": 527,
+    "reward": -6291.0,
+    "steps": 200,
+    "car_wait_avg": 17.267836812144214,
+    "ped_wait_avg": 9.590645161290322,
+    "signal_switches": 13
+  },
+  {
+    "episode": 528,
+    "reward": -5919.0,
+    "steps": 200,
+    "car_wait_avg": 17.267784090909092,
+    "ped_wait_avg": 9.591297348484849,
+    "signal_switches": 13
+  },
+  {
+    "episode": 529,
+    "reward": -6153.0,
+    "steps": 200,
+    "car_wait_avg": 17.269603024574668,
+    "ped_wait_avg": 9.589962192816635,
+    "signal_switches": 13
+  },
+  {
+    "episode": 530,
+    "reward": -5610.5,
+    "steps": 200,
+    "car_wait_avg": 17.26833962264151,
+    "ped_wait_avg": 9.58916037735849,
+    "signal_switches": 13
+  },
+  {
+    "episode": 531,
+    "reward": -5725.0,
+    "steps": 200,
+    "car_wait_avg": 17.267278719397364,
+    "ped_wait_avg": 9.589265536723165,
+    "signal_switches": 13
+  },
+  {
+    "episode": 532,
+    "reward": -6321.0,
+    "steps": 200,
+    "car_wait_avg": 17.267575187969925,
+    "ped_wait_avg": 9.59421992481203,
+    "signal_switches": 13
+  },
+  {
+    "episode": 533,
+    "reward": -5862.0,
+    "steps": 200,
+    "car_wait_avg": 17.268339587242025,
+    "ped_wait_avg": 9.591238273921201,
+    "signal_switches": 13
+  },
+  {
+    "episode": 534,
+    "reward": -6316.5,
+    "steps": 200,
+    "car_wait_avg": 17.269672284644194,
+    "ped_wait_avg": 9.592415730337079,
+    "signal_switches": 13
+  },
+  {
+    "episode": 535,
+    "reward": -5544.5,
+    "steps": 200,
+    "car_wait_avg": 17.269747663551403,
+    "ped_wait_avg": 9.585514018691589,
+    "signal_switches": 13
+  },
+  {
+    "episode": 536,
+    "reward": -6111.5,
+    "steps": 200,
+    "car_wait_avg": 17.271100746268658,
+    "ped_wait_avg": 9.583143656716418,
+    "signal_switches": 13
+  },
+  {
+    "episode": 537,
+    "reward": -6046.0,
+    "steps": 200,
+    "car_wait_avg": 17.271014897579143,
+    "ped_wait_avg": 9.586797020484171,
+    "signal_switches": 13
+  },
+  {
+    "episode": 538,
+    "reward": -6611.5,
+    "steps": 200,
+    "car_wait_avg": 17.272806691449816,
+    "ped_wait_avg": 9.592156133828997,
+    "signal_switches": 13
+  },
+  {
+    "episode": 539,
+    "reward": -6087.0,
+    "steps": 200,
+    "car_wait_avg": 17.274276437847867,
+    "ped_wait_avg": 9.589610389610389,
+    "signal_switches": 13
+  },
+  {
+    "episode": 540,
+    "reward": -6074.0,
+    "steps": 200,
+    "car_wait_avg": 17.274962962962963,
+    "ped_wait_avg": 9.590592592592593,
+    "signal_switches": 13
+  },
+  {
+    "episode": 541,
+    "reward": -6100.5,
+    "steps": 200,
+    "car_wait_avg": 17.277033271719038,
+    "ped_wait_avg": 9.5865988909427,
+    "signal_switches": 13
+  },
+  {
+    "episode": 542,
+    "reward": -5804.0,
+    "steps": 200,
+    "car_wait_avg": 17.27681734317343,
+    "ped_wait_avg": 9.584815498154981,
+    "signal_switches": 13
+  },
+  {
+    "episode": 543,
+    "reward": -5612.5,
+    "steps": 200,
+    "car_wait_avg": 17.2745211786372,
+    "ped_wait_avg": 9.585073664825046,
+    "signal_switches": 13
+  },
+  {
+    "episode": 544,
+    "reward": -5954.0,
+    "steps": 200,
+    "car_wait_avg": 17.27532169117647,
+    "ped_wait_avg": 9.583336397058824,
+    "signal_switches": 13
+  },
+  {
+    "episode": 545,
+    "reward": -6041.5,
+    "steps": 200,
+    "car_wait_avg": 17.27543119266055,
+    "ped_wait_avg": 9.586,
+    "signal_switches": 13
+  },
+  {
+    "episode": 546,
+    "reward": -5654.5,
+    "steps": 200,
+    "car_wait_avg": 17.27537545787546,
+    "ped_wait_avg": 9.583333333333334,
+    "signal_switches": 13
+  },
+  {
+    "episode": 547,
+    "reward": -5972.5,
+    "steps": 200,
+    "car_wait_avg": 17.2741407678245,
+    "ped_wait_avg": 9.587330895795247,
+    "signal_switches": 13
+  },
+  {
+    "episode": 548,
+    "reward": -6604.0,
+    "steps": 200,
+    "car_wait_avg": 17.276213503649636,
+    "ped_wait_avg": 9.592883211678831,
+    "signal_switches": 13
+  },
+  {
+    "episode": 549,
+    "reward": -6261.0,
+    "steps": 200,
+    "car_wait_avg": 17.27722222222222,
+    "ped_wait_avg": 9.595182149362477,
+    "signal_switches": 13
+  },
+  {
+    "episode": 550,
+    "reward": -5517.0,
+    "steps": 200,
+    "car_wait_avg": 17.275709090909093,
+    "ped_wait_avg": 9.59239090909091,
+    "signal_switches": 13
+  },
+  {
+    "episode": 551,
+    "reward": -6126.0,
+    "steps": 200,
+    "car_wait_avg": 17.276978221415607,
+    "ped_wait_avg": 9.591515426497278,
+    "signal_switches": 13
+  },
+  {
+    "episode": 552,
+    "reward": -6144.0,
+    "steps": 200,
+    "car_wait_avg": 17.277826086956523,
+    "ped_wait_avg": 9.593233695652174,
+    "signal_switches": 13
+  },
+  {
+    "episode": 553,
+    "reward": -5895.5,
+    "steps": 200,
+    "car_wait_avg": 17.277558770343582,
+    "ped_wait_avg": 9.592016274864376,
+    "signal_switches": 13
+  },
+  {
+    "episode": 554,
+    "reward": -5868.0,
+    "steps": 200,
+    "car_wait_avg": 17.2785559566787,
+    "ped_wait_avg": 9.58865523465704,
+    "signal_switches": 13
+  },
+  {
+    "episode": 555,
+    "reward": -5351.5,
+    "steps": 200,
+    "car_wait_avg": 17.277504504504506,
+    "ped_wait_avg": 9.580198198198199,
+    "signal_switches": 13
+  },
+  {
+    "episode": 556,
+    "reward": -6017.0,
+    "steps": 200,
+    "car_wait_avg": 17.277221223021584,
+    "ped_wait_avg": 9.583884892086331,
+    "signal_switches": 13
+  },
+  {
+    "episode": 557,
+    "reward": -6017.5,
+    "steps": 200,
+    "car_wait_avg": 17.277351885098742,
+    "ped_wait_avg": 9.583473967684021,
+    "signal_switches": 13
+  },
+  {
+    "episode": 558,
+    "reward": -6048.0,
+    "steps": 200,
+    "car_wait_avg": 17.2778853046595,
+    "ped_wait_avg": 9.58307347670251,
+    "signal_switches": 13
+  },
+  {
+    "episode": 559,
+    "reward": -5704.5,
+    "steps": 200,
+    "car_wait_avg": 17.278577817531307,
+    "ped_wait_avg": 9.576708407871198,
+    "signal_switches": 13
+  },
+  {
+    "episode": 560,
+    "reward": -6163.0,
+    "steps": 200,
+    "car_wait_avg": 17.278714285714287,
+    "ped_wait_avg": 9.57857142857143,
+    "signal_switches": 13
+  },
+  {
+    "episode": 561,
+    "reward": -6060.5,
+    "steps": 200,
+    "car_wait_avg": 17.279188948306594,
+    "ped_wait_avg": 9.578395721925133,
+    "signal_switches": 13
+  },
+  {
+    "episode": 562,
+    "reward": -6197.0,
+    "steps": 200,
+    "car_wait_avg": 17.279074733096085,
+    "ped_wait_avg": 9.583451957295374,
+    "signal_switches": 13
+  },
+  {
+    "episode": 563,
+    "reward": -6419.0,
+    "steps": 200,
+    "car_wait_avg": 17.281056838365895,
+    "ped_wait_avg": 9.586252220248667,
+    "signal_switches": 13
+  },
+  {
+    "episode": 564,
+    "reward": -6049.5,
+    "steps": 200,
+    "car_wait_avg": 17.2825,
+    "ped_wait_avg": 9.58436170212766,
+    "signal_switches": 13
+  },
+  {
+    "episode": 565,
+    "reward": -5726.5,
+    "steps": 200,
+    "car_wait_avg": 17.281637168141593,
+    "ped_wait_avg": 9.584575221238937,
+    "signal_switches": 13
+  },
+  {
+    "episode": 566,
+    "reward": -5750.5,
+    "steps": 200,
+    "car_wait_avg": 17.280980565371024,
+    "ped_wait_avg": 9.58434628975265,
+    "signal_switches": 13
+  },
+  {
+    "episode": 567,
+    "reward": -4907.0,
+    "steps": 200,
+    "car_wait_avg": 17.278783068783067,
+    "ped_wait_avg": 9.5744708994709,
+    "signal_switches": 13
+  },
+  {
+    "episode": 568,
+    "reward": -6196.5,
+    "steps": 200,
+    "car_wait_avg": 17.278829225352112,
+    "ped_wait_avg": 9.575950704225352,
+    "signal_switches": 13
+  },
+  {
+    "episode": 569,
+    "reward": -6007.0,
+    "steps": 200,
+    "car_wait_avg": 17.28042179261863,
+    "ped_wait_avg": 9.571054481546573,
+    "signal_switches": 13
+  },
+  {
+    "episode": 570,
+    "reward": -5701.5,
+    "steps": 200,
+    "car_wait_avg": 17.279859649122805,
+    "ped_wait_avg": 9.569543859649123,
+    "signal_switches": 13
+  },
+  {
+    "episode": 571,
+    "reward": -6157.0,
+    "steps": 200,
+    "car_wait_avg": 17.28056917688266,
+    "ped_wait_avg": 9.570674255691769,
+    "signal_switches": 13
+  },
+  {
+    "episode": 572,
+    "reward": -5714.5,
+    "steps": 200,
+    "car_wait_avg": 17.27820804195804,
+    "ped_wait_avg": 9.574353146853147,
+    "signal_switches": 13
+  },
+  {
+    "episode": 573,
+    "reward": -5604.5,
+    "steps": 200,
+    "car_wait_avg": 17.277024432809775,
+    "ped_wait_avg": 9.572844677137871,
+    "signal_switches": 13
+  },
+  {
+    "episode": 574,
+    "reward": -6293.0,
+    "steps": 200,
+    "car_wait_avg": 17.277848432055748,
+    "ped_wait_avg": 9.57670731707317,
+    "signal_switches": 13
+  },
+  {
+    "episode": 575,
+    "reward": -5996.5,
+    "steps": 200,
+    "car_wait_avg": 17.27818260869565,
+    "ped_wait_avg": 9.576417391304348,
+    "signal_switches": 13
+  },
+  {
+    "episode": 576,
+    "reward": -5576.5,
+    "steps": 200,
+    "car_wait_avg": 17.27859375,
+    "ped_wait_avg": 9.569670138888888,
+    "signal_switches": 13
+  },
+  {
+    "episode": 577,
+    "reward": -5831.0,
+    "steps": 200,
+    "car_wait_avg": 17.276403812824956,
+    "ped_wait_avg": 9.569722703639515,
+    "signal_switches": 13
+  },
+  {
+    "episode": 578,
+    "reward": -5570.5,
+    "steps": 200,
+    "car_wait_avg": 17.275320069204152,
+    "ped_wait_avg": 9.56742214532872,
+    "signal_switches": 13
+  },
+  {
+    "episode": 579,
+    "reward": -5797.5,
+    "steps": 200,
+    "car_wait_avg": 17.274896373056993,
+    "ped_wait_avg": 9.567737478411054,
+    "signal_switches": 13
+  },
+  {
+    "episode": 580,
+    "reward": -6286.0,
+    "steps": 200,
+    "car_wait_avg": 17.275491379310346,
+    "ped_wait_avg": 9.571956896551724,
+    "signal_switches": 13
+  },
+  {
+    "episode": 581,
+    "reward": -5611.0,
+    "steps": 200,
+    "car_wait_avg": 17.274543889845095,
+    "ped_wait_avg": 9.569845094664371,
+    "signal_switches": 13
+  },
+  {
+    "episode": 582,
+    "reward": -6049.0,
+    "steps": 200,
+    "car_wait_avg": 17.27507731958763,
+    "ped_wait_avg": 9.570266323024056,
+    "signal_switches": 13
+  },
+  {
+    "episode": 583,
+    "reward": -6256.0,
+    "steps": 200,
+    "car_wait_avg": 17.2771269296741,
+    "ped_wait_avg": 9.568962264150944,
+    "signal_switches": 13
+  },
+  {
+    "episode": 584,
+    "reward": -5921.5,
+    "steps": 200,
+    "car_wait_avg": 17.278527397260273,
+    "ped_wait_avg": 9.56396404109589,
+    "signal_switches": 13
+  },
+  {
+    "episode": 585,
+    "reward": -5395.0,
+    "steps": 200,
+    "car_wait_avg": 17.276863247863247,
+    "ped_wait_avg": 9.561162393162393,
+    "signal_switches": 13
+  },
+  {
+    "episode": 586,
+    "reward": -6262.5,
+    "steps": 200,
+    "car_wait_avg": 17.27779010238908,
+    "ped_wait_avg": 9.562841296928328,
+    "signal_switches": 13
+  },
+  {
+    "episode": 587,
+    "reward": -5984.0,
+    "steps": 200,
+    "car_wait_avg": 17.27818568994889,
+    "ped_wait_avg": 9.561371379897786,
+    "signal_switches": 13
+  },
+  {
+    "episode": 588,
+    "reward": -5592.5,
+    "steps": 200,
+    "car_wait_avg": 17.276190476190475,
+    "ped_wait_avg": 9.562100340136054,
+    "signal_switches": 13
+  },
+  {
+    "episode": 589,
+    "reward": -6187.5,
+    "steps": 200,
+    "car_wait_avg": 17.276332767402376,
+    "ped_wait_avg": 9.564329371816639,
+    "signal_switches": 13
+  },
+  {
+    "episode": 590,
+    "reward": -5932.0,
+    "steps": 200,
+    "car_wait_avg": 17.277305084745763,
+    "ped_wait_avg": 9.560694915254237,
+    "signal_switches": 13
+  },
+  {
+    "episode": 591,
+    "reward": -5933.0,
+    "steps": 200,
+    "car_wait_avg": 17.277055837563452,
+    "ped_wait_avg": 9.561632825719121,
+    "signal_switches": 13
+  },
+  {
+    "episode": 592,
+    "reward": -6271.0,
+    "steps": 200,
+    "car_wait_avg": 17.278994932432433,
+    "ped_wait_avg": 9.561131756756756,
+    "signal_switches": 13
+  },
+  {
+    "episode": 593,
+    "reward": -5771.5,
+    "steps": 200,
+    "car_wait_avg": 17.278026981450253,
+    "ped_wait_avg": 9.56039629005059,
+    "signal_switches": 13
+  },
+  {
+    "episode": 594,
+    "reward": -6117.0,
+    "steps": 200,
+    "car_wait_avg": 17.279410774410774,
+    "ped_wait_avg": 9.55915824915825,
+    "signal_switches": 13
+  },
+  {
+    "episode": 595,
+    "reward": -6329.5,
+    "steps": 200,
+    "car_wait_avg": 17.279823529411765,
+    "ped_wait_avg": 9.562159663865547,
+    "signal_switches": 13
+  },
+  {
+    "episode": 596,
+    "reward": -6305.5,
+    "steps": 200,
+    "car_wait_avg": 17.279521812080535,
+    "ped_wait_avg": 9.567709731543625,
+    "signal_switches": 13
+  },
+  {
+    "episode": 597,
+    "reward": -6201.5,
+    "steps": 200,
+    "car_wait_avg": 17.28,
+    "ped_wait_avg": 9.569053601340034,
+    "signal_switches": 13
+  },
+  {
+    "episode": 598,
+    "reward": -5682.0,
+    "steps": 200,
+    "car_wait_avg": 17.277976588628764,
+    "ped_wait_avg": 9.57084448160535,
+    "signal_switches": 13
+  },
+  {
+    "episode": 599,
+    "reward": -5766.0,
+    "steps": 200,
+    "car_wait_avg": 17.278171953255427,
+    "ped_wait_avg": 9.568146911519198,
+    "signal_switches": 13
+  },
+  {
+    "episode": 600,
+    "reward": -6605.5,
+    "steps": 200,
+    "car_wait_avg": 17.279183333333332,
+    "ped_wait_avg": 9.5764,
+    "signal_switches": 13
+  }
+]
